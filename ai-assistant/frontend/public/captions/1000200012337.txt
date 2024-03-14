@@ -1,0 +1,11 @@
+ The image is about Disseminated Intravascular Coagulation (DIC), a rare disorder in which the blood's ability to clot is disrupted, leading to abnormal bleeding and clotting. 
+
+The first part of the image provides an overview of DIC, explaining that it affects the blood's ability to clot and stop bleeding, resulting in the formation of abnormal clumps in blood vessels. These clumps use up clotting factors, leading to decreased blood viscosity and subsequent bleeding. DIC can be caused by various conditions such as cancer, pregnancy-related complications, massive tissue injury, infections, and allergic or toxic reactions. 
+
+The second part of the image delves into the pathophysiology of DIC, explaining that the basic processes involved are coagulation and fibrinolysis. DIC is characterized by widespread clotting in some sites and bleeding in others. The triggering event in DIC is the release of tissue factor (TF), which is normally only present on the surfaces of certain cells. However, in DIC, TF is released into the general circulation, leading to the activation of the coagulation cascade and the formation of thrombin and fibrin. 
+
+The third part of the image presents a scoring system for DIC, which is used to assess the severity of the disorder. The system takes into account various parameters such as platelet count, D-dimer levels, prothrombin time (PT), and fibrinogen levels. A score of 5 or more is indicative of overt DIC, with higher scores correlating with increased mortality. 
+
+The final part of the image shows a blood film image of DIC, which reveals the presence of red blood cell fragments (schistocytes). 
+
+In summary, DIC is a complex disorder involving abnormal blood clotting and bleeding. It can be caused by various conditions and is characterized by widespread clotting and bleeding in different sites of the body. The pathophysiology involves the release of tissue factor and the activation of the coagulation cascade. The scoring system helps in assessing the severity of DIC and guiding treatment decisions.

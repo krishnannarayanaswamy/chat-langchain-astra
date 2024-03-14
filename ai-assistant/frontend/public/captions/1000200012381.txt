@@ -1,0 +1,80 @@
+ +
++
+24
+CYSTIC FIBROSIS
++
+•
+Cystic fibrosis is an autosomal recessive genetic disorder
+characterised by the dysfunction of the cystic fibrosis
+transmembrane conductance regulator (CFTR) protein.
+This results in the accumulation of viscous mucus in the
+respiratory and gastrointestinal tracts, leading to chronic
+respiratory infections, pancreatic insufficiency, and
+malabsorption of essential nutrients.
+Epidemiology
+•
+Cystic fibrosis is a prevalent genetic disorder affecting
+approximately 70,000 individuals worldwide, with the
+highest incidence found among Caucasians of Northern
+European descent.
+Aetiology and Genetics
+•
+•
+CF is an autosomal recessive disorder caused by a mutation
+in the cystic fibrosis transmembrane conductance regulator
+(CFTR) gene.
+The AF508 mutation, prevalent in cystic fibrosis, involves
+the removal of three nucleotides, causing the loss of
+phenylalanine at the protein's 508th position.
+This mutation disrupts the CFTR protein's structure and
+function, leading to disease manifestations.
+Pathophysiology and Diagnosis
+Refer Flow Chart 24.1
+Clinical Features
+•
+•
+Respiratory system:
+○ Persistent cough
+○ Recurrent respiratory infections, particularly involving
+Pseudomonas aeruginosa and Staphylococcus aureus
+O Bronchiectasis
+○ Nasal polyps
+O Sinusitis
+• Hemoptysis (coughing up blood)
+○ Dyspnea (shortness of breath)
+Gastrointestinal system:
+• Pancreatic insufficiency, leading to malabsorption of
+nutrients, particularly fats
+○ Steatorrhea (fatty, foul-smelling stools)
+○ Rectal prolapse
+○ Biliary cirrhosis
+•
+•
+Reproductive system:
+• Infertility in males due to the congenital bilateral absence
+of the vas deferens
+• Infertility or reduced fertility in females due to thick
+cervical mucus
+Endocrine system:
+o Cystic fibrosis-related diabetes (CFRD)
+Other manifestations:
+• Digital clubbing
+○ Distal intestinal obstruction syndrome (DIOS)
+o Meconium ileus in newborns
+• Electrolyte imbalances, particularly during periods of
+dehydration or heat stress
+Cystic Fibrosis
+A- Autosomal recessive
+B- Bronchiectasis
+C- Chloride channel block/ciliary dysfunction
+D- Diabetis mellitus
+E- Exocrine pancreatic failure
+F- Fat malabsorption
+G- Gall stone/ gene mutation on chromosome 7
+H- Hepatic chirrhosis/Hemoptysis
+I- Intestinal obstruction/infertility
+Diagnosis
+Refer Table 24.1
+Treatment
+Refer Table 24.2
+77

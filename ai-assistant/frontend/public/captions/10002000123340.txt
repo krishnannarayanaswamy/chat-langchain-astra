@@ -1,0 +1,15 @@
+ Image 1:
+This is a table that shows the different types of kits that are used to treat sexually transmitted diseases. The table lists the name of the kit, the color of the kit, and the drugs that are included in the kit.
+
+The 4th kit is the blue kit. It is used to treat gonorrhea and chlamydia. The drugs that are included in the 4th kit are azithromycin and doxycycline.
+
+The 5th kit is the red kit. It is used to treat herpes. The drug that is included in the 5th kit is acyclovir.
+
+The 6th kit is the yellow kit. It is used to treat pelvic inflammatory disease. The drugs that are included in the 6th kit are cefixime, metronidazole, and doxycycline.
+
+The 7th kit is the black kit. It is used to treat buboes. The drugs that are included in the 7th kit are azithromycin and doxycycline.
+
+To remember:
+- Both B kits (Buy and Black) have Doxy and Azithro.
+- Buy is for genital ulcer disease.
+- Black is for Bubo.

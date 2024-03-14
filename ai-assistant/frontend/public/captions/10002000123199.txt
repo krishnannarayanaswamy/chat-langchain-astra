@@ -1,0 +1,11 @@
+ The image is a table that summarizes the lab tests and imaging tests used to detect kidney stones. 
+
+The lab tests are:
+- Urinalysis: This test helps to detect the presence of blood in the urine. The presence of WBC and bacteria in the urine can indicate a urinary tract infection.
+- Blood tests: These tests can help to detect increased levels of minerals in the blood, which can be indicative of kidney stones.
+
+The imaging tests are:
+- Abdominal X-ray: This test can help to detect the location of kidney stones in the renal system. However, not all stones can be detected by this method.
+- CT scan: This test involves injecting a contrast medium into the patient's body before taking the scan. This helps to improve the visibility of the kidney stones and allows for more accurate detection of their size and location.
+
+In addition to these tests, other methods such as ultrasound and MRI may also be used to detect kidney stones. The choice of test will depend on the specific situation and the suspected cause of the stones.

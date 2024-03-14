@@ -1,0 +1,18 @@
+ The image is a table that shows the WHO classification of pneumonia in children aged 2 months to 5 years. It also includes the treatment and where to treat the child.
+The signs and symptoms of pneumonia include:
+• Cough or cold
+• No fast breathing, chest indrawing or indications of severe illness
+• Increased respiratory rate
+• Chest indrawing
+• Cyanosis, severe chest indrawing, inability to feed
+The WHO classification of pneumonia is as follows:
+• No pneumonia
+• Pneumonia
+• Severe pneumonia
+• Very severe pneumonia
+The treatment for pneumonia depends on the severity of the illness.
+• No pneumonia: Home remedies
+• Pneumonia: Cotrimoxazole or amoxicillin
+• Severe pneumonia: IV/IM penicillin
+• Very severe pneumonia: IV penicillin + gentamycin
+The child should be treated at home if they have no pneumonia or mild pneumonia. If the child has severe or very severe pneumonia, they should be treated in a hospital.

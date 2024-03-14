@@ -1,0 +1,22 @@
+ The image is a flowchart that describes the development of chronic lymphocytic leukemia (CLL). 
+
+The text on the left side of the flowchart describes the genetic abnormalities that can lead to CLL. 
+The text on the right side of the flowchart describes the symptoms of CLL. 
+
+The flowchart shows that CLL is a type of cancer that starts in the B cells, which are a type of white blood cell. 
+- The cancer cells can build up in the lymph nodes, spleen, bone marrow, and blood. 
+- CLL is a slow-growing cancer, and it can take many years for symptoms to develop. 
+
+The most common symptoms of CLL are:
+- weight loss
+- fatigue
+- night sweats
+- fever
+- chills
+- swollen lymph nodes
+- anemia
+- thrombocytopenia
+- easy bleeding
+- bruising
+
+CLL is diagnosed with a blood test and a bone marrow biopsy. Treatment for CLL depends on the stage of the disease and the patient's age and overall health. Treatment options include chemotherapy, radiation therapy, targeted therapy, and stem cell transplant.

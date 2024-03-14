@@ -1,0 +1,17 @@
+ **Assistant**
+
+The image is a table that lists the different types of lysosomal storage diseases, the enzyme deficiency that causes each disease, the substrate that accumulates in the lysosomes, and the clinical findings that are associated with each disease.
+
+**Lysosomal storage diseases** are a group of inherited disorders that are caused by a deficiency of an enzyme that is responsible for breaking down a specific type of molecule. This leads to the accumulation of the molecule in the lysosomes, which are the organelles that are responsible for breaking down waste products. The accumulation of the molecule can lead to a variety of symptoms, depending on the type of molecule that is accumulating.
+
+**Gaucher disease** is a lysosomal storage disease that is caused by a deficiency of the enzyme glucocerebrosidase. This leads to the accumulation of glucocerebroside in the lysosomes. Gaucher disease can cause a variety of symptoms, including hepatosplenomegaly, anemia, thrombocytopenia, bone pain, and neurological problems.
+
+**Fabry disease** is a lysosomal storage disease that is caused by a deficiency of the enzyme a-galactosidase A. This leads to the accumulation of globotriaosylceramide in the lysosomes. Fabry disease can cause a variety of symptoms, including angiokeratomas, kidney dysfunction, cardiomyopathy, and neuropathy.
+
+**Tay-Sachs disease** is a lysosomal storage disease that is caused by a deficiency of the enzyme hexosaminidase A. This leads to the accumulation of GM2 ganglioside in the lysosomes. Tay-Sachs disease can cause a variety of symptoms, including progressive neurodegeneration, developmental regression, and cherry-red spot (retina).
+
+**Niemann-Pick disease** is a lysosomal storage disease that is caused by a deficiency of the enzyme acid sphingomyelinase. This leads to the accumulation of sphingomyelin in the lysosomes. Niemann-Pick disease can cause a variety of symptoms, including hepatosplenomegaly, neurodegeneration, lung disease, and developmental regression.
+
+**Krabbe disease** is a lysosomal storage disease that is caused by a deficiency of the enzyme galactocerebrosidase. This leads to the accumulation of galactosylceramide in the lysosomes. Krabbe disease can cause a variety of symptoms, including progressive neurodegeneration, irritability, muscle stiffness, and developmental regression.
+
+**Metachromatic leukodystrophy** is a lysosomal storage disease that is caused by a deficiency of the enzyme arylsulfatase A. This leads to the accumulation of sulfatides in the lysosomes. Metachromatic leukodystrophy can cause a variety of symptoms, including progressive neurodegeneration, muscle weakness, ataxia, and cognitive decline.

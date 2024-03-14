@@ -1,0 +1,13 @@
+ The image is about Malaria. It starts with a brief introduction to Malaria, then talks about the epidemiology of Malaria, the agent that causes Malaria, and the symptoms of Malaria. Finally, it provides a table summarizing the incubation period of different types of Malaria.
+
+Epidemiology of Malaria
+Malaria is more common in warm, humid climates with frequent rainfall. It is transmitted through the bite of an infected female Anopheles mosquito.
+
+Agent of Malaria
+The agent of Malaria is a protozoan parasite called Plasmodium. There are four different species of Plasmodium that can cause Malaria in humans: P. falciparum, P. vivax, P. ovale, and P. malariae.
+
+Symptoms of Malaria
+The symptoms of Malaria can vary depending on the species of Plasmodium that causes the infection. However, the most common symptoms include fever, chills, sweating, headache, muscle aches, and fatigue. In severe cases, Malaria can lead to anemia, kidney failure, and death.
+
+Incubation Period of Malaria
+The incubation period of Malaria is the time between the bite of an infected mosquito and the appearance of symptoms. The incubation period varies depending on the species of Plasmodium that causes the infection. For P. falciparum, the incubation period is typically 9-14 days. For P. vivax, the incubation period is typically 8-17 days. For P. ovale, the incubation period is typically 16-18 days. And for P. malariae, the incubation period is typically 18-40 days.

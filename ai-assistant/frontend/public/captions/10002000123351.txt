@@ -1,0 +1,30 @@
+ **Image Description**
+The image shows a table that summarizes the staging of nasopharyngeal angiofibroma. 
+The staging is based on the TNM system, which takes into account the size and location of the tumor, the presence of lymph node involvement, and the presence of distant metastases.
+
+**T staging**
+The T stage is based on the size and location of the tumor. 
+- T1 tumors are confined to the nasopharynx. 
+- T2 tumors extend into the paranasal sinuses or the skull base. 
+- T3 tumors extend into the orbit or the infratemporal fossa. 
+- T4 tumors involve the skull base and/or the neck.
+
+**N staging**
+The N stage is based on the presence of lymph node involvement. 
+- N0 means that there is no lymph node involvement. 
+- N1 means that there is lymph node involvement in the neck. 
+- N2 means that there is lymph node involvement in the mediastinum or the axilla. 
+- N3 means that there is lymph node involvement in the abdomen or the pelvis.
+
+**M staging**
+The M stage is based on the presence of distant metastases. 
+- M0 means that there are no distant metastases. 
+- M1 means that there are distant metastases.
+
+**Treatment**
+The treatment of nasopharyngeal angiofibroma depends on the stage of the disease. 
+- For early-stage tumors, surgery is the mainstay of treatment. 
+- For advanced-stage tumors, a combination of surgery, radiation therapy, and chemotherapy is used.
+
+**Prognosis**
+The prognosis of nasopharyngeal angiofibroma is generally good, with a 5-year survival rate of over 90%. However, the prognosis is worse for patients with advanced-stage disease.

@@ -1,0 +1,9 @@
+ The image is a flowchart that shows the steps in the diagnosis and management of deep vein thrombosis (DVT). 
+
+The first step is to determine if the patient has a proximal DVT or an iliofemoral DVT. If the patient has a proximal DVT, the next step is to determine if the patient has any contraindications to anticoagulation. If the patient does not have any contraindications, the next step is to start anticoagulation therapy. 
+
+If the patient has an iliofemoral DVT, the next step is to determine if the patient has a high clinical suspicion of iliofemoral DVT. If the patient does not have a high clinical suspicion of iliofemoral DVT, the next step is to consider the use of secondary diagnostic tests. If the patient does have a high clinical suspicion of iliofemoral DVT, the next step is to start anticoagulation therapy.
+
+The next step is to assess the patient for severe disease or phlegmasia cerulea dolens. If the patient does not have severe disease or phlegmasia cerulea dolens, the next step is to consider catheter-directed thrombolysis. If the patient does have severe disease or phlegmasia cerulea dolens, the next step is to start anticoagulation therapy.
+
+The final step is to follow up with the patient to ensure that the DVT is resolved.

@@ -1,0 +1,15 @@
+ **Mechanics of Breathing**
+
+**Quiet breathing**
+
+During quiet breathing, the diaphragm contracts and the abdominal muscles relax. This creates a negative pressure in the thoracic cavity, which causes air to flow into the lungs. The lungs are elastic and expand as air enters, creating a negative intrathoracic pressure. This pressure gradient allows for the exchange of carbon dioxide and oxygen at the alveolar-capillary membrane and keeps the airways open. 
+
+The diaphragm and intercostal muscles relax during expiration, causing the rib cage to drop and the abdominal muscles to contract. This increases the pressure in the thoracic cavity, forcing air out of the lungs.
+
+Airway resistance is the resistance to airflow in the airways. It is caused by the friction of air moving through the airways and can be increased by factors such as asthma, COPD, and chronic obstructive pulmonary disease (COPD).
+
+Lung compliance is the ability of the lungs to expand. It is influenced by factors such as lung elasticity, lung surface tension, and airway resistance. Decreased lung compliance makes it more difficult to inhale air, causing respiratory distress. Examples of conditions that can lead to decreased lung compliance include asthma, COPD, and pulmonary fibrosis.
+
+**Forced breathing**
+
+During forced breathing, the diaphragm contracts and the abdominal muscles

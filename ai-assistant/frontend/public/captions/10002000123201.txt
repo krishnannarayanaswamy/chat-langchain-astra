@@ -1,0 +1,21 @@
+ The image is a table that lists the diagnostic criteria for nephrotic syndrome. The table is divided into four columns. The first column lists the factor, the second column lists the criteria, the third column lists the treatment, and the fourth column lists the comments.
+
+The diagnostic criteria for nephrotic syndrome are:
+
+- Heavy proteinuria: Spot urine showing a protein-to-creatinine ratio of >3 to 3.5 mg protein/mg creatinine (300 to 350 mg/mmol) or 24-hour urine collection showing >3 to 3.5 g protein.
+- Hypoalbuminemia: Serum albumin <2.5 g per dL (25 g per L)*
+- Edema: Clinical evidence of peripheral edema
+- Hyperlipidemia: Severe hyperlipidemia, total cholesterol is often >350 mg per dL (9.06 mmol per L)
+
+The treatment for nephrotic syndrome includes:
+
+- Frusemide: 1-3 mg/kg/day
+- Spironolactone: 2.4 mg/kg/day
+- Metolazone: 0.1-0.3 mg/kg/day
+- Albumin: 20% 1 g/kg IV followed by IV frusemide
+
+The comments欄位の内容は次のとおりです。
+
+- No response (no weight loss or diuresis 48 h): Double dose of frusemide until diuresis* or maximum daily dose of frusemide (4-5 mg/kg/day) is reached
+- No response: Frusemide IV boles 1.3 mg/kg per dose. or infusion 0.1-1 me/kg per h*
+- No response: Albumin 20% 1 g/kg IV followed by IV frusemide"

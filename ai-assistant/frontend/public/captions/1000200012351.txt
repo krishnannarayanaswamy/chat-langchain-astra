@@ -1,0 +1,23 @@
+ The image shows a table of hormones and paracrines involved in digestion. The table includes the hormone or paracrine, the production site, and the actions of the hormone or paracrine.
+    
+    The hormones and paracrines involved in digestion are gastrin, gastric inhibitory peptide (GIP), histamine, serotonin, somatostatin, motilin, secretin, cholecystokinin, intestinal gastrin, and vasoactive intestinal peptide.
+    
+    Gastrin is produced by the G cells of the stomach mucosa. It increases HCl secretion from the parietal cells of the stomach, has a minor effect of stimulating gastric emptying, stimulates contraction of small intestine muscles, relaxes the ileocecal valve, and stimulates mass movements in the large intestine.
+    
+    Gastric inhibitory peptide (GIP) is produced by the duodenal mucosa. It inhibits HCl production in the stomach (a minor effect) and stimulates insulin release from the beta cells of the pancreas.
+    
+    Histamine is produced by the stomach mucosa. It activates parietal cells of the stomach to release HCl.
+    
+    Serotonin is produced by the stomach and duodenal mucosa. It causes stomach muscle constriction.
+    
+    Somatostatin is produced by the stomach and duodenal mucosa. It inhibits gastric secretion in the stomach of all products, inhibits pancreatic secretions, inhibits gastrointestinal blood flow and small intestine absorption, and inhibits gallbladder and liver contraction and bile release.
+    
+    Motilin is produced by the duodenal mucosa. It stimulates migrating motor complex of the proximal duodenum.
+    
+    Secretin is produced by the duodenal mucosa. It inhibits gastric gland secretion in the stomach and gastric motility during the gastric phase of secretion, increases the pancreas' output of pancreatic juice rich in bicarbonate ions while potentiating action of cholecystokinin, and increase the liver's bile output
+    
+    Cholecystokinin is produced by the duodenal mucosa. It inhibits secretory activity of the stomach, potentiates actions of secretin on the liver and pancreas, increases output of enzyme-rich pancreatic juice, stimulates the gallbladder to contract and expel stored bile, and relaxes the hepatopancreatic sphincter to allow bile and pancreatic juice to enter the duodenum
+    
+    Intestinal gastrin is produced by the duodenal mucosa. It stimulates the gastric glands of the stomach and motility In the small intestine, it stimulates buffer secretion, dilates capillaries, and relaxes smooth muscle; in the pancreas, it increases secretion; in the stomach, it inhibits acid secretion
+    
+    Vasoactive intestinal peptide is produced by the enteric neurons. It stimulates the gastric glands of the stomach and motility In the small intestine, it stimulates buffer secretion, dilates capillaries, and relaxes smooth muscle; in the pancreas, it increases secretion; in the stomach, it inhibits acid secretion

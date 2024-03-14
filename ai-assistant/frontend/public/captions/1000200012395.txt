@@ -1,0 +1,36 @@
+ **Table 27.2**
+
+|  | Atrial Systole | Ventricular Systole | Diastole |
+| :--- | :--- | :--- | :--- |
+| Chambers | Atrium contracts | Ventricle relaxed | Atrium relaxed |
+|  | Ventricle relaxed | From the ventricle to the aorta | Ventricle and atrium relaxed |
+| Blood flow | From atrium to ventricle |  |  |
+| Valves | AV valve open | AV valve closed | AV valve open |
+|  | Aortic valve closed | Aortic valve open | Aortic valve closed |
+
+**Diagram 27.3**
+
+End systolic pressure-volume relationship (ESPVR)
+
+1. End systole (AV closes)
+2. MV opening
+3. End-diastole (MV closes)
+4. AV opens
+
+Arterial elastance (Ea)
+
+Increased SVR.
+Decreased inotropy.
+
+Ejection
+
+Blood pressure
+
+Stroke volume
+
+End diastolic pressure-volume relationship (EDPVR)
+
+Increased preload
+Decreased preload
+
+Volume (fiber length)

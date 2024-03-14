@@ -1,0 +1,55 @@
+ **Glycogen Metabolism**
+Glycogen is a branched polymer of glucose that serves as a short-term energy store in the liver and skeletal muscle. It is synthesized from glucose in a process called glycogenesis and broken down into glucose in a process called glycogenolysis.
+
+**Glycogenesis**
+Glycogenesis is the process by which glucose is converted into glycogen. It occurs in the liver and skeletal muscle. The steps of glycogenesis are as follows:
+
+1. Glucose is phosphorylated by glucokinase to form glucose-6-phosphate.
+2. Glucose-6-phosphate is isomerized to fructose-6-phosphate.
+3. Fructose-6-phosphate is phosphorylated by phosphofructokinase to form fructose-1,6-bisphosphate.
+4. Fructose-1,6-bisphosphate is cleaved into two 3-carbon molecules, dihydroxyacetone phosphate and glyceraldehyde-3-phosphate.
+5. Dihydroxyacetone phosphate is isomerized to glyceraldehyde-3-phosphate.
+6. Glyceraldehyde-3-phosphate is oxidized to 1,3-bisphosphoglycerate.
+7. 1,3-Bisphosphoglycerate is reduced to 3-phosphoglycerate.
+8. 3-Phosphoglycerate is dehydrated to 2-phosphoglycerate.
+9. 2-Phosphoglycerate is phosphorylated to phosphoenolpyruvate.
+10. Phosphoenolpyruvate is converted to pyruvate.
+11. Pyruvate is transported into the mitochondria, where it is converted to acetyl-CoA.
+12. Acetyl-CoA is carboxylated to form malonyl-CoA.
+13. Malonyl-CoA is used to initiate the synthesis of glycogen.
+14. The first step in the synthesis of glycogen is the formation of UDP-glucose from glucose-1-phosphate and UTP.
+15. UDP-glucose is then added to the growing glycogen molecule by glycogen synthase.
+16. The branches in glycogen are formed by the action of branching enzyme.
+17. Glycogen is stored in the liver and skeletal muscle.
+
+**Glycogenolysis**
+Glycogenolysis is the process by which glycogen is broken down into glucose. It occurs in the liver and skeletal muscle. The steps of glycogenolysis are as follows:
+
+1. Glycogen is phosphorylated by glycogen phosphorylase to form glucose-1-phosphate.
+2. Glucose-1-phosphate is isomerized to glucose-6-phosphate.
+3. Glucose-6-phosphate is dephosphorylated by glucose-6-phosphatase to form glucose.
+4. Glucose is released into the bloodstream.
+
+**Regulation of Glycogen Metabolism**
+Glycogen metabolism is regulated by a number of hormones, including insulin, glucagon, and epinephrine.
+
+* Insulin stimulates glycogenesis and inhibits glycogenolysis.
+* Glucagon and epinephrine stimulate glycogenolysis and inhibit glycogenesis.
+
+**Glycogen Storage Diseases**
+The glycogen storage diseases are a group of inherited disorders that affect the metabolism of glycogen. These disorders can cause a variety of symptoms, including hypoglycemia, seizures, and muscle weakness.
+
+The most common glycogen storage disease is Pompe disease, which is caused by a deficiency of the enzyme acid alpha-glucosidase (GAA). GAA is responsible for breaking down glycogen into glucose. In Pompe disease, the lack of GAA leads to a build-up of glycogen in the lysosomes of cells, which can cause damage to the cells.
+
+Other glycogen storage diseases include:
+
+* Von Gierke disease, which is caused by a deficiency of the enzyme glucose-6-phosphatase.
+* Cori disease, which is caused by a deficiency of the enzyme glycogen phosphorylase.
+* McArdle disease, which is caused by a deficiency of the enzyme myophosphorylase.
+* Hers disease, which is caused by a deficiency of the enzyme UDP-glucose pyrophosphorylase.
+
+**Treatment of Glycogen Storage Diseases**
+The treatment of glycogen storage diseases depends on the specific disorder. Treatment may include dietary restrictions, medication, and enzyme replacement therapy.
+
+**Summary**
+Glycogen is a branched polymer of glucose that serves as a short-term energy store in the liver and skeletal muscle. Glycogenesis is the process by which glucose is converted into glycogen. Glycogenolysis is the process by which glycogen is broken down into glucose. Glycogen metabolism is regulated by a number of hormones, including insulin, glucagon, and epinephrine. The glycogen storage diseases are a group of inherited disorders that affect the metabolism of glycogen. These disorders can cause a variety of symptoms, including hypoglycemia, seizures, and muscle weakness. The treatment of glycogen storage diseases depends on the specific disorder. Treatment may include dietary restrictions, medication, and enzyme replacement therapy.

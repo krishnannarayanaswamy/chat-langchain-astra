@@ -1,0 +1,79 @@
+ Malaria index
+Annual Parasite incidence (API) is the number of confirmed cases per 1000 population in one year
+
+Investigations
+All clinically suspected malaria cases require laboratory examination and confirmation.
+History Collection
+Physical Examination
+M.P (Malaria Parasite) Test
+The Peripheral Smear
+Bone Marrow Smear
+CBC, TC, DC
+
+Differential diagnosis for uncomplicated malaria
+Upper respiratory tract infection (Pharyngitis, tonsillitis, ear infection), pneumonia, measles, dengue, influenza, typhoid fever.
+Remember that the patient may be suffering from more than one illness.
+Meningitis, otitis media (ear infection), tuberculosis, hypoglycemia.
+
+Malaria Management
+Management of Malaria includes Following Measures:
+Early Detection & Early Treatment
+Mosquito Control Measures
+
+Early Detection
+Early Detection of Fever Cases in the Community by House to House Visit by the Health Workers in Every 15 Days
+Early Administration of Chloroquine (CHQ) to All Fevers
+Collection of Blood Films (Thick & Thin) from Fever Cases & Laboratory Examinations for Malaria Parasite
+Administration of Medical Treatment to All Positive Cases of Malaria
+Refer Table 80.1
+
+Prevention and control
+Primary prevention
+Environmental improvement: Prevent mosquito breeding by removing water collections
+Anti mosquito measures
+mosquito rests – spray DDT on walls where mosquito breeds
+Anti larval measures – spray larvicide in the water where mosquito breeds
+Prevent mosquito bites by using mosquito nets
+Chemoprophylaxis - Chloroquine
+Secondary prevention
+Early diagnosis and treatment
+To prevent complications especially cerebral malaria
+To prevent morbidity due to malaria
+
+Community
+Types
+Chemoprophylaxis
+(Suppressive treatment)
+Therapeutic treatment
+Gametocidal treatment
+Radical treatment (To prevent relapse)
+Targets
+Sporozoites before they infect hepatocytes
+Merozoites in Erythrocytic phase
+Gametocytes
+Hypnozoites in liver
+Used in Case
+Travellers travelling to countries prone to endemic malaria
+Active infection
+Prevents creatin of resistant forms and spread of disease
+Primaquine for P. falciparum, Chloroquine for all other P. vivax and P. ovale infections
+Drugs
+Primaquine
+Chloroquine
+Mefloquine
+Doxycycline
+Doxycyclin
+Chloroquine
+Mefloquine
+Primaquine
+Table 80.1
+
+The image is a table that summarizes the different types of malaria drugs, their targets, and their uses. The drugs are divided into four categories: chemoprophylaxis, therapeutic treatment, gametocidal treatment, and radical treatment.
+
+Chemoprophylaxis is used to prevent malaria in people who are traveling to areas where the disease is common. The drugs used for chemoprophylaxis are primaquine and chloroquine.
+
+Therapeutic treatment is used to treat people who are already infected with malaria. The drugs used for therapeutic treatment are chloroquine, mefloquine, and doxycycline.
+
+Gametocidal treatment is used to kill the gametocytes, which are the sexual forms of the malaria parasite. The drugs used for gametocidal treatment are primaquine and chloroquine.
+
+Radical treatment is used to kill all of the malaria parasites in the body, including the hypnozoites, which are the dormant forms of the parasite. The drugs used for radical treatment are primaquine and chloroquine.

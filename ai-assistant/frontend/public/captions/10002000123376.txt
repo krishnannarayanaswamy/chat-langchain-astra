@@ -1,0 +1,64 @@
+ ## **CATARACT**
+
+**Definition**: Any opacity in the lens that hinders the optical homogeneity of the lens is known as cataract.
+
+**Classification**: A cataract can be congenital or acquired.
+
+**Congenital**
+- Infantile → <1 year
+- Developmental → >1 year
+
+**Acquired Cataract**
+This can be classified in 3 ways:
+- Anatomically
+- Maturity
+- Etiologically
+
+**Anatomically**
+We classify based on where the cataract starts from in the anatomy of an eye.
+- Anterior Subcapsular (ASC)
+- Anterior Cortical
+- Nuclear Cataract
+- Posterior Cortical Cataract
+- Posterior Subcapsular Cataract (PSC)/Cupuliform Cataract
+- Anterior Polar Cataract
+- Posterior Polar Cataract
+
+**Maturity**
+We can classify according to maturity as:
+- Immature - Some part of the lens is clear; some part is opaque.
+- Mature-All parts of the lens are opacified.
+- Hyper-mature - Degenerative changes occur.
+
+Hypermature cataract can cause 2 types of degenerative changes:
+- Morgagnian Cataract: Liquefaction of the cortex causing nucleus to float, Wrinkling of capsule.
+- Sclerotic Cataract: Wrinkling of capsule, shrunken lens. Iris shadow is formed when there is an immature cataract i.e., partially cataract, partly clear causing the shadow of the opacified portion to fall on the lens.
+
+**Etiological**
+They are classified based on aetiology as
+- Senile (Most common cataract)
+- Metabolic
+- Complicated/Secondary
+- Toxic
+- Traumatic
+- Radiational
+- Associated with systemic disease(pre-Senile) <50 years of age
+
+**Senile cataract**: They are further divided as Cortical, Nuclear and Sub-Capsular.
+- Cortical Cataract: It occurs primarily due to hydration. → Water collects between the fibres, forming clefts and vacuoles. This gives rise to different stages of hydration.
+→ Stage I - Stage of lamellar separation
+→ Stage II - Incipient stage (Cuniform cataract)
+→ Stage III -Intumescent (Maximum hydration
+→ Stage IV - Mature Cataract
+→ Stage V-Hyper-mature Cataract
+
+- Nuclear cataract: The aetiology is Nuclear Sclerosis.
+→ Sclerosis can be caused due to increase in insoluble protein and decrease in soluble protein, denaturation of the protein (dehydrational crisis), deposition of pigments such as melanin and urochrome.
+→ Although official grading of nuclear cataract is not based on colours, we can classify the maturity of the cataract based on its colour:
+G1 - Yellow - Xanthopsia (Yellow vision)
+G2-Amber
+G3-Brown-Brunescence
+G4-Black-Nigra
+→ Dehydrational crisis- due to recurrent diarrhoea can also causes cataract because of denaturation of proteins.
+- Subcapsular
+→ Anterior Subcapsular (ASC) due to fibrous dysplasia of anterior epithelial cells

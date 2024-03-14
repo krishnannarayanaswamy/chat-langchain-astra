@@ -1,0 +1,26 @@
+ The image is about Epiglottitis.
+Epiglottitis is an acute inflammatory condition confined to supraglottic structures.
+The structures involved are epiglottis, aryepiglottic folds, and arytenoids.
+The inflammation may obstruct the airway.
+This condition was initially caused by H. Influenzae, but since the introduction of vaccines, it is now commonly caused by Streptococcus pneumoniae.
+The age group commonly affected is 3-6 years.
+
+Symptoms:
+- Inspiratory stridor
+- Odynophagia
+- Drooling of saliva
+- No change in voice
+- No cough
+
+Diagnosis:
+Lateral view X-ray of the neck shows a thumb sign.
+
+Treatment:
+- Antibiotics (IV ceftriaxone)
+- Steroids
+- Nebulization with racemic adrenaline (a vasoconstrictor that reduces airway edema)
+- Tracheostomy if stridor is present
+
+Additional information:
+- Epiglottitis is a medical emergency and requires immediate treatment.
+- If the airway is completely obstructed, a tracheostomy may be necessary to save the patient's life.

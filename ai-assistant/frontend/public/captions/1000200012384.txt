@@ -1,0 +1,61 @@
+ ## **Lung cancer**
+**Epidemiology**
+- Lung cancer is the leading cause of cancer-related death worldwide.
+- It affects more than 1 million cases per year in India.
+- The peak age is 65-75 years.
+- More common in men except for adenocarcinoma.
+
+**Types and Etiology**
+- Tobacco smoking is associated with 80%-90% of lung carcinoma; however, it is weakly associated with lung adenocarcinoma.
+- Radon is the second leading cause of lung cancer.
+- Asbestos
+- Occupational exposure to chromium, silica, nickel, arsenic and beryllium.
+- Pulmonary fibrosis and scarring, radiation exposure, tuberculosis and HIV are other risk factors.
+
+**Refer Flow Chart 25.1**
+
+There are two main types of lung cancer: small cell carcinoma and non-small cell carcinoma:
+
+**SCLC**
+- 10-15% of lung cancers
+- Classically, 3 subtypes
+- Usually centrally located
+- More aggressive
+- Staged as limited or extensive disease
+- Treatment usually involves chemotherapy with or without radiation
+
+**NSCLC**
+- 85-90% of lung cancers
+- Many subtypes
+- Centrally or peripherally located
+- Can be fast or slow growing
+- Staged using TNM staging
+- Treatment is surgical, medical or radiation
+
+**Small cell lung carcinoma**
+- It is a centrally located tumour strongly associated with smoking.
+- It is an undifferentiated and highly aggressive tumour.
+- Neuroendocrine Kulchitsky cells are present, and the tumour is synaptophysin, chromogranin A and neuron-specific enolase positive.
+- SIADH, Cushing syndrome, Lambert-Eaton syndrome, and limbic encephalitis are paraneoplastic syndromes.
+
+**Bronchial carcinoid tumour**
+- It is the most common primary lung cancer in children and adults.
+- It presents wheezing due to the mass effect of the tumour.
+- Neuroendocrine Kulchitsky cells are present, and the tumour is synaptophysin, chromogranin A and neuron-specific enolase positive.
+- It rarely metastasises and has a good prognosis.
+
+**Staging of Lung Cancer**
+**Refer Table 25.2**
+
+**Diagnosis and Clinical Features**
+**Refer Flow Chart 25.2**
+
+**Diagnosis**
+- Chest X-ray is the first line of imaging.
+- CT chest is done in all patients with abnormal chest X-rays.
+- Diagnosis is confirmed by histology by taking a central bronchoscopy, ultrasound, or CT-guided needle biopsy.
+- A complete blood count and a metabolic panel should be ordered to assess paraneoplastic syndromes.
+- CT chest and abdomen should be performed to assess the metastasis.
+
+**Treatment**
+**Refer Table 25.3**

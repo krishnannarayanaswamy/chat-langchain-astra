@@ -1,0 +1,9 @@
+ The image is a flowchart that describes the management of hyperprolactinemia in premenopausal women. 
+The flowchart starts with a detailed clinical evaluation to rule out secondary causes of hyperprolactinemia, such as pregnancy. 
+If a secondary cause is identified, it should be treated first. 
+If no secondary cause is identified, the next step is to measure the prolactin level. 
+If the prolactin level is elevated, the next step is to obtain an MRI of the pituitary gland to determine the size and location of the prolactinoma. 
+If the prolactinoma is small (<10 mm) and asymptomatic, no treatment is necessary. 
+If the prolactinoma is large (>10 mm) or symptomatic, treatment with dopamine agonists is indicated. 
+Dopamine agonists are usually effective in lowering prolactin levels and reducing symptoms. 
+If dopamine agonists are not effective, surgery may be considered.

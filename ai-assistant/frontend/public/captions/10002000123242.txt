@@ -1,0 +1,52 @@
+ # **Myasthenia Gravis**
++
+## **Introduction**
+- Myasthenia gravis is an autoimmune disease that causes weakness in the skeletal muscles.
+- The hallmark of myasthenia gravis is muscle weakness that improves after rest and worsens after periods of activity.
+- The peak incidence in males is between 40-70 years, while in females, it is 20-40.
+- Associated with thymic hyperplasia or thymoma.
+
+## **Pathophysiology**
+- Development of auto-antibodies against postsynaptic neuromuscular junction acetylcholine receptors
+- The antibodies block the function of the receptor leading to muscle weakness and fatigue due to impaired neuromuscular transmission.
+- Type II Hypersensitivity
+
+## **Clinical Manifestations**
+- Ocular manifestations
+ - There is ptosis and mild extraocular muscle weakness.
+ - Pupillary response to light is preserved, but in myasthenia gravis, this is not always the case.
+ → Some individuals with myasthenia gravis may experience pupillary abnormalities, such as sluggish or unequal responses to light.
+ - Diplopia
+- GI manifestations
+ - Dysphagia, mainly oropharyngeal
+ → Characterized by difficulty in initiating swallowing.
+- Musculoskeletal manifestations
+ - Dysarthria
+ - Facial weakness is common
+ - Poor head control in infants
+ - Weakness involves limb-girdle muscles, distal muscle of hands, bulbar-innervated muscles
+ - Nomyalgias
+ - Rapid fatigability
+ → This is a characteristic feature.
+- Respiratory failure may occur if left untreated.
+- Neurologic manifestation
+ - No fasciculations of muscle
+ - No sensory symptoms
+- Amyasthenic crisis may occur
+ - Characterized by acute life-threatening exacerbation of the symptoms that may lead to respiratory failure.
+ - Usually precipitated by physiological stress, medications, surgery, or pregnancy.
+
+Mnemonic for the important clinical manifestations of Myasthenia Gravis are "5D's"
+- Diplopia
+- Dysarthria
+- Dysphagia
+- Dyspnea (Respiratory muscles involvement)
+- Descending weakness
+
+## **Manifestation**
+- Ocular
+ - Diplopia
+ - Ptosis
+ - Ophthalmoplegia
+- Respiratory
+ - Breathlessness

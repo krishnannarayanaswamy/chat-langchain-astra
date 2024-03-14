@@ -1,0 +1,9 @@
+ The image is a table that summarizes the different types of seizures. The table is divided into three sections: focal seizures, generalized seizures, and unknown seizures.
+
+Focal seizures are seizures that originate from a single area of the brain. They can be simple or complex. Simple focal seizures do not impair consciousness, while complex focal seizures do. Some examples of simple focal seizures include motor seizures, sensory seizures, and psychic seizures. Some examples of complex focal seizures include automatisms and impaired awareness.
+
+Generalized seizures are seizures that originate from both hemispheres of the brain. They can be tonic-clonic, tonic, myoclonic, or atonic. Tonic-clonic seizures are the most common type of generalized seizure. They are characterized by a loss of consciousness, stiffening of the body, and jerking movements. Tonic seizures are characterized by a loss of consciousness and stiffening of the body. Myoclonic seizures are characterized by brief, jerking movements of the body. Atonic seizures are characterized by a loss of consciousness and a loss of muscle tone.
+
+Unknown seizures are seizures that cannot be determined to be focal or generalized. They can be epileptic spasms or other types of seizures.
+
+The flowchart in the image shows the different types of seizures and their characteristics. It can be used to help diagnose seizures and determine the best course of treatment.

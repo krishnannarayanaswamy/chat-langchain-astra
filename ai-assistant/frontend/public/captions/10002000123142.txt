@@ -1,0 +1,41 @@
+ The image is a table that lists the risk factors of type 2 diabetes. The risk factors are:
+- High blood pressure
+- High blood triglyceride levels
+- Low good cholesterol level
+- Prediabetes
+- A diet that is not balanced
+- Obesity
+- Increasing age
+- Organ transplant
+
+## High blood pressure
+
+High blood pressure can sometimes lead to type 2 diabetes. It can also be vice versa.
+
+## High blood triglyceride levels
+
+It is considered very high if the blood triglyceride level is over 150 milligrams per decilitre (mg/dL). This can be a risk factor for type 2 diabetes.
+
+## Low good cholesterol level
+
+Low good cholesterol below 40 mg/dL is considered to be too low. Non-alcoholic fatty liver has a high risk for developing Type 2 diabetes mellitus.
+
+## Prediabetes
+
+Prediabetics have higher than normal blood sugar levels that do not fulfill the diagnostic criteria for diabetes but are at an increased risk for developing diabetes.
+
+## A diet that is not balanced
+
+High fat and carbohydrate diet are considered potential risk factors for type 2 diabetes.
+
+## Obesity
+
+Being overweight or body mass index (BMI) of greater than 30kg/m² is a risk factor that may lead to type 2 diabetes. Metabolic syndrome associated with obesity leads to Type 2 diabetes mellitus. Polycystic ovarian disease (PCOD) also increases the risk for Type 2 diabetes mellitus.
+
+## Increasing age
+
+People > 45 years are more vulnerable to type 2 diabetes. Risk rises significantly around 45 years and rises considerably after age 65.
+
+## Organ transplant
+
+Life-long medication is prescribed after an organ transplant to prevent the body from rejecting the donor organ. Many drugs, such as tacrolimus (Astagraf, Prograf) or steroids, can cause diabetes or make it worse.

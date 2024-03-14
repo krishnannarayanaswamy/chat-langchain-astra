@@ -1,0 +1,73 @@
+ The image is a table that summarizes the symptoms, diagnosis, and treatment of latent tuberculosis infection (LTBI) and tuberculosis (TB) disease.
+
+Symptoms of TB
+• Coughing up blood
+• Fever
+• Chest Pain
+• Chills
+Weight Lose
+• Night sweats
+•
+•
+Long-Term cough
+No appetite
+Fatigue
+
+LTBI vs TB disease
+Latent TB infection (LTBI) | TB Disease (in the lungs)
+Inactive, contained tubercle
+bacilli in the body
+TST or blood test results
+usually positive
+Chest x-ray usually normal
+Sputum smears and cultures
+negative
+No symptoms
+Not infectious
+
+Diagnosis
+• Mantoux skin test
+• Interferon gamma release assays
+• Sputum culture
+• X-ray
+Bacteriologic Examination of AFB smears
+
+Active, multiplying
+tubercle bacilli in the body
+TST or blood test results
+usually positive
+Chest x-ray usually
+abnormal
+Sputum smears and
+cultures may be positive
+Symptoms such as cough,
+fever, weight loss
+Often infectious before
+treatment
+
+Not a case of TB
+A case of TB
+
+Treatment
+Refer Table 79.1
+Refer Table 79.2
+Refer Table 79.3
+
+Flow Chart 79.1
+TB
+Pulmonary (85-90%)
+Sputum +ve TB
+(Those who
+have bacteria
+in sputum)
+Extra-pulmonary (10-15%)
+Sputum -ve TB
+(Those who do
+not have bacteria
+in sputum)
+↓
+• Lymph nodes
+• Joints
+• Genitourinary tract
+• Spinal tract
+Intestines

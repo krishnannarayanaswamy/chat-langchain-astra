@@ -1,0 +1,5 @@
+ The image is a table that provides information about the antibiotic therapy for enteric fever in adults. The table is divided into four columns: indication, agent, prevention and immunization.
+
+The first column, indication, lists the different types of enteric fever that can be treated with antibiotics. The second column, agent, lists the different antibiotics that can be used to treat enteric fever. The third column, prevention, lists the different ways to prevent enteric fever. The fourth column, immunization, lists the different vaccines that can be used to prevent enteric fever.
+
+The table is a useful resource for anyone who is interested in learning more about the antibiotic therapy for enteric fever in adults.

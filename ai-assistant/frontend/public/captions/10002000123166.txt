@@ -1,0 +1,7 @@
+ The image describes the pathophysiology of hemochromatosis. It shows the role of hepcidin, a hormone that regulates iron absorption and distribution, and how mutations in the hepcidin gene can lead to hemochromatosis.
+
+The image is a flowchart that describes the two types of mutations in the ferroportin gene that can lead to hemochromatosis. The mutations are both in the ferroportin gene, which encodes a protein that is responsible for iron export from cells. The mutations result in either a loss of function or a gain of function of the ferroportin protein, which leads to an increase in iron absorption and storage in the body.
+
+The first type of mutation, called a type A mutation, results in a loss of function of the ferroportin protein. This means that the protein is unable to transport iron out of cells, which leads to an increase in iron absorption and storage in the body. The second type of mutation, called a type B mutation, results in a gain of function of the ferroportin protein. This means that the protein is able to transport iron out of cells, but it is unable to do so in a regulated manner. This leads to an increase in iron absorption and storage in the body.
+
+Both types of mutations can lead to hemochromatosis, which is a condition that is characterized by an increase in iron absorption and storage in the body. This can lead to a number of health problems, including liver damage, heart disease, and diabetes.

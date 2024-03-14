@@ -1,0 +1,84 @@
+ 101 Head and Neck Cancers
+
+Introduction
+- Head and Neck Cancer is a group of cancers that includes tumors in several areas above the collar bone.
+- Head and Neck Cancer has three major subdivisions:
+  - Oral Cancer
+  - Laryngeal Cancer
+  - Nasopharyngeal Cancer.
+
+Risk Factors for Head and Neck Cancer
+- Tobacco Products:
+  - Smoking Tobacco
+  - Cigarettes
+  - Cigars
+  - Pipes
+  - Chewing Tobacco
+  - Snuff
+- Ethanol Products
+- Chemicals
+  - Asbestos
+  - Chromium
+  - Nickel
+  - Arsenic
+  - Formaldehyde
+- Other Factors:
+  - Ionizing Radiation
+  - Plummer-Vinson Syndrome
+  - Epstein-Barr Virus
+  - Human Papilloma Virus
+- Possible Occupational Risks for Head and Neck Cancer
+  - Woodworking
+  - Leather manufacturing
+  - Nickel refining
+  - Textile industry
+  - Radium dial painting
+
+Warning Signs of Head and Neck Cancer
+- Not all cancers present with symptoms at early stages!
+  - Hoarseness
+  - Erythroplasia
+  - Referred otalgia
+  - Persistent sore throat
+  - Epistaxis
+  - Nasal obstruction
+  - Serous otitis media
+  - Neck mass
+  - Non-healing ulcer
+  - Dysphagia
+  - Submucosal mass
+
+Laryngeal Carcinoma
+- It is a squamous cell carcinoma
+- It mostly affects males
+
+Etiology
+- These are the causes of laryngeal carcinoma
+  - HPV 6 and 11: They cause respiratory papillomatosis leading to a predisposition to carcinoma
+  - Benzopyrene in cigarette smoke
+  - Alcohol consumption
+  - Any previous history of radiation
+  - Occupational exposure to asbestos, mustard gas, and petroleum
+
+Types of Laryngeal Carcinoma
+- Anatomy
+  - False cord
+  - Ventricle
+  - Thyroid cartilage
+  - Supraglottis
+  - True cord
+- The pharynx is divided into three parts:
+  - Glottis
+  - Subglottis
+  - Cricoid cartilage
+- Supraglottis: The part of the larynx that lies above the vocal cords
+- Glottis: The part of the larynx that lies at the level of vocal cords and 1 cm below.
+- Subglottis: The part of the larynx that lied 1 cm below the level of coal cords to the level of the cricoid cartilage.
+- According to the site of malignancy, carcinomas can be divided into supraglottic, glottic, and subglottic carcinomas.
+- The most common carcinoma is glottic carcinoma
+- It is followed by supraglottic carcinoma
+- The least common carcinoma is subglottic carcinoma
+
+One Liner
+- Lymph node metastasis in the neck in almost never seen with glottic carcinoma
+- The highest lymph node involvement is seen in subglottic and supraglottic carcinoma

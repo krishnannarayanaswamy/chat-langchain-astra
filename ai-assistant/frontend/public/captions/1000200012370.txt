@@ -1,0 +1,14 @@
+ The image is about the respiratory system. It includes the definition of respiration, the three basic steps of respiration, the regulation of respiration, and the lung volumes.
+The respiratory system is responsible for taking in oxygen and releasing carbon dioxide. The process of respiration has three basic steps: pulmonary ventilation, external respiration, and internal respiration. Pulmonary ventilation is the process of breathing, which involves the inhalation and exhalation of air. External respiration is the process of gas exchange between the lungs and the blood. Internal respiration is the process of gas exchange between the blood and the cells.
+The rate and depth of respiration are regulated by the respiratory center in the brainstem. The respiratory center receives input from chemoreceptors that detect changes in oxygen and carbon dioxide levels in the blood.
+Lung volumes are important measures of lung function that can be used to evaluate respiratory health and diagnose lung diseases. The following is a table summarizing the main lung volumes:
+| Lung Volume | Definition | Normal Range |
+|---|---|---|
+| Tidal Volume (TV) | The volume of air inhaled or exhaled during normal breathing | 500 mL |
+| Inspiratory Reserve Volume (IRV) | Maximum volume of air that can be forcefully inhaled after a normal inspiration | 2500-3000 mL |
+| Expiratory Reserve Volume (ERV) | Maximum volume of air that can be forcefully exhaled after a normal expiration | 1000-1200 mL |
+| Residual Volume (RV) | The volume of air remaining in the lungs after a maximum exhalation | 1200-1500 mL |
+| Total Lung Capacity (TLC) | Maximum volume of air that the lungs can hold | 4000-6000 mL |
+| Vital Capacity (VC) | Maximum volume of air that can be forcefully exhaled after a maximum inhalation | 3500-5000 mL |
+| Functional Residual Capacity (FRC) | The volume of air remaining in the lungs after a normal exhalation | 2200-2800 mL |
+These lung volumes can be measured using various techniques, including spirometry and body plethysmography. Changes in lung volumes can indicate the presence of lung disease or dysfunction, such as decreased lung compliance, airway obstruction, or increased airway resistance.

@@ -1,0 +1,52 @@
+ ## Polycythemia Vera
+Polycythemia vera (PV) is a chronic myeloproliferative neoplasm characterized by an overproduction of erythrocytes in the bone marrow. This hematological disorder results in increased blood viscosity and a predisposition to thrombotic events. Erythrocyte proliferation can occur with or without the proliferation of leukocytes and platelets.
+
+**Epidemiology**
+Polycythemia vera is classified as a rare disease in India. Mostly, it is seen in individuals above 60.
+
+**Pathophysiology**
+Polycythemia vera (PV) is caused by a somatic mutation in the Janus kinase 2 (JAK2) gene, specifically the JAK2 V617F mutation, which results in constitutive activation of the JAK-STAT signaling pathway. This aberrant signaling leads to uncontrolled proliferation of erythroid, myeloid, and megakaryocytic cell lines within the bone marrow. Consequently, there is an overproduction of red blood cells, white blood cells, and platelets, which contributes to increased blood viscosity, hyperviscosity-related symptoms, and a heightened risk of thrombotic events in individuals affected by PV.
+
+**Clinical features:**
+- Generalized weakness and fatigue
+-Headaches
+-Dizziness or lightheadedness
+-Tinnitus (ringing in the ears)
+-Pruritus (itching), particularly after a warm bath or shower
+-Erythromelalgia (burning pain, warmth, and redness in hands and feet)
+-Visual disturbances, such as blurred vision or transient blindness
+-Hypertension (high blood pressure)
+-Epistaxis (nosebleeds)
+-Hemorrhagic complications (bleeding, easy bruising)
+-Splenomegaly (enlarged spleen)
+-Hepatomegaly (enlarged liver)
+-Aquagenic pruritus (itching triggered by contact with water)
+-Thrombotic events (deep vein thrombosis, pulmonary embolism, stroke, myocardial infarction)
+-Gout and hyperuricemia
+-Weight loss
+-Night sweats
+
+**Diagnosis**
+Refer Table 10.1
+
+**Treatment**
+Management of Polycythemia Vera
+
+- **Phlebotomy**
+Reduces blood viscosity and hematocrit levels by removing excess red blood cells from circulation
+
+
+- **Antihistamines**
+Alleviate itching (pruritus) by blocking histamine receptors, providing symptomatic relief
+
+
+- **Xanthine oxidase inhibitors**
+Reduce serum uric acid levels, thereby preventing gout and kidney stones associated with hyperuricemia in PV patients
+
+
+- **Hydroxyurea**
+Lowers blood cell counts by inhibiting DNA synthesis in the bone marrow, controlling PV symptoms and complications
+
+
+- **Ruxolitinib**
+A JAK1/2 inhibitor that targets the JAK-STAT signaling pathway

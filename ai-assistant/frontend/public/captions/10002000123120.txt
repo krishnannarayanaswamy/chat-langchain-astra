@@ -1,0 +1,53 @@
+ ## **Cushing's Syndrome**
+**Definition**
+- Cushing's syndrome occurs as a result of the excessive production of the hormone cortisol by the body over time.
+- Taking oral corticosteroid medications can sometimes lead to the manifold cortisol production.
+- It can also be caused as a result of the overproduction of cortisol by the adrenal glands.
+- Characteristic signs include a fatty hump between the shoulders, a rounded face, and pink and purple stretch marks on the body.
+
+**Etiology**
+- Increased glucocorticoid levels due to either medication or internal processes can cause Cushing's syndrome.
+- Several possible causes of Cushing's syndrome are known to exist. They can be:
+ - Exogenous hypercortisolism
+ - Endogenous hypercortisolism
+
+**Exogenous hypercortisolism**
+- The most common cause of Cushing's syndrome is due to the administration of glucocorticoids to treat other diseases like:
+ - Asthma
+ - Rheumatoid arthritis
+- Also, as immunosuppressants post-organ transplantation surgeries
+- Medroxyprogesterone acetate can also rarely cause Cushing's syndrome.
+ - ACTH stimulation is suppressed by the glucocorticoid medication. This can cause the gradual atrophy of the adrenal glands.
+
+**Endogenous hypercortisolism**
+- Endogenous Cushing's syndrome is a result of the excessive production of cortisol by the adrenal glands.
+- This excessive production of cortisol can be:
+ - ACTH-dependent
+ - ACTH-independent
+- Endogenous Cushing's syndrome can happen in the following ways:
+ - Pituitary Cushing's
+   - A benign pituitary adenoma secretes ACTH.
+   - Also known as Cushing's disease.
+   - Is responsible for almost 70% of the endogenous Cushing's syndrome.
+ - Adrenal Cushing's
+   - Increased amount of cortisol is produced by:
+     - Adrenal gland tumors
+     - Hyperplastic adrenal glands
+     - Adrenal glands with nodular hyperplasia.
+ - Ectopic/Paraneoplastic Cushing's disease
+   - Tumors which are situated outside the normal pituitary-adrenal system produce ACTH.
+   - This gradually affects the adrenal glands
+   - Seen in certain diseases such as small cell lung cancer.
+   - This is a rather rare case.
+   - These tumors have reported to be stimulating pituitary ACTH production.
+ - CRH-secreting tumors
+   - Risk factors include:
+     - Overweight or obesity
+     - Type-2 diabetes (Which is not under control) along with high blood pressure.
+
+**Epidemiology**
+- The exact incidence and spread of Cushing's syndrome is highly variable across different ethnicities and cultural groups.
+- It depends on the frequency of the medical conditions that demand steroid-based therapy.
+- It is believed that exogenous hypercortisolism outweighs endogenous hypercortisolism.
+- This rare syndrome has an annual incidence of 2 to 3 / million.
+- Out of this, benign adrenal adenomas account for 0.6 / million.

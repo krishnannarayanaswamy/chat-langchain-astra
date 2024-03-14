@@ -1,0 +1,60 @@
+ ## Asthma: Pathogenesis
+**Genetic factors**
+(i.e. HLA gene mutations, defects in bronchial airway epithelium)
+
+**Environmental factors**
+(i.e. excess hygiene, fewer siblings, two antibiotics in the first year)
+
+Atopy:
+predisposition to allergic sensitization to triggers which binds to IgE on mast cell surfaces.
+
+Stimulation of B-cells to produce IgE which binds to mast cell surfaces.
+
+First exposure to allergen:
+(35 hrs)
+
+Activated mast cells now IgE-sensitized
+
+Second exposure to triggers:
+(2-4 hrs)
+
+Delayed response
+
+Third exposure to triggers:
+(35 hrs)
+
+Note: Delayed response peaks within 6-8 hrs and resolves within 24 hrs.
+
+**Asthma:**
+Defined as airway hyper-responsiveness causing variable and reversible airflow obstruction.
+
+**Triggers of airway hyper-responsiveness:**
+- Allergens (e.g. pollens, animal danders, house dust mites, molds, cockroaches)
+- Air pollution
+- Cigarette smoke
+- NSAIDs/Aspirin
+- Exercise
+- Cold dry air
+- Stress
+
+**Upper respiratory tract infections** (especially in children)
+
+Mast cells release mediators (e.g. histamine, leukotrienes, prostaglandins)
+
+Inflammation of bronchial mucosa
+
+Increased vascular permeability and edema
+
+Goblet cell hyperplasia and mucus secretion
+
+Bronchial smooth muscle contraction
+
+Thickening of basement membrane
+
+Airway obstruction
+
+- Eyes
+- Nose
+- Bronchiolitis
+- Rhinitis
+- Asthma

@@ -1,0 +1,22 @@
+ The image shows the main symptoms of acute HIV infection, which include:
+- Systemic: fever, weight loss, pharyngitis, thrush
+- Mouth: sores
+- Esophagus: sores
+- Muscles: myalgia
+- Central: malaise, headache, neuropathy
+- Lymph nodes: lymphadenopathy
+- Skin: rash
+- Liver and spleen: enlargement
+- Gastric: nausea, vomiting
+
+The treatment for HIV is called antiretroviral therapy (ART). ART involves taking a combination of HIV medicines which is called the HIV treatment regimen every day. This is called combination therapy.
+ART cannot cure HIV, but it can help people with HIV infection to live a longer and healthier lives.
+ART reduces the risk of HIV transmission.
+
+The image also shows the steps of the HIV replication cycle. The steps are as follows:
+1. HIV binds to a CD4 cell.
+2. The virus fuses with the CD4 cell, releasing its genetic material into the cell.
+3. The virus's genetic material is copied into the CD4 cell's DNA.
+4. The CD4 cell produces new copies of the virus.
+5. The new copies of the virus are released from the CD4 cell.
+6. The new copies of the virus can infect other CD4 cells.

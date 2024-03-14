@@ -1,0 +1,63 @@
+ ## Diabetic Retinopathy
+According to WHO diabetic retinopathy is the world's leading cause of blindness.
+40% diabetics develop DR.
+More common in type 1 DM.
+
+**Risk factors**
+- Most important risk factor
+ - Duration 
+ - Poor control of blood glucose level
+- Hypertension
+- Nephropathy
+- Pregnancy
+- Hyperlipidemia
+- Smoking
+
+**Clinical symptoms**
+- Blurred vision
+- Floaters/colour vision
+- Impaired vision
+- Redness
+
+**Screening guidelines**
+- In type 1 diabetics: Examine after 5 years
+- Subsequently annual exam once every year
+- Gestational diabetes screening is required at the end of first trimester
+
+**Pathophysiology**
+- Occlusion and neovascularization
+- Hyperglycemia
+- Basement membrane thickening, platelet aggregation, leukocyte adherence
+- Thrombus formation
+- Retinal hypoxia
+- VEGF formed
+- Neovascularization
+
+**2. Pericyte necrosis**
+- Pericytes located in blood vessel wall
+- Functions of pericytes
+ - Regulation of blood flow
+ - Stabilization of endothelial cells
+- Normal pericyte to endothelial cell ratio is 1:1
+- In diabetics this ratio is 1:4
+ - Due to pericyte wall weaken
+ - Leads to ballooning out
+ - Leakage
+
+**Pericyte loss**
+Increase in blood sugar levels
+- Normal Endothelial cell ratio 1:1
+- Pericyte loss
+- Oxidative stress
+- Diabetes Conditions
+Pericyte-Endothelial cell ratio 1:4
+- Increased permeability
+- Pericyte death
+- Hypoxia
+- VEGF
+- Inflammation
+- Immune cell infiltration
+
+**Proliferative Retinopathy**
+- Endothelial Cell
+- Pericyte

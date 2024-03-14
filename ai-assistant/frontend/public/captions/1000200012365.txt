@@ -1,0 +1,50 @@
+ + 19 PEPTIC ULCER DISEASE +
+
+Peptic ulcer disease (PUD) is a disease where the inner lining of the GI tract is discontinued because of excess gastric acid or pepsin secretion.
+Due to continuous damage from excessive acid secretion, Ulcers tend to develop in inner lining.
+
+**Epidemiology**
+- Peptic ulcer disease is classified as Common.
+- It affects more than 1 million cases per year in India.
+
+**Etiology**
+- The major causative factor for PUD is H. pylori infestation.
+- Consumption of NSAIDs can increase the risk of PUD by four times compared to non users.
+- Peptic ulcers can also be caused by extreme stress.
+
+**Peptic Ulcer Disease**
+- H. Pylori
+- Assoc. with 95% of DU
+- Assoc. with 70-80% of GU
+- Medications
+- NSAIDS
+- Corticosteroids
+- Alcohol
+- Other
+- Zollinger-Ellison syndrome
+- Acute stress
+- Malignancy
+- Inflammatory e.g. Crohn's
+
+**Signs and Symptoms**
+- Burning in upper abdomen
+- Bloating
+- Heartburn
+- Nausea and vomiting
+- Dark stools (severe)
+- Unexplained weight loss (severe)
+
+**Pathophysiology and Clinical Findings**
+Refer Flow Chart 19.1
+
+**Diagnosis**
+- The diagnosis is mainly established based on the characteristic symptoms.
+- The diagnosis is usually confirmed by endoscopy or barium contrast x rays.
+- Endoscopic image of gastric ulcer, biopsy proven to be gastric cancer.
+
+**Treatment**
+- NSAID-associated ulcers are managed by withdrawal of the same and PPIs.
+- NSAID-associated ulcers generally heal within 6-8 weeks.
+- Profusely bleeding peptic ulcers require fluid replacement with crystalloids to maintain blood volume.
+- H. Pylori infestations are managed by a triple regimen which consists of Pantoprazole, Clarithromycin and Amoxicillin/Metronidazole
+Refer Flow Chart 19.2

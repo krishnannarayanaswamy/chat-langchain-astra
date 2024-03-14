@@ -1,0 +1,37 @@
+ The image is a table that lists the diagnostic criteria for neurofibromatosis type 1 (NF1) and neurofibromatosis type 2 (NF2). 
+
+**NF1**
+
+NF1 is a genetic disorder that causes tumors to form on nerve tissue. It is caused by a pathogenic variant in the NF1 gene, which encodes a protein called neurofibromin. Neurofibromin is a tumor suppressor protein that helps regulate cell growth and division. When neurofibromin is not working properly, cells can grow and divide uncontrollably, leading to the formation of tumors.
+
+The diagnostic criteria for NF1 are:
+
+* Six or more café-au-lait spots
+* Two or more neurofibromas
+* Freckling in the armpit or groin area
+* Optic glioma
+* Two or more Lisch nodules
+* Bone dysplasia
+* A first-degree relative with NF1
+
+**NF2**
+
+NF2 is a genetic disorder that causes tumors to form on the nerves and in the brain. It is caused by a pathogenic variant in the NF2 gene, which encodes a protein called merlin. Merlin is a tumor suppressor protein that helps regulate cell growth and division. When merlin is not working properly, cells can grow and divide uncontrollably, leading to the formation of tumors.
+
+The diagnostic criteria for NF2 are:
+
+* Bilateral vestibular schwannomas
+* A first-degree relative with NF2
+* Meningioma
+* Glioma
+* Schwannoma
+* Juvenile superior subcapsular lenticular opacities
+* Juvenile cortical cataract
+
+**Treatment**
+
+There is no cure for NF1 or NF2, but treatment can help to manage the symptoms. Treatment options may include surgery, radiation therapy, chemotherapy, and targeted therapy.
+
+**Prognosis**
+
+The prognosis for people with NF1 and NF2 varies depending on the severity of the disease. Most people with NF1 have a normal life expectancy, but some people with severe disease may have a shortened life expectancy. The prognosis for people with NF2 is generally worse than the prognosis for people with NF1.

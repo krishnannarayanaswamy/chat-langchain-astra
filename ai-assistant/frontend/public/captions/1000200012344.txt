@@ -1,0 +1,13 @@
+ **Image Description**
+
+The image contains a flowchart of the heme biosynthesis pathway. The pathway starts with the synthesis of glycine and succinyl-CoA, which are then converted to 5-aminolevulinic acid (ALA). ALA is then converted to porphobilinogen (PBG), which is then converted to uroporphyrinogen III. Uroporphyrinogen III is then converted to coproporphyrinogen III, which is then converted to protoporphyrinogen IX. Protoporphyrinogen IX is then converted to protoporphyrin IX, which is then converted to heme.
+
+**Concepts**
+
+The heme biosynthesis pathway is a complex process that involves many steps. The pathway starts with the synthesis of glycine and succinyl-CoA, which are then converted to 5-aminolevulinic acid (ALA). ALA is then converted to porphobilinogen (PBG), which is then converted to uroporphyrinogen III. Uroporphyrinogen III is then converted to coproporphyrinogen III, which is then converted to protoporphyrinogen IX. Protoporphyrinogen IX is then converted to protoporphyrin IX, which is then converted to heme.
+
+The heme biosynthesis pathway is important because it produces heme, which is an essential cofactor for many proteins. Heme is involved in a variety of cellular processes, including oxygen transport, electron transfer, and drug metabolism.
+
+**Tables and Flowcharts**
+
+The image contains a flowchart of the heme biosynthesis pathway. The flowchart shows the steps in the pathway, as well as the enzymes that catalyze each step. The flowchart is a helpful tool for understanding the heme biosynthesis pathway.

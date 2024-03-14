@@ -1,0 +1,9 @@
+ ## **Multiple Sclerosis**
+Multiple sclerosis (MS) is a chronic, immune-mediated demyelinating disorder of the central nervous system (CNS), characterized by the destruction of the myelin sheath surrounding the nerve fibers. This demyelination disrupts the efficient transmission of electrical impulses along the nerves, leading to a wide range of neurological symptoms.
+
+**Aetiology**
+MS has a strong genetic component, with certain gene variants, particularly within the human leukocyte antigen (HLA) system, increasing susceptibility to the disease. Environmental factors such as low vitamin D levels, exposure to certain infections (such as Epstein-Barr virus), and smoking have been implicated as potential environmental triggers for MS. MS is more common in women than in men, with a female-to-male ratio of about 3:1, indicating a possible role for hormonal factors in disease susceptibility. Although MS can develop at any age, it is most commonly diagnosed in individuals between the ages of 20 and 50. MS is more prevalent among certain ethnic groups, particularly those of Northern European descent, suggesting a possible genetic predisposition in these populations.
+
+**Types/Classification of MS**
+**Clinically isolated syndrome (CIS):** In CIS, a person has an attack suggestive of demyelination but does not fulfill the criteria for multiple sclerosis. 30 to 70% of people who experience CIS later develop MS.
+**Relapsing-remitting MS (RRMS):** It is characterized by unpredictable acute attacks, called "exacerbations," with

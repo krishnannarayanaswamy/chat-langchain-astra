@@ -1,0 +1,5 @@
+ The image contains a list of psychiatric disorders, dermatology, ENT(Ear, Nose and Throat) and ophthalmology.
+Psychiatric disorders include ADHD(Attention Deficit Hyperactivity Disorder), OCD(Obsessive Compulsive Disorder) and PTSD(Post-Traumatic Stress Disorder).
+Dermatology includes Acne Vulgaris, Contact Dermatitis, Discoid Lupus Erythematosus, Erythema Nodosum, Hidradenitis Suppurativa, Lichen Planus, Melanoma, Non-Melanoma Skin Cancer, Psoriasis, Tinea Versicolor and STD(Sexually Transmitted Disease) Discharge.
+ENT includes Epiglottitis, Head and Neck Cancers, Hearing Loss, Leukoplakia, Otitis Externa, Otitis Media and Sinusitis.
+Ophthalmology includes Dacryostenosis & Dacryocystitis, Diabetic Retinopathy, Glaucoma and Cataract.

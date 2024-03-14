@@ -1,0 +1,33 @@
+ The image contains a graph and a flowchart. The graph shows the prognosis of CKD by GFR and albuminuria categories. The flowchart shows the complications of CKD.
+
+The graph shows that the prognosis of CKD is worse with lower GFR and higher albuminuria. The flowchart shows that CKD can lead to a number of complications, including sodium retention and volume overload, hyperkalemia, metabolic acidosis, hypocalcemia, hyperphosphatemia, anemia, and erythropoietin resistance.
+
+GFR categories
+
+GFR is estimated using the CKD-EPI equation. The CKD-EPI equation is a formula that uses serum creatinine, age, sex, and race to estimate GFR. The CKD-EPI equation is more accurate than the MDRD equation, which was previously used to estimate GFR.
+The GFR categories are:
+
+G1: Normal or high (≥90 mL/min/1.73 m2)
+G2: Mildly decreased (60-89 mL/min/1.73 m2)
+G3a: Mildly to moderately decreased (45-59 mL/min/1.73 m2)
+G3b: Moderately to severely decreased (30-44 mL/min/1.73 m2)
+G4: Severely decreased (15-29 mL/min/1.73 m2)
+G5: Kidney failure (<15 mL/min/1.73 m2)
+Albuminuria categories
+
+Albuminuria is the presence of albumin in the urine. Albumin is a protein that is normally found in the blood. When the kidneys are damaged, albumin can leak into the urine. The amount of albumin in the urine is measured in milligrams per gram of creatinine (mg/g). The albuminuria categories are:
+
+A1: Normal to mildly increased (<30 mg/g or <3 mg/mmol)
+A2: Moderately increased (30-300 mg/g or 3-30 mg/mmol)
+A3: Severely increased (>300 mg/g or >30 mg/mmol)
+Complications of CKD
+
+CKD can lead to a number of complications, including:
+
+Sodium retention and volume overload: CKD can cause the kidneys to retain sodium and water, which can lead to swelling and high blood pressure.
+Hyperkalemia: CKD can cause the kidneys to retain potassium, which can lead to high blood potassium levels.
+Metabolic acidosis: CKD can cause the kidneys to produce too much acid, which can lead to low blood pH.
+Hypocalcemia: CKD can cause the kidneys to lose calcium, which can lead to low blood calcium levels.
+Hyperphosphatemia: CKD can cause the kidneys to retain phosphate, which can lead to high blood phosphate levels.
+Anemia: CKD can cause the kidneys to produce too little erythropoietin, which is a hormone that stimulates the production of red blood cells.
+Erythropoietin resistance: CKD can cause the body to become resistant to erythropoietin, which can lead to anemia.

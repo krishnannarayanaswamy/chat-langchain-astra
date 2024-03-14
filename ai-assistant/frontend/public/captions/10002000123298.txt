@@ -1,0 +1,11 @@
+ The image is a flowchart that describes the process of identifying Corynebacterium diphtheriae from clinical specimens. 
+
+The first step is to collect a clinical specimen, which can be a swab or a biopsy. The specimen is then cultured on blood agar or a medium containing potassium tellurite. 
+
+After 24-48 hours of incubation, the colonies that have grown on the agar plate are examined. If there are any colonies that are suggestive of C. diphtheriae, they are identified using MALDI-TOF or PCR. 
+
+Once the colonies have been identified as C. diphtheriae, they are tested for the presence of toxin. This can be done using a variety of methods, including the Elek test, the PCR, and the ELISA. 
+
+If the colonies are positive for toxin, they are considered to be potentially toxigenic. These strains are then further tested using toxigenicity tests. These tests can be used to determine the level of toxin production by the strain. 
+
+The results of the toxigenicity tests are used to determine the appropriate treatment for the patient.

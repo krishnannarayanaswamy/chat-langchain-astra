@@ -1,0 +1,53 @@
+ The image is a table that summarizes the clinical presentation, management, and investigations for prolactinomas in males.
+
+**Clinical presentation**
+
+- Erectile dysfunction
+- Infertility
+- Low levels of testosterone which leads to decreased libido
+- Galactorrhea
+- Enlarged breast tissue (gynecomastia)
+
+**Additional information**
+
+- The signs and symptoms of prolactinomas can vary depending upon the following factors:
+ - How much excess prolactin is produced by the pituitary gland
+ - Size of the prolactinoma
+ - Location
+- Male individuals and women who have reached menopause may not have any overt signs and symptoms.
+- Thus, diagnosis is delayed among these groups.
+
+**Management**
+- Treatment options for prolactinomas
+ - Pharmacotherapy (It is the preferred method of initial management)
+ - Surgery
+ - Radiation therapy
+
+**Medications**
+
+- Dopamine agonists: Control prolactin levels by shrinking the prolactinoma tumors.
+- The most commonly used dopamine agonists are:
+ - Cabergoline
+ - Bromocriptine
+- Cabergoline is the first-choice medication for treating prolactinomas. It has fewer side effects when compared to bromocriptine.
+- Side effects of dopamine agonists include:
+ - Nausea
+ - Vomiting
+ - Dizziness
+- Relapse can be avoided only if the medications are continued for at least a period of 2 years.
+
+**Surgery**
+
+- Surgery is done in case of the following conditions:
+ - If you have side effects to medications that are prescribed to treat prolactinomas.
+ - If you are taking antipsychotic medication which interact with the medications taken for prolactinoma treatment.
+ - If the medications are not working and fail to reduce the size of the tumor.
+ - If the prolactinoma is large in size and you are trying to get pregnant in the recent future.
+- Two types of surgeries are carried out to treat prolactinoma:
+ - Transsphenoidal surgery: Is the most common surgery to treat prolactinomas and is performed through an incision made at the back of the nasal cavity or under the upper lip.
+ - Transcranial surgery: Is done when the size of the prolactinoma is large and has spread to other areas. The surgery is performed by opening the skull.
+- Risks associated with surgical removal of prolactinomas:
+ - Impaired pituitary function (hypopituitarism)
+ - Temporary diabetes insipidus
+ - Cerebrospinal fluid leak
+ - Infection

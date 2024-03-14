@@ -1,0 +1,15 @@
+ Pernicious anemia is a type of megaloblastic anemia that occurs due to vitamin B12 deficiency due to a lack of Intrinsic factors.
+Intrinsic factor(IF) is an intestinal glycoprotein contributing to vitamin B12 absorption. IF is produced from the gastric parietal cells. IF then bind with B12 and transports vitamin B12 to the terminal ileum, where it is absorbed.
+In the acidic gastric environment, dietary B12 is released from food carrier proteins via proteolysis and binds to haptocorrin, protecting B12 from degradation. Pancreatic proteases release B12 from haptocorrin in the small intestine, where it binds to IF produced by gastric parietal cells. The IF-B12 complex binds to receptors in the terminal ileum, is endocytosed
+If there's a lack of IF, there'll be a vitamin B12 deficiency. Since vit. B12 is an important constituent in RBC formation(DNA synthesis), leading to megaloblastic anaemia.
+The patient will present with jaundice, glossitis, pallor, headache, fatigue, lethargy and neurological manifestations. The earliest neurological manifestation would be peripheral neuropathy and subacute combined spinal cord degeneration at later stages. Pernicious anaemia is associated with autoimmune disorders like type 1 diabetes, hypothyroidism and vitiligo.
+Laboratory investigations for evaluation of pernicious anaemia include
+CBC
+Folate level and cobalamin level
+Peripheral blood smear( macrocytic ovalocytes, anisopoikilocytosis and hypersegmented neutrophils)
+Serology for anti-parietal cell antibodies, anti-IF antibodies
+Bone marrow biopsy
+Mild cases can be managed by oral vitamin B12(1000-2000 micrograms)supplements. However, vitamin B12(1000 micrograms) can be injected intramuscularly in cases of severe deficiency.
+Folate deficiency anaemia
+Drug induced macrocytic anemia(methotrexate)
+Anemia due to alcohol abuse

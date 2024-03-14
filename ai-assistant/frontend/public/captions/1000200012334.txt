@@ -1,0 +1,40 @@
+ + 8 VON WILLEBRAND DISEASE
+Von Willebrand disease is a bleeding disorder caused by deficiency or dysfunction of Von Willebrand protein in the blood.
+Von Willebrand disease (VWD) is the most common hereditary blood-clotting disorder in humans.
+VWD often has a family history of inheritance. The most common pattern of inheritance is Autosomal dominant.
+However, less common ypes are transmitted by an autosomal recessive pattern of inheritance.
+In very rare cases, it is possible to get VWD without a family history of the disease. This can happen if a spontaneous mutation occurs.
+
+Epidemiology
+Von Willebrand disease is classified as a common disease.
+It affects more than 1 million cases per year in India.
+
+Etiology and Genetics
+The VWF gene is located on the short arm (p) of chromosome 12 (12p13.2).
+It has 52 exons spanning 178 kbp.
+
+How does Von Willebrand's protein normally work?
+Von Willebrand factor (vWF) is a glycoprotein essential for blood clotting or coagulation. When a blood vessel is damaged, vWF is released and aids in preventing bleeding by enhancing platelet adhesion, stabilizing and transporting factor VIII, and regulating clot formation.
+It establishes a bridge between the collagen in the sub-endothelium and platelets, which is required for platelet aggregation. It also protects factor VIII from degradation and carries it to the site of injury, where it is needed for clot formation.
+
+Pathophysiology of Von Willebrand disease:
+Von Willebrand factor is mainly active in conditions of high blood flow and shear stress.
+Hence, Von Willebrand factor deficiency is predominantly noticed in organs with an extensive network of small blood vessels. Examples are skin, GI tract, and uterus.
+Von Willebrand disease (VWD) is characterized by a deficiency or dysfunction of von Willebrand factor (vWF), a protein essential in blood clotting or coagulation. VWD can be classified into three types: type 1, type 2, and type 3.
+1. Type 1 VWD is the mildest variant characterized by a partial vWF deficit.
+2. Type 2 VWD is caused by a qualitative deficiency in vWF, which results in impaired platelet function and irregular clotting.
+3. Type 3 VWD is the most severe variant and is distinguished by the complete absence of vWF.
+VWD pathogenesis includes decreased platelet function and abnormal coagulation. Reduced or defective vWF inhibits platelet adhesion and aggregation, resulting in prolonged bleeding time and increased vulnerability to bleeding. The severity of bleeding might vary greatly depending on the type and severity of VWD.
+Refer Flow Chart 8.1
+
+Signs and Symptoms:
+VWD symptoms may include:
+1. Mucocutaneous bleeding: It refers to bleeding from the mucous membranes and skin, such as nosebleeds, gum bleeding, easy bruising, or prolonged bleeding from cuts or traumas.
+2. Menorrhagia: Heavy menstrual periods in women.
+3. Gastrointestinal bleeding: Bleeding from the stomach or intestines can cause blood in the stool or black, tarry stools.
+4. Hemarthrosis: Bleeding into the joints, which can cause discomfort, oedema, and reduced mobility.
+5. Heavy bleeding during surgery, dental operations, or childbirth.
+6. In rare cases, spontaneous bleeding episodes occur.
+
+Diagnostic workup:
+Von Willebrand disease (VWD) is diagnosed through a thorough review of the patient's bleeding history, a physical examination, and laboratory tests. Below are some of the diagnostic tests used to assess VWD:

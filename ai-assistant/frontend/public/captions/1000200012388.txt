@@ -1,0 +1,9 @@
+ The image is a table that summarizes the treatment regimens for different types of lung cancer. The table has three columns: type of lung cancer, targeted therapy, and treatment regimen. The targeted therapy column lists the different types of immunotherapy and chemotherapy that can be used to treat lung cancer. The treatment regimen column lists the specific drugs that are used in each regimen.
+
+The table is a useful resource for understanding the different treatment options for lung cancer. It can help patients and their doctors make informed decisions about the best treatment plan.
+
+In addition to the table, there is also a paragraph of text that provides additional information about the treatment of lung cancer. The paragraph explains that the goal of treatment is to cure the cancer or to relieve symptoms. It also discusses the different types of treatment that are available, including surgery, chemotherapy, radiation therapy, and targeted therapy.
+
+The paragraph also provides information about the side effects of treatment. It explains that side effects can vary depending on the type of treatment that is used. However, common side effects include fatigue, nausea, vomiting, and hair loss.
+
+The paragraph concludes by emphasizing the importance of early detection and treatment of lung cancer. It explains that early detection can lead to more effective treatment and a better prognosis.

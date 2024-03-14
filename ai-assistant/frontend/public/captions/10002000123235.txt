@@ -1,0 +1,27 @@
+ The image is a table that summarizes the classification and management of multiple sclerosis (MS). 
+
+**There are four types of MS:**
+- **PRMS:** Progressive Relapsing MS is a form of multiple sclerosis (MS) that is characterized by a steady decline in function from the onset of symptoms, with superimposed attacks or relapses.
+- **SPMS:** Secondary Progressive MS is a form of multiple sclerosis (MS) that begins as relapsing-remitting MS (RRMS) but eventually progresses to a more progressive course, with steady worsening of symptoms over time.
+- **PPMS:** Primary Progressive MS is a form of multiple sclerosis (MS) that is characterized by a gradual progression of symptoms from the onset of the disease, without any relapses or remissions.
+- **RRMS:** Relapsing-Remitting MS is a form of multiple sclerosis (MS) that is characterized by unpredictable attacks, or relapses, followed by periods of remission, during which symptoms may improve or completely disappear.
+
+**Management of MS:**
+- **Disease-modifying therapies:** These therapies can help to slow down the progression of the disease and prevent relapses. They include:
+ - Interferon beta-1a
+ - Interferon beta-1b
+ - Glatiramer acetate
+ - Natalizumab
+- **Symptom management:** These therapies can help to manage the symptoms of MS, such as fatigue, muscle spasms, and pain. They include:
+ - Muscle relaxants
+ - Antidepressants
+ - Modafinil
+ - Anticholinergics
+ - Pregabalin
+ - Gabapentin
+- **Rehabilitation:** This can help to improve the function of people with MS and to reduce their disability. It may include:
+ - Physical therapy
+ - Occupational therapy
+ - Speech therapy
+ - Counseling
+ - Support groups

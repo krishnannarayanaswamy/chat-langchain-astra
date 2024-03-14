@@ -1,0 +1,108 @@
+ The image contains a list of medical topics. The topics are divided into 10 units. Each unit has a title and a list of subtopics. The subtopics are arranged in numerical order.
+
+**UNIT 1 - REPRODUCTIVE SYSTEM**
+56. Primary Amenorrhea
+57. Secondary Amenorrhea
+58. Endometrial Carcinoma
+
+**UNIT 2 - ENDOCRINE SYSTEM**
+59. General Anatomy- Muscular System
+60. General Physiology- Muscular System
+61. Amyotrophic lateral sclerosis
+62. Multiple sclerosis
+63. Charcot-Marie-Tooth disease
+64. Muscular dystrophy
+65. Myasthenia gravis
+66. Fibromyalgia
+
+**UNIT 3 - DIGESTIVE SYSTEM**
+67. General Anatomy- Nervous System
+68. General Physiology- Nervous System
+69. Alzheimer's disease and other Dementias
+70. Autism
+71. Migraine
+72. Epilepsy
+73. Bell's palsy
+74. Parkinson's disease
+75. Neurofibromatosis
+76. Motor neuron disease
+
+**UNIT 4 - RESPIRATORY SYSTEM**
+77. Flu
+78. Pneumonia
+79. Tuberculosis
+80. Malaria
+81. Typhoid
+82. Polio
+83. Chickenpox
+84. Diphtheria
+85. HIV
+
+**UNIT 5 - CARDIOVASCULAR SYSTEM**
+86. General Anatomy- Cardiovascular System
+87. General Physiology- Cardiovascular System
+88. Hypertension
+89. Angina Pectoris
+90. Myocardial Infarction
+91. Heart Failure
+92. Stroke
+93. Peripheral Vascular Disease
+94. Congenital Heart Disease
+95. Rheumatic Heart Disease
+
+**UNIT 6 - URINARY SYSTEM**
+96. General Anatomy- Urinary System
+97. General Physiology- Urinary System
+98. Cystitis
+99. Pyelonephritis
+100. Nephrotic Syndrome
+101. Renal Failure
+102. Hemodialysis
+103. Peritoneal Dialysis
+104. Kidney Transplantation
+105. Prostate Cancer
+
+**UNIT 7 - BLOOD SYSTEM**
+106. General Anatomy- Blood System
+107. General Physiology- Blood System
+108. Anemia
+109. Leukemia
+110. Lymphoma
+111. Multiple Myeloma
+112. Hemophilia
+113. Von Willebrand Disease
+114. Sickle Cell Anemia
+115. Thalassemia
+
+**UNIT 8 - MUSCULAR SYSTEM**
+116. General Anatomy- Muscular System
+117. General Physiology- Muscular System
+118. Amyotrophic lateral sclerosis
+119. Multiple sclerosis
+120. Charcot-Marie-Tooth disease
+121. Muscular dystrophy
+122. Myasthenia gravis
+123. Fibromyalgia
+
+**UNIT 9 - NERVOUS SYSTEM**
+124. General Anatomy- Nervous System
+125. General Physiology- Nervous System
+126. Alzheimer's disease and other Dementias
+127. Autism
+128. Migraine
+129. Epilepsy
+130. Bell's palsy
+131. Parkinson's disease
+132. Neurofibromatosis
+133. Motor neuron disease
+
+**UNIT 10 - INFECTIOUS DISEASES**
+134. Flu
+135. Pneumonia
+136. Tuberculosis
+137. Malaria
+138. Typhoid
+139. Polio
+140. Chickenpox
+141. Diphtheria
+142. HIV

@@ -1,0 +1,30 @@
+ The image is a table that lists the suggested investigations for chronic kidney disease (CKD). The table is divided into initial tests, interpretation, and further tests.
+
+Initial tests include urea and creatinine, urinalysis and quantification of proteinuria, electrolytes, calcium, phosphate, parathyroid hormone and 25(OD)D, albumin, full blood count (Fe, ferritin, folate, B12), lipids, glucose, HbA1c, and renal ultrasound.
+
+Further tests include hepatitis and HIV serology, ECG, and blood tests (elevated creatinine, elevated urea, anemia).
+
+The interpretation of the initial tests can help to assess stability or progression of CKD, identify potential causes, and assess the risk of progressive CKD. The further tests can help to rule out other potential causes of CKD and to assess the severity of CKD.
+
+In addition to the investigations listed in the table, other investigations that may be performed in patients with CKD include:
+
+Imaging studies:
+- Computed tomography (CT) scan
+- Magnetic resonance imaging (MRI) scan
+- Renal angiography
+
+Biopsy:
+- Kidney biopsy
+
+Functional studies:
+- Glomerular filtration rate (GFR) measurement
+- Creatinine clearance
+
+These investigations can help to further evaluate the structure and function of the kidneys and to identify the cause of CKD.
+
+The management of CKD depends on the stage of the disease and the patient's individual needs. Treatment options may include:
+
+- Lifestyle changes, such as smoking cessation, regular exercise, and a healthy diet
+- Medications to control blood pressure, cholesterol, and other risk factors for cardiovascular disease
+- Dialysis
+- Kidney transplantation

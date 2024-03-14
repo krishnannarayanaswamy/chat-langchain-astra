@@ -1,0 +1,43 @@
+ Diagram 87.2 At risk mental state
+
+OCD 5.4%
+OCS 13.0%
+no OCS 87.0%
+
+Schizophrenia
+OCD 12.3%
+OCS 30.7%
+no OCS 69.3%
+
+Diagram 87.3 2 Stage Pathophysiology of OCD
+
+Early Phase: Anxiety, Uncertainty, and goal-directed behaviours.
+Donomedial Prefrontal Cortex
+Dorsolateral Prefrontal Cortex
+Ventrolateral Prefrontal Cortex
+Orbitofrontal Cortex
+Nucleus Accumbens (ventral striatum) Amyglada
+
+Late Phase: Compulsivity with habitual behaviours
+Supplementary Motor Area (SMA)
+Caudate nucleus
+DLPFC and DMPFC
+Thalamus
+VMPFC and IFG
+Putamen
+Caudate nucleus
+Thalamus
+
+Alterations within the dorsal cognitive, ventral cognitive, Ventral reward CSTC circuits and the frontolimbic circuit
+
+Alterations within the sensorimotor, dorsal cognitive and ventral cognitive CSTC circuits
+
+OCD (Obsessive-compulsive disorder) is a mental illness where people have unwanted, intrusive thoughts, images or urges that make them feel anxious or uncomfortable. They may also have repetitive behaviors that they feel they need to do over and over again. OCD can be very distressing and can interfere with a person's daily life, relationships and work.
+
+The exact cause of OCD is not known, but it is thought to be caused by a combination of genetic and environmental factors. OCD is often treated with medication and therapy.
+
+The two-stage pathophysiology of OCD model proposes that early in the illness, there is hyperactivity in the cortico-striatal-thalamic-cortical (CSTC) circuit, which is involved in goal-directed behaviors. This hyperactivity leads to the symptoms of anxiety, uncertainty, and compulsive behaviors.
+
+Later in the illness, there is hypoactivity in the CSTC circuit, which leads to the symptoms of compulsive behaviors and habituation.
+
+The model also proposes that there are alterations in the sensorimotor, dorsal cognitive, and ventral cognitive CSTC circuits in OCD. These alterations may contribute to the symptoms of OCD by affecting the way that information is processed in the brain.

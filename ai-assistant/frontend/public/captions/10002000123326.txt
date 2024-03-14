@@ -1,0 +1,9 @@
+ The image is a flowchart that provides an overview of the treatment options for patients with melanoma. The flowchart is divided into two main sections: immunotherapy and chemotherapy.
+
+Immunotherapy is a type of treatment that uses the patient's own immune system to fight cancer. The flowchart lists three types of immunotherapy drugs: ipilimumab, pembrolizumab, and nivolumab. These drugs work by blocking different checkpoints in the immune system, which allows the immune system to more effectively recognize and attack cancer cells.
+
+Chemotherapy is a type of treatment that uses drugs to kill cancer cells. The flowchart lists three types of chemotherapy drugs: dacarbazine, temozolomide, and abraxane. These drugs work by damaging the DNA of cancer cells, which leads to cell death.
+
+The flowchart also includes information about clinical trials. Clinical trials are research studies that test new treatments for cancer. Patients who participate in clinical trials may have the opportunity to try new treatments that are not yet available to the public.
+
+The decision of which treatment option is best for a particular patient will depend on a number of factors, including the stage of the cancer, the patient's overall health, and the patient's preferences.

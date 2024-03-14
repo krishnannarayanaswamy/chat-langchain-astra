@@ -1,0 +1,52 @@
+ ## **Motor Neuron Disease**
+Motor Neuron Diseases are a group of diseases which include progressive degeneration and loss of motor neurons with or without similar lesions of the motor nuclei of the brain.
+
+- Diseases that can involve Betz cells of the motor cortex, the lower CN motor nuclei, the CST, and the anterior horn cells.
+- Not contagious
+- Not directly hereditary
+- It is a terminal disease and No cure
+- Currently, one medication that may improve the quality with rapid deterioration is Riluzole (Rilutek)
+- Onset and progression are variable
+
+**Aetiology**
+The exact cause of MND is still not fully understood, but several factors have been identified as potential contributors to the development of the disease.
+
+1. **Genetics:** About 5-10% of MND cases are caused by genetic mutations. Inherited genetic mutations can cause MND, although most cases of MND are not inherited.
+2. **Age:** MND is most commonly diagnosed in people over 50, although it can occur at any age.
+3. **Environmental factors:** Exposure to certain environmental toxins has increased the risk of developing MND. For example, exposure to lead, mercury, and pesticides has been associated with an increased risk of MND.
+4. **Excitotoxicity:** Excitotoxicity is a process by which excessive amounts of glutamate, a neurotransmitter, accumulate in the brain and spinal cord. This can cause damage to motor neurons and contribute to the development of MND.
+5. **Oxidative stress:** Oxidative stress is a condition in which there is an imbalance between the production of reactive oxygen species (ROS) and the body's ability to detoxify them. This can cause damage to cells, including motor neurons, and contribute to the development of MND.
+
+**Variants of Motor Neuron Diseases**
+- Amyotrophic Lateral Sclerosis (ALS)/ Charcot's Disease
+- Lou Gehrig's Disease
+
+**1. Amyotrophic Lateral Sclerosis (ALS)**
+- Amyotrophic Lateral Sclerosis is the most common variant, accounting for about 65% of motor neuron disease cases.
+- "ALS - All Lateral Sclerosis": This can be used to remember the most common variant of MND, Amyotrophic Lateral Sclerosis (ALS).
+- Loss of motor neurons in the cortex, brainstem, and spinal cord
+- A mix of upper motor neuron and lower motor neuron findings
+ - Weakness, atrophy, fasciculations
+ - Slurred speech, difficulty swallowing, shortness of breath
+- It can start in any extremity or the bulbar musculature
+- Relentlessly progressive
+
+**Differential Diagnosis**
+- Toxins (lead, mercury, aluminum)
+- Metabolic (hyperthyroidism, hyperparathyroidism, hypoglycemia)
+- Enzyme deficiency (Hexosaminidase A)
+- Paraneoplastic (lymphoma, small cell lung)
+- Cervical spondylosis
+- Immunologic (paraproteinemia)
+- Multi-system degeneration (Creutzfeldt-Jacob, ALS-PD-Dementia, Spinocerebellar Degeneration)
+- Viral (Post-polio)
+- Bacterial (Lyme disease)
+- Vitamin B12 deficiency
+
+**2. Progressive Bulbar Palsy (PBP)**
+- Progressive Bulbar Palsy -25%
+- "PBP - Problems with Bulbar Palsy": This can be used to remember Progressive Bulbar Palsy (PBP), which affects the muscles involved in speech, swallowing, chewing, and breathing.
+- Affects bulbar muscles, which control speech, swallowing, and chewing
+- Gradual loss of speech
+- Swallowing problems - food and saliva
+- This leads to muscle weakness especially upper limbs/neck/shoulder

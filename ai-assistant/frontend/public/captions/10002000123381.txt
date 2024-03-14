@@ -1,0 +1,26 @@
+ ## **SICS: Small-Incision Cataract Surgery**
+It can be performed manually or with the help of Phacoemulsification.
+
+Phacoemulsification is a technique in which a small incision is made in the cornea, and a probe is inserted to break up the cataract into small pieces. These pieces are then removed through the incision.
+
+## **FLCS: Femto Laser Cataract Extraction**
+It is a type of cataract surgery in which a femtosecond laser is used to create a precise incision in the cornea. This allows the surgeon to remove the cataract with greater accuracy and less trauma to the eye.
+
+## **Complications of Cataract Surgery**
+
+### **1. Operative complications**
+- Vitreous loss: This is a serious complication that can occur during cataract surgery. It occurs when the vitreous, the gel-like substance that fills the eye, leaks out through the incision. This can lead to retinal detachment and other serious problems.
+- Posterior loss of lens fragments: This is another serious complication that can occur during cataract surgery. It occurs when fragments of the lens break off and fall into the back of the eye. This can lead to inflammation, scarring, and other problems.
+- Suprachoroidal (expulsive) haemorrhage: This is a rare but potentially devastating complication of cataract surgery. It occurs when bleeding occurs in the suprachoroidal space, the space between the choroid and the sclera. This can lead to a sudden increase in intraocular pressure, which can damage the optic nerve and lead to blindness.
+
+### **2. Early postoperative complications**
+- Iris prolapse: This is a complication that can occur in the early postoperative period. It occurs when the iris, the colored part of the eye, prolapses through the incision. This can lead to inflammation, scarring, and other problems.
+- Striate keratopathy: This is a complication that can occur in the early postoperative period. It occurs when the cornea, the clear front part of the eye, becomes inflamed and develops a striated appearance. This can lead to decreased vision and other problems.
+- Acute bacterial endophthalmitis: This is a serious complication that can occur in the early postoperative period. It occurs when bacteria infect the inside of the eye. This can lead to inflammation, scarring, and other serious problems.
+
+### **3. Late postoperative complications**
+- Capsular opacification: This is a common complication that can occur in the late postoperative period. It occurs when the capsule, the thin membrane that surrounds the lens, becomes cloudy. This can lead to decreased vision and other problems.
+- Implant displacement: This is a complication that can occur in the late postoperative period. It occurs when the intraocular lens (IOL), the artificial lens that is implanted during cataract surgery, moves out of position. This can lead to decreased vision and other problems.
+- Corneal decompensation: This is a serious complication that can occur in the late postoperative period. It occurs when the cornea, the clear front part of the eye, becomes damaged. This can lead to decreased vision and other serious problems.
+- Retinal detachment: This is a serious complication that can occur in the late postoperative period. It occurs when the retina, the light-sensitive tissue at the back of the eye, detaches from the choroid, the layer of tissue that supplies blood to the retina. This can lead to blindness.
+- Chronic bacterial endophthalmitis: This is a serious complication that can occur in the late postoperative period. It occurs when bacteria infect the inside of the eye and cause chronic inflammation. This can lead to decreased vision and other serious problems.

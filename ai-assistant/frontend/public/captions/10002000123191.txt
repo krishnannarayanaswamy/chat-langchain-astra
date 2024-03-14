@@ -1,0 +1,47 @@
+ Definition
+Polycystic kidney disease (PKD) is a genetic condition characterized by the growth of numerous cysts (fluid-filled sacs) in the kidneys.
+The kidneys become larger as the size of the cysts increases.
+Thus, the kidneys malfunction, and eventually, kidney failure due to the progressive loss of kidney function.
+Cysts can also be formed in the liver as a result of PKD.
+PKD has two inherited forms. They are:
+Autosomal dominant (or adult) PKD:
+It is the most common form of PKD.
+The symptoms usually develop between 30 to 40 years of age.
+The cysts start developing during childhood but symptoms do not appear until adulthood as the surrounding normal kidney gets compressed and damaged.
+If any one of the parents carries the disease gene, the child has a 50/50 chance of inheriting the disease.
+Autosomal recessive PKD:
+It is a rare form of PKD.
+Symptoms of autosomal recessive PKD start from childhood and even before birth.
+These cysts can form on the outside or inside of the kidney.
+They are termed 'simple cysts'.
+These cysts are benign and are not considered fatal.
+Complex renal cysts can interfere with kidney function.
+Aetiology
+Autosomal dominant polycystic kidney disease (ADPKD) and autosomal recessive polycystic kidney disease (ARPKD) have their genetic cause.
+Autosomal dominant polycystic kidney disease (ADPKD) causes:
+The genes that are affected in ADPKD are:
+PKD1 (accounts for 85% of the cases)
+PKD2 (accounts for 15% of the cases)
+Both genes exhibit the same signs and symptoms.
+The symptoms are more severe in the case of PKD1.
+A child has a 50% chance of developing ADPKD if one of their parents has the faulty PKD1 or PKD2 gene.
+Autosomal recessive polycystic kidney disease (ARPKD) causes:
+It is a comparatively rare kidney disease.
+The child will only develop ARPKD if both parents carry the faulty gene.
+The problems usually start at a much early age.
+Epidemiology
+PKD affects males and females equally.
+Race, age, ethnicity, etc., do not influence the individual's risk of developing the disorder.
+It has a reported prevalence of 1:1000.
+PKD is considered the cause of nearly 10% of all end-stage renal diseases.
+PKD occurs in some animals apart from humans.
+Today, ARPKD occurs in one in 25,000 children worldwide.
+Pathophysiology
+Polycystin-1 (PKD1 protein) and polycystin-2 (PKD2 protein) belong to a subfamily of transient receptor potential (TRP) channels.
+The inactivation of PKD1 is the determining factor of the extent of the development of the disease.
+PKD2 is found in the following locations:
+Endoplasmic reticulum
+Plasma membrane in spindles in cell division and primary cilium
+The PC1 interacts with the PC2 and helps in the maturation of PC2. This happens both ways.
+Apart from PC2, PC1 also interacts with additional calcium channel proteins.
+Liver cysts originate due to the excessive proliferation and dilation of biliary ductules and peribiliary glands.

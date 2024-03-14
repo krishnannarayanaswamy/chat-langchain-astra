@@ -1,0 +1,42 @@
+ ## Flow Chart 28.4
+Start drug therapy
+- Oxygen
+- Morphine 325 mg
+- Aspirin 325 mg
+- Nitrates
+- Beta-blocker or another antianginal
+
+Consider
+- Clopidogrel 300-600 mg once for
+ischemic pain or if PCI is indicated
+- 180 mg po once for all other patients (unless contraindicated)
+- GP IIbIIIa inhibitors if PCI is high risk indicated or if patients are high risk STEMI
+
+NSTEMI
+
+Uncomplicated
+- Consider angiography within 24-48 h
+- Coronary anatomy amenable to PCI?
+- Yes
+ - CABG
+- No
+ - PCI
+
+Complicated
+- Urgent or emergency angiography
+- Yes
+ - PCI
+- No
+ - Thrombolytic therapy
+- Persistent ischemia?
+- Yes
+ - Repeat thrombolytic therapy or PCI within 90 min
+- No
+ - Consider elective PCI within 24-72 h
+
+Post-ACS
+- Manage reversible risk factors (eg, smoking, sedentary lifestyle, obesity, hypertension, diabetes)
+- ACE inhibitor or angiotensin II receptor blocker
+- Clopidogrel 75 mg once daily for at least 12 mo
+- Optional nitrates for angina in some high-risk patients
+- Maximum tolerated statin dose

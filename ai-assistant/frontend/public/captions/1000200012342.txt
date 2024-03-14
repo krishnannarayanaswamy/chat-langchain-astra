@@ -1,0 +1,16 @@
+ The image is a table that shows the 2008 and 2016 WHO classifications of myeloproliferative neoplasms. The table is divided into three sections: major criteria, minor criteria, and criteria required for diagnosis.
+
+The major criteria for both classifications are similar. They include:
+
+- Increased red blood cell mass
+- Presence of a JAK2V617F or other similar mutation
+
+The minor criteria for the 2008 WHO classification include:
+
+- Bone marrow biopsy showing hypercellularity for age with trilineage growth (panmyelosis) with prominent erythroid, granulocytic, and megakaryocytic proliferation
+- Subnormal serum EPO level
+- Endogenous erythroid colony formation in vitro
+
+The minor criteria for the 2016 WHO classification include:
+
+- Bone marrow biopsy showing hypercellularity for age with trilineage growth (panmyelosis) including

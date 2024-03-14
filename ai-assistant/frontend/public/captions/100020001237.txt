@@ -1,0 +1,9 @@
+ **The image shows a dendritic cell, a T cell, a B cell, and a plasma cell.**
+
+**Dendritic cells** are part of the immune system. They are found in tissues and organs throughout the body. They are responsible for capturing and presenting antigens to T cells. Antigens are foreign substances that the body recognizes as harmful. When a dendritic cell captures an antigen, it processes it and presents it to a T cell. The T cell then becomes activated and can attack the antigen.
+
+**T cells** are also part of the immune system. They are responsible for killing infected cells and producing antibodies. Antibodies are proteins that help the body fight infection. There are two main types of T cells: helper T cells and cytotoxic T cells. Helper T cells activate other immune cells, such as B cells and cytotoxic T cells. Cytotoxic T cells kill infected cells.
+
+**B cells** are also part of the immune system. They are responsible for producing antibodies. Antibodies are proteins that help the body fight infection. B cells are activated by helper T cells. Once activated, B cells produce antibodies that can bind to and neutralize antigens.
+
+**Plasma cells** are a type of B cell that produces antibodies. Plasma cells are found in the bone marrow and other tissues. They are activated by helper T cells. Once activated, plasma cells produce large amounts of antibodies that can bind to and neutralize antigens.

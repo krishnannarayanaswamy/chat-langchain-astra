@@ -1,0 +1,34 @@
+ **Topic: Sickle Cell Anemia**
+
+Sickle cell anemia is a group of blood disorders usually due to inherited defects of the beta-globin chain of hemoglobin.
+
+SCA is associated with malformed hemoglobin in RBCs. Hemoglobin comprises four globin chains (alpha and beta chains).
+
+Sickle cell anemia occurs due to a mutation that replaces glutamine at the sixth position of the beta-globin chain with valine.
+
+This leads to rigid, elongated sickle-like shape polymers under certain circumstances (deoxygenated states).
+
+The symptoms become obvious by the age of 5-6 months.
+
+**Histopathology**
+Howell-Jolly bodies- These are the remnants of DNA in the RBC in patients with autosplenectomy due to sickle cell disease.
+
+Target cell.
+
+**Laboratory Investigation**
+In sickle cell anemia, hemoglobin electrophoresis result shows 80% sickle cell hemoglobin, 1% to 20% hemoglobin F, 2% to 4.5% hemoglobin A, and absence of hemoglobin A.
+
+In the sickle cell anemia trait, hemoglobin electrophoresis result shows 40% or less sickle cell hemoglobin, normal hemoglobin F, increased hemoglobin A, and 60% or more hemoglobin A.
+
+**Treatment**
+Treatments focus on hydration, pain relief, and symptomatic management. As of now, there's no specific cure for sickle cell anemia.
+
+**Complications**
+- Acute Chest syndrome
+- Splenic sequestration crises
+- Acute stroke
+- Aplastic crises
+- Infections
+- Priaprism
+- Avascular necrosis of the joints
+- Renal complications (hyposthenuria, renal papillary necrosis)

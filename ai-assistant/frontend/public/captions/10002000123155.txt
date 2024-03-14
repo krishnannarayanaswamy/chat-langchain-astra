@@ -1,0 +1,15 @@
+ ### **Did You Know?**
+- Insulin is a drug that has been known to be amyloidogenic and is linked to localized amyloidosis.
+- Nicolaus Fontanus first observed amyloidosis in 1639.
+- The amyloids stain blue with an iodine stain and thus were believed to be starch by mistake earlier.
+
+**Table 43.1 Causes and types of Amyloidosis**
+
+| Cause | Type | Details |
+|---|---|---|
+| AL amyloidosis | Primary amyloidosis | The most common type of amyloidosis. <br> Type of protein responsible: Amyloid light (AL) chains <br> Location: Bone marrow <br> Linked with multiple myeloma (A type of blood cancer). <br> Organs affected: Kidneys, heart, liver, intestines, and nerves. |
+| AA amyloidosis | Secondary amyloidosis | Also known as secondary amyloidosis. <br> Type of protein responsible: Amyloid type A (AA) protein <br> It is associated with rheumatoid arthritis, Crohn's disease, or ulcerative colitis. <br> Organs affected: kidneys (mostly), digestive tract, liver, and heart. |
+| Dialysis-related amyloidosis |  | The most common type of amyloidosis affecting older people and those who have been undergoing dialysis for over 5 years. <br> Type of protein responsible: beta-2-microglobulin. <br> Location of accumulation: blood <br> Organs affected: Bones, joints, and tendons. |
+| Familial or hereditary amyloidosis |  | The rare form of amyloidosis that is inherited. <br> Type of protein responsible: Transthyretin (TTR). <br> Many genetic traits are linked to a higher chance of amyloid disease. <br> Organs affected: Liver, nerves, heart, and kidneys. |
+| Age-related (senile) systemic amyloidosis |  | Happens mostly in older people. <br> Type of protein responsible: TTR <br> Location of accumulation: Heart and other tissues. |
+| Organ-specific amyloidosis |  | Caused due to the accumulation of proteins in single organs, including the skin (A condition known as cutaneous amyloidosis). <br> The brain is rarely affected by amyloidosis that happens throughout the body. |

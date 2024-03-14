@@ -1,0 +1,7 @@
+ The image is a flowchart that provides a treatment algorithm for immunocompromised patients with herpes zoster. The algorithm is based on the patient's age, risk factors, and clinical presentation.
+
+For immunocompromised patients, the algorithm recommends starting treatment with IV acyclovir for 7 days. If the patient has severe rash or involvement of the eye or face, they should be admitted to the hospital and monitored for complications. If the patient does not have severe rash or involvement of the eye or face, they can be treated at home with oral acyclovir.
+
+For neonates, the algorithm recommends starting treatment with IV acyclovir for 10 days. If the neonate has severe rash or involvement of the eye or face, they should be admitted to the hospital and monitored for complications. If the neonate does not have severe rash or involvement of the eye or face, they can be treated at home with oral acyclovir.
+
+The algorithm also provides recommendations for treating immunocompromised patients with chronic skin or pulmonary disease. For these patients, the algorithm recommends starting treatment with IV acyclovir for 14 days. If the patient has severe rash or involvement of the eye or face, they should be admitted to the hospital and monitored for complications. If the patient does not have severe rash or involvement of the eye or face, they can be treated at home with oral acyclovir.

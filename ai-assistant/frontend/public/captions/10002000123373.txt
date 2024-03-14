@@ -1,0 +1,9 @@
+ The image shows a table summarizing the different types of glaucoma, their causes, and treatments.
+
+Glaucoma is a group of eye diseases that damage the optic nerve, which is responsible for sending visual information from the eye to the brain. The most common type of glaucoma is open-angle glaucoma, which is characterized by a gradual increase in intraocular pressure (IOP), or the pressure inside the eye. This can lead to damage to the optic nerve and vision loss if left untreated.
+
+Other types of glaucoma include angle-closure glaucoma, which is caused by a sudden increase in IOP due to a blockage in the drainage channels of the eye; secondary glaucoma, which is caused by another underlying condition such as diabetes or uveitis; and congenital glaucoma, which is present at birth.
+
+Treatment for glaucoma typically involves lowering IOP with eye drops, oral medications, laser therapy, or surgery. The goal of treatment is to prevent further damage to the optic nerve and vision loss.
+
+It is important to have regular eye exams to check for glaucoma, especially if you are at risk for the disease. Early detection and treatment can help to prevent vision loss.

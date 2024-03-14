@@ -1,0 +1,39 @@
+ **Image description:**
+
+The image contains two tables. 
+**Table 11.1** lists the different types of porphyria, the enzyme defect that causes each type, and the characteristic symptoms. 
+**Table 11.2** provides more information about acute intermittent porphyria, including the pattern of inheritance, enzyme deficiency, clinical features, diagnosis, and treatment.
+
+**Concepts:**
+
+- Porphyria is a group of disorders that affect the production of heme, a component of hemoglobin.
+- Heme is produced in the liver and bone marrow. 
+- In porphyria, there is a deficiency of one of the enzymes involved in the heme production pathway. 
+- This leads to a buildup of porphyrins, which are intermediates in the heme production pathway. 
+- Porphyrins can accumulate in the skin, liver, and nervous system, causing a variety of symptoms. 
+- The symptoms of porphyria can vary depending on the type of porphyria and the severity of the deficiency. 
+- Acute intermittent porphyria (AIP) is the most common type of porphyria. 
+- AIP is caused by a deficiency of the enzyme porphobilinogen deaminase. 
+- AIP is characterized by attacks of abdominal pain, nausea, vomiting, and constipation. 
+- Attacks can be triggered by a variety of factors, including stress, infection, and certain medications. 
+- The diagnosis of porphyria is based on the patient's symptoms and a blood or urine test to measure porphyrin levels. 
+- Treatment for porphyria is aimed at relieving symptoms and preventing attacks. 
+- Treatment may include pain medication, intravenous fluids, and blood transfusions. 
+- In some cases, a liver transplant may be necessary.
+
+**Summary of Table 11.1:**
+
+| Type of porphyria | Enzyme defect | Characteristic |
+|---|---|---|
+| Acute intermittent porphyria | Uroporphyrinogen I synthase | Abdominal pain, neuropsychiatric symptoms |
+| Porphyria cutanea tarda | Uroporphyrinogen decarboxylase | Photosensitivity |
+| Hereditary coproporphyria | Coproporphyrinogen oxidase | Abdominal pain, Photosensitivity, neuropsychiatric symptoms |
+| Variegate porphyria | Protoporphyrinogen oxidase | Abdominal pain, photosensitivity, neuropsychiatric symptoms |
+| Congenital erythropoietic porphyria | Uroporphyrinogen III cosynthase | Photosensitivity increased hemolysis |
+| Protoporphyria | Ferrochelatase | Photosensitivity |
+
+**Summary of Table 11.2:**
+
+| Pattern of inheritance | Enzyme deficiency | Substrate accumulated | Clinical features | Diagnosis | Treatment |
+|---|---|---|---|---|---|
+| Autosomal dominant | Porphobilinogen deaminase/Hydroxymethylbilane synthase | Porphobilinogen (PBG) and aminolevulinic acid (ALA) | Acute neurovisceral attacks: abdominal pain, vomiting, constipation, muscle weakness, peripheral neuropathy, seizures, psychiatric symptoms, port-wine urine | Urine test for elevated levels of PBG and ALA during an attack; genetic testing for gene mutations | High carbohydrate diet; intravenous glucose or hemin during acute attacks; avoidance of triggering factors (e.g., barbiturates, oral contraceptives) |

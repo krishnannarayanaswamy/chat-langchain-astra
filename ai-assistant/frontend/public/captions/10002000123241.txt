@@ -1,0 +1,14 @@
+ The image is a table and flowchart that summarizes the genetic basis of Duchenne muscular dystrophy (DMD). 
+DMD is the most common type of muscular dystrophy, a genetic disorder that causes progressive muscle weakness and wasting. It is caused by a mutation in the dystrophin gene, which is located on the X chromosome. 
+
+The table shows the different types of DMD and their symptoms. The most common type is DMD, which affects boys and typically begins between the ages of 2 and 3. Symptoms include muscle weakness in the legs and hips, which progresses to the arms and respiratory muscles. DMD is a severe disease and most boys with DMD will need to use a wheelchair by the age of 12. 
+
+Becker muscular dystrophy (BMD) is a milder form of DMD that is also caused by a mutation in the dystrophin gene. Symptoms of BMD typically begin between the ages of 5 and 15 and are less severe than those of DMD. People with BMD may have muscle weakness in the legs and hips, but they are usually able to walk and do not need to use a wheelchair. 
+
+Limb-girdle muscular dystrophy (LGMD) is a group of muscular dystrophies that are caused by mutations in different genes. Symptoms of LGMD typically begin in adulthood and can vary depending on the specific type of LGMD. People with LGMD may have muscle weakness in the arms, legs, or shoulders. 
+
+The flowchart shows the genetic basis of DMD. The dystrophin gene is located on the X chromosome and contains 79 exons. Exons are the parts of a gene that are translated into protein. In DMD, a mutation in the dystrophin gene results in the production of a truncated dystrophin protein. This truncated protein is not functional and cannot protect muscle cells from damage. 
+
+The DMD gene is located on the X chromosome, so it is passed down from mothers to their sons. If a mother carries the DMD gene, she has a 50% chance of passing it on to her son. If a son inherits the DMD gene, he will have DMD. If a daughter inherits the DMD gene, she will be a carrier of the disease, but she will not have symptoms. 
+
+There is no cure for DMD, but there are treatments that can help to slow the progression of the disease. These treatments include corticosteroids, which can help to strengthen muscles, and physical therapy, which can help to maintain muscle function.

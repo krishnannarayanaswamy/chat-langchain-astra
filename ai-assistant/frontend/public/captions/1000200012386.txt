@@ -1,0 +1,39 @@
+ The image is a table that compares and contrasts the three main types of lung cancer: squamous cell carcinoma, adenocarcinoma, and large cell carcinoma. 
+
+The table includes information on the prevalence, incidence, location, risk factors, histological features, high yield facts, and prognosis of each type of lung cancer.
+
+**Prevalence**
+- Squamous cell carcinoma accounts for about 25% of NSCLC cases
+- Adenocarcinoma accounts for about 40% of NSCLC cases
+- Large cell carcinoma accounts for about 10% of NSCLC cases
+- Bronchoalveolar variant of adenocarcinoma occurs in about 3% of all lung cancer patients
+
+**Incidence**
+- Squamous cell carcinoma is decreasing in incidence
+- Adenocarcinoma is increasing in incidence
+- Large cell carcinoma is increasing in incidence
+
+**Location**
+- Squamous cell carcinoma is usually centrally located
+- Adenocarcinoma is usually more peripheral but can be multifocal
+- Large cell carcinoma can be centrally or peripherally located
+
+**Risk factors**
+- Squamous cell carcinoma is highly correlated with smoking (90% of those with SCC are smokers)
+- Adenocarcinoma is most common in non-smokers and the precursor is atypical alveolar hyperplasia
+- Large cell carcinoma typically affects younger, female, and non-smoking patients
+
+**Histological features**
+- Squamous cell carcinoma is characterized by cancer of squamous epithelial cells, keratin pearls, and intercellular bridges
+- Adenocarcinoma is characterized by cancer of bronchial mucosal (glandular) tissue or the alveolar surface epithelium, and mucin positive
+- Large cell carcinoma is diagnosed by exclusion, meaning it does not have the features of adenocarcinoma or squamous cell carcinoma, and is characterized by cancer of type 2 pneumocytes that grows along alveolar septa
+
+**High yield facts**
+- Squamous cell carcinoma is associated with hypercalcemia due to increased release of PTHrP
+- Adenocarcinoma often has a faster doubling time than squamous cell carcinoma and usually has a worse prognosis
+- Large cell carcinoma can cavitate, metastasize early (often to the GI tract), and has a prognosis similar to that of adenocarcinoma
+
+**Prognosis**
+- Squamous cell carcinoma is a slow-growing tumor
+- Adenocarcinoma is usually a faster-growing tumor than squamous cell carcinoma
+- Large cell carcinoma can cavitate and metastasize early, and has a prognosis similar to that of adenocarcinoma

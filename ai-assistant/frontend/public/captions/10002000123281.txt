@@ -1,0 +1,11 @@
+ The image is a table of influenza treatment recommendations. It lists the generic name of the drug, the trade name, the dosage, and the frequency of administration. There are two tables, one for treatment and one for prophylaxis.
+
+The treatment table is for patients who are already sick with the flu. The prophylaxis table is for people who want to prevent getting the flu.
+
+The drugs listed in the table are all antiviral drugs. They work by preventing the virus from replicating in the body. The most common side effects of these drugs are nausea, vomiting, and diarrhea.
+
+The dosage of the drugs depends on the age and weight of the patient. The frequency of administration depends on the severity of the illness.
+
+It is important to take the drugs exactly as prescribed by your doctor. Do not stop taking the drugs even if you start to feel better. Stopping the drugs early can lead to the virus becoming resistant to the drugs.
+
+If you have any questions about the drugs, talk to your doctor.

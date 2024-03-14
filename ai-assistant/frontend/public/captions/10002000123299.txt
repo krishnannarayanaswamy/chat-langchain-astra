@@ -1,0 +1,15 @@
+ The image is a flowchart that provides a clinical pathway for the triage of patients with suspected diphtheria. The flowchart is divided into two main sections: one for patients with suspected diphtheria and one for patients with confirmed diphtheria.
+
+**For patients with suspected diphtheria, the flowchart recommends the following steps:**
+
+1. Assess the patient for clinical warning signs, such as stridor, fast respiratory rate, chest in-drawing, restlessness or lethargy, bull neck, delayed capillary refill, fast heart rate and cold extremities, and central cyanosis.
+2. If the patient has any of these signs, they should be given DAT (diphtheria antitoxin) as soon as possible and referred to a hospital for further evaluation.
+3. If the patient does not have any of these signs, they should be given antibiotics (penicillin or erythromycin) as soon as possible and monitored for deterioration.
+
+**For patients with confirmed diphtheria, the flowchart recommends the following steps:**
+
+1. The patient should be isolated in a hospital for at least 48 hours.
+2. The patient should be given antibiotics (penicillin or erythromycin) for 14 days.
+3. The patient should be monitored for deterioration.
+
+The flowchart also includes information on the dosage of DAT and antibiotics, as well as the duration of treatment.

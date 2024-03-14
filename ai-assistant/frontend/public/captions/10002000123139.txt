@@ -1,0 +1,66 @@
+ **Pathophysiology**
+**Type 1 diabetes**
+- In response to the glucose stimulus, beta-cells of the islets of Langerhans (in the pancreas) synthesize insulin.
+- The destruction of the insulin-producing cells causes type 1 diabetes (TD1).
+- The autoimmune destruction of the beta-cells is believed to be triggered by an infective or environmental stimulus in genetically predisposed individuals.
+- After approximately 80% of pancreatic beta-cells have been destroyed, clinical signs and symptoms begin to develop.
+- This often gets manifested at a time of increased insulin demand.
+
+**Type 2 diabetes**
+- Malfunctioning of the feedback loops between insulin action and secretion causes the blood glucose level to increase manifold.
+- Beta cell dysfunction:
+ - In this case, insulin secretion is reduced.
+ - This eventually limits the body's capacity to maintain physiological glucose levels.
+- Insulin resistance:
+ - It leads to increased glucose production in the liver.
+ - Glucose uptake by muscle, liver, and adipose tissue will be reduced.
+- Beta cell dysfunction is more severe than insulin resistance.
+- When both are present simultaneously, hyperglycemia will be amplified, leading to the development of Type 2 diabetes mellitus.
+
+**Diagnosis**
+**Clinical Features**
+**Type 1 diabetes mellitus**
+- The increased appetite (especially after eating)
+- Frequent urination
+- Extreme thirst
+- Dry mouth
+- Upset stomach
+- Vomiting
+- Weight loss
+- Blurry vision
+- Fatigue
+- Frequent infections of the skin, urinary tract, and vagina
+- Labored breathing (Kussmaul respiration)
+- Mood swings and irritability
+- Bedwetting among children is also seen.
+- Emergency signs are the following:
+ - Rapid breathing
+ - Shaking and confusion
+ - Loss of consciousness
+ - Stomach pain
+
+**Type 2 diabetes mellitus**
+- Increased thirst
+- Frequent urination
+- Irritability
+- Blurry vision
+- Fatigue
+- Recurring yeast infections
+- Tingling or numbness in hands or feet
+- Impaired wound healing
+- Unexplained weight loss
+- Increased incidence of infections
+- Increased appetite
+
+**Important Information**
+- Acanthosis nigricans
+ - It is a condition in which dark rashes around the neck or armpits develop.
+ - This is usually considered a sign of insulin resistance.
+ - Consultation should be taken as soon as possible in such a case.
+
+**Investigations of type 1 diabetes mellitus**
+- Glycated hemoglobin (A1C) test:
+ - This test can estimate and provide the average blood sugar level over the past 3 months.
+ - It measures the amount of blood sugar attached to the oxygen-carrying protein in the red blood cells (RBCs).
+ - The higher the blood sugar level, the higher the hemoglobin (Hb) attached to the sugar.
+ - An HbA1c level of 6.5% or more on two tests marks a positive result.

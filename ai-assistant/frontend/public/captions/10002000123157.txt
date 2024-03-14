@@ -1,0 +1,64 @@
+ ## **Lipid Metabolism Disorders**
+Lipids within the body are ingested as food or synthesized by adipocytes or hepatocytes from carbohydrate precursors.
+It is associated with carbohydrate metabolism as products of glucose (such as acetyl CoA) can be converted into lipids.
+Just like glucose, the end products of fatty acid metabolism are carbon dioxide, water, and ATP.
+However, the complete metabolism of fatty acids to these products also requires glucose; otherwise, ketones are produced.
+Dietary lipids are 90% triacylglycerols.
+Other dietary lipids include cholesterol esters, phospholipids, essential unsaturated fatty acids, and fat-soluble vitamins (A, D, E, and K).
+Fat is energy-rich and provides 9 kcal/gm.
+
+## **Lipid Transport, Storage, and Utilization**
+Normally, essentially all (98%) of the fat consumed is absorbed and transported to adipose tissue for storage.
+Dietary lipid: Triacylglycerides, cholesterol, phospholipids
+Dietary lipid transport: Chylomicron
+Endogenous lipid transport: VLDL, IDL, LDL, HDL
+
+## **Lipoproteins**
+Lipoproteins are the macromolecular complex of lipids and proteins.
+
+**Structure of lipoproteins**
+Hydrophobic lipids (TG, CE) in the core;
+Hydrophilic lipids (UC, PL) on the surface
+
+## **Primary Disorders of Elevated ApoB Containing Lipoproteins**
+### **Lipid Disorders Associated with Elevated LDL-C and Normal Triglycerides**
+1. Familial Hypercholesterolemia (FH)
+2. Familial Defective ApoB-100 (FDB)
+3. Autosomal Dominant Hypercholesterolemia Due to Mutations in PCSK9 (ADH-PCSK9 or ADH3)
+4. Autosomal Recessive Hypercholesterolemia (ARH)
+5. Polygenic Hypercholesterolemia
+
+### **Lipid Disorders Associated with Elevated Triglycerides**
+1. Familial Chylomicronemia Syndrome
+2. Apo A-V Deficiency
+3. GPIHBP1 Deficiency
+4. Familial Hypertriglyceridemia (FHTG)
+5. Familial Combined Hyperlipidemia (FCHL)
+6. Hepatic Lipase Deficiency
+7. Familial Dysbetalipoproteinemia
+
+## **Genetic Disorders of HDL Metabolism**
+### **Inherited Causes of Low Levels of HDL-C**
+1. Gene deletions in the Apoav-AI-CIII-AIV locus and coding mutations in ApoA-I
+2. Tangier Disease (ABCA1 Deficiency)
+3. LCAT Deficiency
+4. Primary Hypoalphalipoproteinemia
+
+### **Inherited Causes of High Levels of HDL-C**
+1. CETP Deficiency
+2. Familial Hyperalphalipoproteinemia AUD
+
+## **Familial Dyslipidemias**
+"1 LP, 2LD, 3with E, 4 gets more"
+
+Triglycerides
+Protein
+Phospholipids
+Free cholesterol
+Cholesterol bound to fatty acids
+
+Type 1 - LPL Type 2 - LDL-R Type 3 - ApoE Type 4 - VLDL
+↑TGS ↑Remnants ↑VLDL ↑LDL
+
+## **Abetalipoproteinemia**
+Genetic cause: Abetalipoproteinemia is a rare autosomal recessive disorder caused by mutations in the MTP gene, which encodes for microsomal triglyceride transfer protein.

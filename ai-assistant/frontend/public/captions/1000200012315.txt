@@ -1,0 +1,6 @@
+ The image is a diagram of the symptoms of anemia. It lists the symptoms in red and the body part affected in blue. The symptoms are:
+- Eyes: yellowing
+- Skin: paleness, coldness, yellowing
+- Respiratory: shortness of breath
+- Muscular: weakness
+- Intestinal: changed

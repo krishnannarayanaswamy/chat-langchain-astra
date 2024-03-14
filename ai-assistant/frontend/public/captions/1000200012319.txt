@@ -1,0 +1,115 @@
+ +
+•
++
+4
+НЕМОPHILIA
+Hemophilia is a common hereditary bleeding disorder
+caused by deficiencies of either clotting factor VIII or
+clotting factor IX.
+The severity of bleeding is determined by the extent of factor
+deficiency.
+Epidemiology
+•
+Hemophilia reportedly affects 1 in 5000 men globally.
+Hemophilia A and B and von Willebrand disease make up the
+most prevalent types of bleeding disorders.
+The severe disease manifests at the age of one month,
+moderate disease at the age of 8 months, and mild disease at
+the age of 36 months.
+Etiology
+•
+•
+Cause: mutations, deletions, or inversions affecting the
+factor VIII or factor gene.
+Factor VIII and Factor IX genes are located on the X
+chromosome. Hence, Hemophilia is almost an exclusively
+male disease.
+80% of the cases are of hemophilia A due to factor VIII
+deficiency, and 20% of the cases are of hemophilia B due to
+factor IX deficiency. Hemophilia C is very rare (autosomal
+recessive) and is seen in Ashkenazi Jews due to factor XI
+deficiency. Females can become carriers but can never get
+affected by the actual clinical features of the disease.
+Each son of the carrier has a 50% probability of actually
+having the disease and a 50% probability of being perfectly
+normal. Similarly, each daughter of the carrier has a 50%
+probability of transmitting the disease.
+Pathophysiology
+•
+•
+Normal hemostasis: The process requires > 50% of normal
+factor VIII and IX levels.
+Most patients with hemophilia have levels <5%;
+Severe cases have extremely low levels (<1%).
+The functional level of factor VIII or IX in hemophilia A and
+hemophilia B varies depending on the specific mutation in
+factor VIII or IX gene. Hence, the bleeding severity also
+depends on the specific mutation.
+Refer Flow Chart 4.1
+Signs and Symptoms
+• Joints, soft tissue, and muscular and mucosal bleeding are
+prominent features of hemophilia.
+•
+The duration of the bleeding is determined by the extent of
+trauma and the plasma level of factor VIII or IX.
+• Bleeding is often accompanied by mild to moderate pain.
+•
+•
+•
+•
+•
+•
+Chronic or recurrent hemarthroses can lead to synovitis and
+arthropathy.
+In some cases, a mild blow to the head may cause intracranial
+bleeding.
+If the bleeding is into the base of the tongue, life-threatening
+complications like airway compression can occur.
+Recurrent bruising and hematoma formation, epistasis, oral
+bleeding after tooth extraction, hematemesis, melena, and
+hematuria are prominent features.
+In mild hemophilia (factor levels 5 to 25% of normal), e.,
+there's a high probability of excessive bleeding during or
+after the surgery or similar procedures.
+Moderate hemophilia (factor levels 1 to 5% of normal)
+usually causes bleeding after minimal trauma shows
+bleeding even after minimal trauma.
+Severe hemophilia (factor VIII or IX level < 1% of normal)
+causes severe bleeding throughout life, usually beginning
+soon after birth (e.g., scalp hematoma after delivery or
+excessive bleeding after circumcision).
+Diagnosis
+•
+•
+•
+•
+•
+•
+•
+Diagnosis is usually made from the following parameters:
+Platelet count, prothrombin time (PT), partial
+thromboplastin time (PTT), and factor VIII and IX assays.
+Sometimes von Willebrand factor activity and antigen and
+multimer composition are also used to reach a diagnosis.
+In any patients with recurrent bleeding, unexplained
+hemarthroses, or a prolongation of the PTT, we can suspect
+Hemophilia. In hemophilia, the PTT is prolonged, but the PT
+and platelet count are normal.
+A mixing study (adding factor VIII) is done when the PTT is
+prolonged. In hemophilia, PTT becomes normal after the
+mixing of clotting factors, while in von Willebrand disease, it
+remains prolonged.
+The type and severity of the hemophilia are determined by
+assays of Factor VIII and IX. Because factor VIII levels may
+also be reduced in von Willebrand disease (VWD), von
+Willebrand factor (VWF) activity, antigen, and multimer
+composition are measured in patients with newly diagnosed
+hemophilia A, particularly if the disorder is mild and a family
+history indicates that both male and female family members
+are affected.
+To determine whether a female is a true carrier of hemophilia
+A, factor VIII is measured.
+In a similar fashion, to determine whether one is a true carrier
+of hemophilia B, factor IX is measured.
++
+15

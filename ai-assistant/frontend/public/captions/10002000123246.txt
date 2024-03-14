@@ -1,0 +1,21 @@
+ The image is a page from a book. It is about the treatment of fibromyalgia. The text on the image is as follows:
+
+## Investigations
+- Evaluate for other disorders.
+- Complete physical exam
+- Check ESR, CRP, CBC, chemistry panel, and TSH.
+- Antinuclear antibody (ANA)- Avoid ANA and RF unless indicated.
+- Anti-SSA (anti Sjögren's syndrome A) and anti-SSB
+- Rheumatoid factor and anti-cyclic citrullinated peptide (anti-CCP)
+- Creatine phosphokinase (CPK)
+- Viral (e.g., Hepatitis C, HIV) and bacterial (e.g., Lyme) serologies
+- Spine and joint Radiography
+
+## Treatment
+- Educate patients about their symptoms & physiology of chronic pain and the importance of non-pharmacologic therapies.
+- Land or water-based exercise improves function, pain, stiffness, muscle strength, and fitness
+- Tai chi, yoga, qigong, and a variety of other therapies have been reported to be safe and effective for overall symptoms and physical functioning.
+- Cognitive therapy helps persons self-manage and reframe worrisome and intrusive thoughts
+- Fibromyalgia treatments include both medication and self-care measures. The focus is on reducing symptoms and enhancing overall health. While there isn't a single cure for all symptoms, using a number of approaches can help in the long run.
+- Medications can help reduce the pain of Fibromyalgia and improve sleep.
+- Muscle relaxants, Cyclobenzaprine, Antidepressants (balanced serotonin-nor-epinephrine reuptake inhibitors), Amitriptyline, Duloxetine, Pregabalin & Milnacipran (FDA approved) are Pharmacologic Agents Effective for the treatment of Fibromyalgia.

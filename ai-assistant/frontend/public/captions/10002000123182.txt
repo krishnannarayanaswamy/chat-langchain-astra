@@ -1,0 +1,37 @@
+ ## Diabetes Insipidus
+**Definition**
+Diabetes insipidus (DI) is a rare disorder that causes the kidneys to produce large amounts of urine. This can lead to dehydration and other serious health problems.
+
+**Causes**
+There are two main types of DI:
+* **Central DI** is caused by a problem with the pituitary gland, which produces a hormone called antidiuretic hormone (ADH). ADH helps the kidneys to retain water. In central DI, the pituitary gland either does not produce enough ADH or the kidneys do not respond to ADH properly.
+* **Nephrogenic DI** is caused by a problem with the kidneys themselves. The kidneys are not able to respond to ADH properly, even though the pituitary gland is producing enough of it.
+
+**Symptoms**
+The symptoms of DI can vary depending on the type of DI. In central DI, the symptoms can include:
+* Frequent urination
+* Dehydration
+* Thirst
+* Fatigue
+* Weight loss
+In nephrogenic DI, the symptoms can include:
+* Frequent urination
+* Dehydration
+* Thirst
+* Fatigue
+* Weight loss
+* Nausea
+* Vomiting
+* Diarrhea
+
+**Diagnosis**
+DI is diagnosed based on the patient's symptoms and a physical examination. The doctor will also order blood and urine tests to confirm the diagnosis.
+
+**Treatment**
+The treatment for DI depends on the type of DI. In central DI, the treatment is usually to replace the missing ADH. This can be done with a medication called desmopressin. Desmopressin can be taken in the form of a pill, a nasal spray, or an injection. In nephrogenic DI, the treatment is usually to treat the underlying cause of the condition. If the underlying cause cannot be treated, the treatment may be to increase the patient's fluid intake and to give them medications to help the kidneys retain water.
+
+**Prognosis**
+The prognosis for DI is generally good. However, the condition can be serious if it is not treated properly.
+
+**Prevention**
+There is no known way to prevent DI. However, early diagnosis and treatment can help to prevent serious complications.

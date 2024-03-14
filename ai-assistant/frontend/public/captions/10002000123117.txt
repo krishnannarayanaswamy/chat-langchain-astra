@@ -1,0 +1,54 @@
+ # **Addison Disease**
+**Definition**
+Adrenal gland is known to produce two important hormones:
+- Cortisol
+- Aldosterone
+
+Addison's disease is a rare condition in which a person's adrenal gland fails to produce enough of these hormones.
+The major cause for this particular condition is an autoimmune attack and is treatable with medication.
+
+**Etiology**
+Types of Adrenal Insufficiency
+- **Central AI**
+ - **Primary**
+ - **Hypothalamic/CRH production affected**
+ - **Secondary**
+ - **Pituitary ACTH/ Adrenal production affected**
+- **Primary**
+ - **Adrenal gland cause**
+ - **Addison's disease**
+ - **Congenital**
+- **Tertiary**
+ - **Genetic**
+ - **Traumatic brain injury**
+
+**Primary Adrenal Insufficiency**
+Acute destruction of the adrenal gland is the main reason for this condition. 
+Thus, they fail to produce the hormones that are supposed to produce.
+Primary adrenal insufficiency is an autoimmune disease. The other major causes of primary adrenal gland insufficiency are:
+- Long-term administration of glucocorticoids (e.g., prednisone)
+- Certain areas in the body
+- Cancers
+- Tuberculosis
+
+**Secondary Adrenal Insufficiency**
+Adrenocorticotropic hormone (ACTH) fails to produce adrenal glucocorticoids when released or the patient takes the corticosteroids to alleviate the symptoms.
+The other major causes of secondary adrenal insufficiency are:
+- Medications
+- Tumors
+- Trauma
+- Genetic
+
+**Tertiary Adrenal Insufficiency**
+This type of adrenal insufficiency affects the hypothalamus.
+In turn, it hampers the secretion of CRH from the pituitary gland.
+Major cause of tertiary adrenal insufficiency is long-term steroid therapy.
+Another cause of tertiary adrenal insufficiency is:
+- Primary adrenal insufficiency: Affects adrenal gland
+- Secondary adrenal insufficiency: Affects pituitary gland
+
+**People at higher risk of Addison's disease might have the following conditions:**
+- Taking blood thinners/anticoagulants
+- Been on high doses of steroids
+- Gotten any part of the adrenal gland removed through surgery
+- Have had chronic infections like tuberculosis

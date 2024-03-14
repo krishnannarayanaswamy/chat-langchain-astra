@@ -1,0 +1,15 @@
+ The image is about Amyotrophic Lateral Sclerosis (ALS), a progressive neurodegenerative disease that affects the motor neurons in the spinal cord and brain. 
+
+The disease is also known as Lou Gehrig's disease or Charcot's disease. 
+
+The genes related to ALS are SOD1, NEFH, PRPH, DCTN1, and FUS. 
+
+The possible underlying mechanisms for the degradation of the motor neurons include free-radical based degeneration, abnormal RNA processing, mitochondrial dysfunction, and defective neurofilaments. 
+
+The predisposing factors for ALS include disease-causing mutations, family history, age, gender, and possible environmental risk factors such as neurotoxicant exposures, lifestyle factors, and certain occupation characteristics. 
+
+The clinical manifestations of ALS include muscle stiffness, fatigue and weakness, slurred speech, bulbar symptoms, weight loss, split hand sign, difficulty in chewing and swallowing, shortness of breath, muscle weakness due to emancipation, respiratory failure, paralysis, cognitive impairment, autonomic system dysfunction, difficulty walking, trip and fall, hand weakness, muscle cramps, leg weakness, and slurred speech. 
+
+Differential diagnoses include myasthenia gravis, thyrotoxicosis, cervical spondylosis, Lambert-Eaton myasthenic syndrome, and multifocal motor neuropathy. 
+
+The diagnosis of ALS is based on the EMG (showing Denervation and Fasciculations).

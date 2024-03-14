@@ -1,0 +1,56 @@
+ **Title:** Lipid Metabolism Disorders
+
+**Clinical features:**
+Symptoms usually appear in infancy and include fat malabsorption, steatorrhea (fatty, foul-smelling stools), and failure to thrive. Patients may develop neurological complications, such as ataxia, peripheral neuropathy, and retinitis pigmentosa.
+
+**Diagnosis:**
+- Blood tests reveal extremely low or absent levels of cholesterol, LDL, and apolipoprotein B.
+- Abnormal lipid profile with acanthocytosis (spiky red blood cells) seen on the peripheral blood smear.
+- Genetic testing to confirm the presence of MTP gene mutations.
+
+**Management:**
+- High-dose vitamin E supplementation to prevent or slow the progression of neurological complications.
+- Fat-soluble vitamin supplementation (A, D, E, K) to address deficiencies.
+- A low-fat diet with medium-chain triglyceride supplementation to improve fat absorption and nutrition.
+
+**Treatment for Lipid metabolism disorders**
+- Lifestyle changes:
+ - Total fat intake almost 20-30% calories
+ - Cholesterol level <200 mg/d
+ - Quit smoking
+ - Weight loss
+ - Exercise
+- Drugs:
+ - Lowers cholesterol/LDL: statins, fenofibrate, ezetimibe
+ - Lowers triglycerides: diet, fibrates, omega-3 fish oil
+
+**Indications for Statin Use**
+- Primary prevention for:
+ - LDL-C>=190 mg/dl
+- Diabetes and aged 40-75 years with LDL-C between 70-189 mg/dl
+ - No diabetes and estimated 10-year ASCVD risk of≥ 7.5% who are between 40 to 75 years of age with LDL-C between 70-189 mg/dl
+- Secondary prevention for:
+ - Patients with known coronary heart disease
+ - Other cardiovascular diseases, including stroke, transient ischemic attack, and peripheral arterial disease
+ - Combinations of risk factors that result in 10-year risk of ASCVD events of more than 20 percent
+ - Chronic kidney disease with estimated GFR <45ml/min/1.73m²
+
+**Table 44.3: Lysosomal Storage Disorders (Sphingolipidosis)**
+
+| Disorder | Inheritance | Clinical Features | Treatment |
+|---|---|---|---|
+| Gaucher disease | Autosomal recessive | Splenomegaly, hepatomegaly, thrombocytopenia, anemia, bone pain, pathologic fractures | Enzyme replacement therapy |
+| Niemann-Pick disease | Autosomal recessive | Splenomegaly, hepatomegaly, neurologic deterioration, cherry-red spot in the macula | No specific treatment |
+| Fabry disease | X-linked recessive | Angiokeratoma corporis diffusum, acroparesthesias, renal failure, cardiomyopathy | Enzyme replacement therapy |
+| Tay-Sachs disease | Autosomal recessive | Progressive neurologic deterioration, blindness, seizures | No specific treatment |
+| Sandhoff disease | Autosomal recessive | Similar to Tay-Sachs disease, but with onset in infancy | No specific treatment |
+
+**Flowchart 44.1: Tangier Disease**
+
+Autosomal codominant disorder due to mutations in both alleles of the ABC1 gene
+- Extremely marked reduction in HDL-C and apoA-I
+- Markedly accelerated catabolism of apoA-I
+Cholesterol accumulation leads to:
+- Enlarged orange tonsils
+- Hepatosplenomegaly
+- Peripheral neuropathy

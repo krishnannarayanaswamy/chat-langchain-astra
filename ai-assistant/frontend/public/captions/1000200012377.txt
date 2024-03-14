@@ -1,0 +1,45 @@
+ Chronic Obstructive Pulmonary Disease (COPD) is a progressive lung disorder characterized by persistent airflow limitation, inflammation, and structural damage to the airways and lung parenchyma, leading to chronic bronchitis and emphysema.
+
+**Epidemiology**
+COPD is a leading cause of morbidity and mortality worldwide, affecting an estimated 384 million people, with a global prevalence of around 10%.
+It is currently the third leading cause of death globally, primarily affecting older adults and individuals with a history of smoking.
+
+**Aetiology**
+The primary risk factor for COPD is tobacco smoke, accounting for approximately 85-90% of cases.
+Other risk factors include:
+- Exposure to indoor and outdoor air pollution
+- Occupational exposure to dust and chemicals
+- History of respiratory infections
+- Genetic predisposition (e.g., alpha-1 antitrypsin deficiency).
+
+**Pathophysiology**
+Refer Flow Chart 23.1
+
+**Clinical Features**
+Refer Flow Chart 23.2
+
+**Stages of COPD:**
+- Mild:
+ - May have no symptoms
+ - Winded with moderate exercise or walking upstairs
+ - Airflow=80% of normal
+- Moderate:
+ - Frequent stops to catch breath
+ - Coughing or wheezing and breathlessness
+ - Airflow=50% to 79% of normal
+- Very Severe
+ - Low oxygen levels
+ - Constant shortness of breath. Flare ups and exacerbations can be life - threatening
+ - Airflow=less than 30% normal
+- Severe:
+ - Shortness of breath worsens. Frequent flare ups or exacerbations that leads to hospitalization
+ - Worsening symptoms
+ - Airflow=30% to 50% of normal
+
+**Diagnosis**
+- Clinical history: Evaluation of patient history, including symptoms (chronic cough, sputum production, dyspnea), risk factors (smoking, environmental exposures), and the progression of symptoms over time.
+- Physical examination: Assessment for signs of COPD, such as wheezing, prolonged expiration, barrel chest, cyanosis, or use of accessory muscles during respiration.
+- Spirometry: The gold standard for diagnosing COPD involves the measurement of forced expiratory volume in 1 second (FEV1) and forced vital capacity (FVC). A post-bronchodilator FEV1/FVC ratio of less than 0.70 confirms the presence of airflow obstruction consistent with COPD.
+- Arterial blood gas analysis: May be performed to evaluate the severity of hypoxia or hypercapnia in patients with advanced COPD or during acute exacerbations.
+- Alpha-1 antitrypsin (AAT) deficiency testing: Indicated in cases with early-onset COPD, a family history of AAT deficiency, or severe emphysema with minimal or no exposure to risk factors.
+- Chest X-ray: Although not specific for COPD, it may show signs of hyperinflation, flattened diaphragms, or bullae (emphysema) and help rule out other lung conditions.

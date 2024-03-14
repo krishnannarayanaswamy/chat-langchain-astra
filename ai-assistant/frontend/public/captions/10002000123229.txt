@@ -1,0 +1,5 @@
+ The diagram shows the neuromuscular junction, which is the site of communication between a nerve and a muscle. The nerve impulse arrives at the axon terminal, which is the end of the nerve cell. The axon terminal is filled with synaptic vesicles, which are small sacs containing the neurotransmitter acetylcholine (ACh). When the nerve impulse arrives, it causes the release of ACh from the synaptic vesicles. ACh diffuses across the synaptic cleft, which is the space between the nerve and the muscle. ACh binds to receptors on the muscle cell, which causes the muscle cell to contract.
+
+The diagram also shows the role of calcium ions in the neuromuscular junction. Calcium ions are released from the synaptic vesicles along with ACh. Calcium ions bind to receptors on the muscle cell, which causes the muscle cell to contract.
+
+The neuromuscular junction is a critical site for the control of movement. The nervous system uses the neuromuscular junction to control the contraction of muscles, which allows us to move.

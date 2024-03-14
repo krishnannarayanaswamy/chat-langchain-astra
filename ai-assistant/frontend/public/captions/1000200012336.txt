@@ -1,0 +1,11 @@
+ The image is a flowchart that describes the pathogenesis and clinical findings of von Willebrand factor (vWF) deficiency. 
+
+The flowchart starts with the presence of antibodies to vWF, which can be acquired or inherited. Inherited vWF deficiency is the most common inherited bleeding disorder. Most patients are asymptomatic but 1/10,000 may have symptoms.
+
+Acquired vWF deficiency is usually due to an autoimmune disease, such as SLE. Inherited vWF deficiency can be either quantitative or qualitative. Quantitative vWF deficiency is more common and is caused by a reduced amount of vWF. Qualitative vWF deficiency is caused by a defect in the function of vWF.
+
+The clinical findings of vWF deficiency are bleeding and bruising. The bleeding can be mild or severe, and it can occur spontaneously or after trauma. The bruising is often easy and may be large.
+
+The diagnosis of vWF deficiency is made with a blood test that measures the amount of vWF in the blood. A specific test called the ristocetin cofactor assay is used to measure vWF function.
+
+The treatment of vWF deficiency is with replacement therapy. Replacement therapy involves infusing vWF into the patient's bloodstream. The goal of treatment is to prevent bleeding and bruising.

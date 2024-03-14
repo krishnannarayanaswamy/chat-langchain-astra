@@ -1,0 +1,72 @@
+ **Assistant**
+
+The image is a table that summarizes the clinical findings and paraneoplastic syndromes of lung cancer. The table is divided into four sections: tumor size, lymph node involvement, metastasis, and local tumor growth.
+
+**Tumor size**
+
+The tumor size is classified into four stages: T1, T2, T3, and T4. T1 tumors are less than 3 cm in diameter and are confined to the lung. T2 tumors are between 3 and 7 cm in diameter and may have invaded the visceral pleura or the main bronchus. T3 tumors are larger than 7 cm in diameter or have invaded the chest wall, diaphragm, or mediastinum. T4 tumors have invaded the heart, great vessels, or trachea.
+
+**Lymph node involvement**
+
+The lymph node involvement is classified into four stages: N0, N1, N2, and N3. N0 means that there is no lymph node involvement. N1 means that there is involvement of the ipsilateral hilar or mediastinal lymph nodes. N2 means that there is involvement of the ipsilateral scalene or supraclavicular lymph nodes. N3 means that there is involvement of the contralateral hilar, mediastinal, or supraclavicular lymph nodes.
+
+**Metastasis**
+
+The metastasis is classified into two stages: M0 and M1. M0 means that there is no metastasis. M1 means that there is metastasis to distant organs.
+
+**Local tumor growth**
+
+The local tumor growth is classified into four stages: T1, T2, T3, and T4. T1 tumors are confined to the lung. T2 tumors have invaded the visceral pleura or the main bronchus. T3 tumors have invaded the chest wall, diaphragm, or mediastinum. T4 tumors have invaded the heart, great vessels, or trachea.
+
+**Paraneoplastic syndromes**
+
+Paraneoplastic syndromes are a group of symptoms that are caused by the presence of a cancer in the body. These symptoms can occur before, during, or after the cancer is diagnosed. Some of the most common paraneoplastic syndromes include:
+
+* **Hypercalcemia:** This is a condition in which the blood calcium level is too high. It can cause a variety of symptoms, including nausea, vomiting, constipation, and muscle weakness.
+* **Hyponatremia:** This is a condition in which the blood sodium level is too low. It can cause a variety of symptoms, including headache, confusion, and seizures.
+* **Cushing's syndrome:** This is a condition in which the body produces too much cortisol. It can cause a variety of symptoms, including weight gain, high blood pressure, and diabetes.
+* **Lambert-Eaton myasthenic syndrome:** This is a condition in which the body's immune system attacks the nerves that control the muscles. It can cause a variety of symptoms, including muscle weakness, fatigue, and difficulty swallowing.
+
+**Flowchart**
+
+The flowchart shows the clinical findings and paraneoplastic syndromes of lung cancer. The flowchart is divided into four sections: history and physical examination, laboratory studies, imaging studies, and biopsy.
+
+**History and physical examination**
+
+The history and physical examination can provide important clues to the diagnosis of lung cancer. Some of the most common symptoms of lung cancer include:
+
+* Cough
+* Shortness of breath
+* Chest pain
+* Hemoptysis
+* Weight loss
+* Fatigue
+
+The physical examination may reveal signs of lung cancer, such as:
+
+* Wheezing
+* Crackles
+* Dullness to percussion
+* Increased vocal fremitus
+
+**Laboratory studies**
+
+Laboratory studies can be used to help diagnose lung cancer. Some of the most common laboratory studies that are used include:
+
+* Chest X-ray
+* Computed tomography (CT) scan
+* Magnetic resonance imaging (MRI) scan
+* Sputum cytology
+* Bronchoscopy
+
+**Imaging studies**
+
+Imaging studies can be used to help diagnose lung cancer. Some of the most common imaging studies that are used include:
+
+* Chest X-ray
+* Computed tomography (CT) scan
+* Magnetic resonance imaging (MRI) scan
+
+**Biopsy**
+
+A biopsy is a procedure in which a small sample of tissue is removed from the lung. The tissue sample is then examined under a microscope to look for cancer cells. A biopsy is the only definitive way to diagnose lung cancer.

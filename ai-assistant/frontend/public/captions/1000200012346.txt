@@ -1,0 +1,35 @@
+ **Title:** Porphyria Cutanea Tarda
+    
+**Pattern of inheritance:** 
+Autosomal dominant
+
+**Enzyme Deficiency:** 
+Uroporphyrinogen decarboxylase (UROD)
+
+**Substrate accumulated:** 
+Uroporphyrin
+
+**Triggers:** 
+- Alcohol
+- Estrogens
+- Hepatitis C
+- HIV
+- Sunlight exposure
+
+**Clinical features:** 
+- Photosensitivity
+- Skin fragility,
+- Blisters and erosions on sun-exposed areas
+- Hyperpigmentation
+- Tea-coloured urine
+
+**Diagnosis:** 
+- Urine test for elevated levels of uroporphyrin
+- Genetic testing for UROD gene mutations
+
+**Treatment:** 
+- Phlebotomy for iron reduction
+- Hydroxychloroquine
+- Avoiding triggers
+- Sun protection
+- Treating any underlying conditions (e.g., hepatitis C, HIV)

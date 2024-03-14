@@ -1,0 +1,10 @@
+ The image shows the stages of cervical cancer.
+
+Stage 1A: The cancer is confined to the cervix.
+Stage 1B: The cancer has spread to the upper part of the vagina.
+Stage 2A: The cancer has spread to the lower part of the vagina or to the parametria, which are the tissues around the cervix.
+Stage 2B: The cancer has spread to the upper part of the vagina or to the parametria, and it may also have spread to the pelvic lymph nodes.
+Stage 3A: The cancer has spread to the lower part of the vagina or to the parametria, and it has also spread to the pelvic lymph nodes.
+Stage 3B: The cancer has spread to the upper part of the vagina or to the parametria, and it has also spread to the pelvic lymph nodes.
+Stage 4A: The cancer has spread to other organs in the pelvis, such as the bladder or rectum.
+Stage 4B: The cancer has spread to distant organs, such as the lungs or bones.

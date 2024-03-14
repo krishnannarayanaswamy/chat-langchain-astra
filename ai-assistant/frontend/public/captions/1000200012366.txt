@@ -1,0 +1,11 @@
+ The image is a flowchart that describes the pathophysiology of gastritis. 
+
+The first step is the infection of the stomach by the bacteria Helicobacter pylori. This bacteria can cause inflammation of the stomach lining, which can lead to erosion of the mucosa. 
+
+The erosion of the mucosa can then lead to bleeding, which can be either hematemesis (vomiting of blood) or melena (black, tarry stools). 
+
+The bleeding can also lead to anemia. In addition, the inflammation of the stomach lining can also lead to dyspepsia, which is a condition that causes pain in the upper abdomen, nausea, and vomiting.
+
+There are a number of factors that can increase the risk of developing gastritis, including the use of NSAIDs, alcohol consumption, smoking, and stress. 
+
+Treatment for gastritis typically involves the use of medications to reduce inflammation and to protect the stomach lining. In some cases, antibiotics may also be necessary to treat the H. pylori infection.

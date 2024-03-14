@@ -1,0 +1,13 @@
+ The image is a flowchart that describes the process of acute myeloid leukemia (AML). 
+
+The process starts with the accumulation of genetic abnormalities in the original myeloid precursor cell ("Blasts"). 
+
+These blasts then divide and accumulate in the bone marrow, expanding the marrow and pushing on the bone. 
+
+As the blasts fill up the bone marrow, they spill out into the blood, causing a decrease in the number of normal blood cells. 
+
+This can lead to anemia, fatigue, shortness of breath, pallor, easy bruising and petechiae on the skin. 
+
+The blasts can also secrete excessive amounts of coagulation-promoting cytokines into circulation, which can lead to disseminated intravascular coagulation (DIC). 
+
+In addition, the high turnover of these cancerous cells can lead to the release of intracellular contents (uric acid, K+, LDH) into the plasma, which can cause tumor lysis syndrome and acute kidney injury.

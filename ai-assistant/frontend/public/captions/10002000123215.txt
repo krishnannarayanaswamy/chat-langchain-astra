@@ -1,0 +1,28 @@
+ The image is about endometrial cancer staging. It starts with the definition of endometrial cancer and then discusses the symptoms, diagnosis, and treatment of endometrial cancer. The image also includes a table that summarizes the different stages of endometrial cancer.
+
+Symptoms of endometrial cancer include:
+
+* Vaginal bleeding after menopause
+* Pelvic pain
+* Painful intercourse
+* Abnormal vaginal discharge
+* Weight loss
+* Fatigue
+
+Diagnosis of endometrial cancer is made by endometrial biopsy. A biopsy is a procedure in which a small piece of tissue is removed from the endometrium and examined under a microscope.
+
+Treatment of endometrial cancer depends on the stage of the cancer. Treatment options include surgery, radiation therapy, chemotherapy, and hormone therapy.
+
+The table below summarizes the different stages of endometrial cancer.
+
+| Stage | Description |
+|---|---|
+| IA | The cancer is confined to the endometrium. |
+| IB | The cancer has invaded the myometrium, but not the cervix. |
+| IIA | The cancer has invaded the cervix, but not the parametria or vagina. |
+| IIB | The cancer has invaded the parametria or vagina, but not the pelvic sidewall or lymph nodes. |
+| IIIA | The cancer has invaded the pelvic sidewall or lymph nodes, but not the lungs or other distant organs. |
+| IIIB | The cancer has invaded the lungs or other distant organs. |
+| IV | The cancer has recurred after treatment. |
+
+The prognosis for endometrial cancer depends on the stage of the cancer. The earlier the cancer is diagnosed and treated, the better the prognosis.

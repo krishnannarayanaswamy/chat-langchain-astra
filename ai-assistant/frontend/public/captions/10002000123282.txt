@@ -1,0 +1,51 @@
+ The image is about Pneumonia. It starts with an introduction to Pneumonia. It then talks about the symptoms of pneumonia which includes:
+- High Fever
+- Chills
+- Cough with sputum or phlegm
+- Shortness of breath
+- Chest pain
+- Hemoptysis
+- Fatigue
+- Aches
+- Headaches
+- Loss of appetite
+- Mood swings
+- Tachycardia
+- Nausea
+- Vomiting
+- Clamminess
+- Blueness
+
+The image then talks about the risk factors for pneumonia which includes:
+- Age
+- Obesity
+- Smoking
+- Asthma
+- COPD
+- Immuno-suppression
+- HIV
+
+The image then talks about the classification of pneumonia which includes:
+- Community Acquired
+- Nosocomial Pneumonias
+ - HCAP: Health Care Associated
+   - HAP: Hospital Acquired
+   - ICUAP: ICU Acquired
+ - VAP: Ventilator Acquired
+
+The image then talks about the complications of pneumonia which includes:
+- Hypotension and septic shock
+- 3-5% Pleural effusion; Clear fluid
+- 1% Empyema (pus in the pleural space)
+- Lung abscess, destruction of lung
+- Septicemia
+- Brain abscess, Liver Abscess
+- Multiple Pyemic Abscesses
+
+The image then talks about the diagnosis and laboratory tests for pneumonia which includes:
+- CXR - PA & lateral
+- CBC with Differential
+- BUN and Creatinine
+- Liver enzymes
+
+The image then provides a table summarizing the information.

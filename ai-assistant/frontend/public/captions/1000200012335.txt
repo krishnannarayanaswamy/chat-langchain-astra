@@ -1,0 +1,25 @@
+ **Assistant**
+
+The image is a table that summarizes the treatment of von Willebrand disease (VWD). The table is divided into three sections: type of VWD, treatment of choice, and alternative therapy.
+
+**Type of VWD**
+There are three types of VWD: type 1, type 2, and type 3. Type 1 VWD is the most common type. It is caused by a deficiency of von Willebrand factor (VWF). Type 2 VWD is caused by a qualitative defect in VWF. Type 3 VWD is caused by a complete absence of VWF.
+
+**Treatment of Choice**
+The treatment of choice for type 1 VWD is desmopressin. Desmopressin is a synthetic hormone that causes the release of VWF from the endothelial cells. It is usually given intravenously, but it can also be given orally.
+
+The treatment of choice for type 2 VWD is factor VIII-von Willebrand factor concentrates. These concentrates contain VWF and factor VIII, which is another clotting factor that is often deficient in patients with type 2 VWD.
+
+The treatment of choice for type 3 VWD is recombinant von Willebrand factor. This is a genetically engineered form of VWF that is produced in the laboratory.
+
+**Alternative Therapy**
+If desmopressin is not effective in treating type 1 VWD, alternative therapies include factor VIII-von Willebrand factor concentrates or recombinant von Willebrand factor.
+
+If factor VIII-von Willebrand factor concentrates are not effective in treating type 2 VWD, alternative therapies include recombinant von Willebrand factor or platelet transfusions.
+
+There is no alternative therapy for type 3 VWD.
+
+**Additional Information**
+Adjuvant therapy with antifibrinolytic amino acids is recommended in all types of VWD. Antifibrinolytic amino acids prevent the breakdown of fibrin, which is a clot-forming protein.
+
+Indications for desmopressin cannot be assumed unless a test infusion has shown that factor VIII and von Willebrand factor levels rise adequately for that given bleeding episode or hemostatic challenge.

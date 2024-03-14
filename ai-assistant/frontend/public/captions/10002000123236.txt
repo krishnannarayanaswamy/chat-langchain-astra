@@ -1,0 +1,23 @@
+ ## Charcot-Marie-Tooth Disease
+
+### Introduction
+Charcot-Marie-Tooth disease, also known as hereditary motor sensory neuropathy (HMSN), is characterized by fatigue and weakness in the distal lower limbs. This disease is one of the most common inherited neurological disorders. It comprises a group of disorders that affect peripheral nerves. It is mostly inherited in an autosomal dominant pattern; however, autosomal recessive and X-linked patterns also exist.
+Cause: mutations in genes that produce proteins involved in the structure and function of the peripheral nerve axon or the myelin sheath.
+
+### Types and Classification of CMT
+- CMT 1: Most common subtype. An autosomal dominant (AD) disease characterized by peripheral nerve demyelination results due to the duplication of the gene on chromosome 17(CMT1A)that carries info for producing the peripheral myelin protein 22 (PMP22). CMT1A accounts for a majority of the CMT1 cases. Other types include CMT1B and CMT1C, etc.
+- CMT 2: develops from abnormalities in the axon of the peripheral nerve cell rather than the myelin sheath. Compared to CMT1, the nerve biopsy in CMT2 shows axonal degeneration without demyelination and hypertrophic changes (onion bulb formation due to repeated demyelination and remyelination)
+- CMT 3: severe early-onset peripheral demyelinating neuropathy with onset as early as infancy. Two disorders are classified as CMT3, i.e., congenital hypomyelinating neuropathy and Dejerine-Scottas syndrome.
+- CMT 4: has several different subtypes of autosomal recessive (AR) demyelinating motor and sensory neuropathies.
+- CMT X: X-linked dominant disease caused by a point mutation in the connexin-32 gene on the X chromosome.
+
+### History
+The disease is named after those who first described it:
+- Frenchman Jean-Martin Carcot
+- Pierre Marie
+- Howard Henry Tooth
+Hence, the eponym Charcot-Marie-Tooth (CMT) disease became popular.
+
+### Clinical Manifestations
+- Weakness in feet and lower leg muscles, results in foot deformities (e.g., hammer toes, pes cavus) and frequent tripping and falling.
+- The lower limb deforms into an "inverted champagne bottle" from loss of muscle bulk. Also associated with scoliosis.

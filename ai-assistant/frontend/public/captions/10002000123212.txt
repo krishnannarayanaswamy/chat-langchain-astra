@@ -1,0 +1,61 @@
+ Title: Clinical Assessment
+
+- History: A good history can reveal the etiologic diagnosis in up to 85% of cases of amenorrhea.
+- Ask about:
+ - Menstrual cycle: age of menarche and previous menstrual history
+ - Previous pregnancies - severe PPH (Sheehan Syndrome)
+ - Weight change: A large amount of weight loss (anorexia nervosa)
+ - Hot flashes, decreased libido: premature menopause
+ - Certain medications
+ - Contraception
+ - Associate symptoms - Cushing's disease, hypothyroidism
+ - Previous gynaecological surgery
+ - Chronic illness
+- Check for:
+ - Body Mass Index (BMI): weight loss-related amenorrhea
+ - Blood Pressure: elevated in Cushing and PCOS
+- Androgen excess: hirsutism (PCOS), virilization (tumor)
+- Secondary sexual characteristics
+- Features of Turner Syndrome
+- Breast examination: may reveal galactorrhea
+- Abdominal (haematoma) and pelvic masses (ovarian tumor)
+- Inspection of genitalia: imperforate hymen, cervical stenosis
+- Vaginal examination: blind vagina, vaginal atresia, absence of Uterus
+
+Differential Diagnoses
+
+| Site of Disorder | Diagnosis | Investigations |
+| :--- | :--- | :--- |
+| Hypothalamus | Hypothalamic-pituitary failure | FSH, LH and estradiol - Low |
+| Pituitary | Weight-related amenorrhea | Prolactin – High FSH, LH and estradiol - Low |
+|  | Sheehan syndrome | FSH, LH and estrogen - Low |
+| Endocrine | Hypothyroidism | TSH - raised; T4 – low or N |
+| Ovary | Premature menopause | FSH, LH - high; E₂ Low |
+|  | PCOS | FSH - Normal; LH High |
+| Mullerian Tract | Asherman's syndrome | PCT - Negative HSG/ Hysteroscopy |
+
+Diagnosis & Investigations
+- Once pregnancy has been excluded,
+ - Progesterone challenge test
+ - TSH (thyroid stimulating hormone)
+ - FSH, LH
+ - Prolactin level
+
+Approach to secondary amenorrhea
+Refer Flow Chart 57.1
+
+Treatment
+- Cyclic progesterone
+- GnRH: when the cause is hypothalamic failure
+- Thyroid hormone replacement
+- Functional hypothalamic amenorrhea: Reverse inciting factor
+- Hypothyroidism: Treat with synthetic thyroid hormone
+- Hyperprolactinemia
+ - MRI/CT head to rule out lesion → surgery if a lesion
+ - If no lesion - bromocriptine, and cabergoline if fertility desired; combined OCP if no fertility
+- Sheehan syndrome: Treat like primary deficiencies of respective target glands due to hypopituitarism
+- Premature Ovarian Failure
+ - Hormonal therapy - estrogen + progestin
+- Polycystic Ovarian Syndrome
+ - Weight loss, OCP, ovulation induction (clomiphene citrate) if fertility desired
+- Asherman's Syndrome: Surgical hysteroscopy to lyse adhesions

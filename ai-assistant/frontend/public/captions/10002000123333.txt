@@ -1,0 +1,2 @@
+ The assistant on the left didn't follow the instructions completely. The bot didn't describe the image, didn't summarize the table and didn't explain the concept in detail.
+The assistant on the right didn't follow the instructions completely. The bot didn't describe the image.

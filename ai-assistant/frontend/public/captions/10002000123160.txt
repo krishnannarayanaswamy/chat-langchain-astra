@@ -1,0 +1,48 @@
+ **Image 44.3**
+
+This diagram shows the **metabolism of chylomicrons and VLDL**. 
+After a meal, **chylomicrons** are assembled in the intestine and **VLDL** are assembled in the liver. 
+Both **chylomicrons** and **VLDL** transport **triglycerides** to adipose tissue and muscle. 
+**Adipose tissue** takes up **triglycerides** from **chylomicrons** and **VLDL** and stores them as fat. 
+**Muscle** takes up **triglycerides** from **VLDL** and uses them as a source of energy.
+
+**Chylomicrons** and **VLDL** are **removed** from the circulation by **LDL receptors** in the liver and other tissues. 
+**LDL receptors** bind to **apoB-100**, a protein that is present on the surface of **chylomicrons** and **VLDL**. 
+When **chylomicrons** and **VLDL** bind to **LDL receptors**, they are taken up into cells by **endocytosis**. 
+Once inside cells, **chylomicrons** and **VLDL** are broken down and their components are released into the cytoplasm. 
+The **triglycerides** that are released from **chylomicrons** and **VLDL** are used as a source of energy or stored as fat. 
+The **apoB-100** that is released from **chylomicrons** and **VLDL** is recycled back to the liver.
+
+**Flow Chart 44.1**
+
+This flowchart shows the **lysosomal storage disorders**. 
+**Lysosomal storage disorders** are a group of inherited diseases that are caused by a deficiency of an enzyme that is necessary for the breakdown of a specific type of molecule. 
+The molecules that accumulate in lysosomes can damage cells and tissues, leading to a variety of symptoms. 
+The symptoms of **lysosomal storage disorders** can vary depending on the specific enzyme that is deficient. 
+Some **lysosomal storage disorders** are fatal in infancy, while others are milder and can be managed with treatment.
+
+The following is a list of the **lysosomal storage disorders** that are included in the flowchart:
+
+**1. Hexosaminidase A deficiency**
+**2. a-galactosidase A deficiency**
+**3. Glucocerebrosidase deficiency**
+**4. Arylsulfatase A deficiency**
+**5. Galactocerebrosidase deficiency**
+**6. Sphingomyelinase deficiency**
+
+**Hexosaminidase A deficiency** is a lysosomal storage disorder that is caused by a deficiency of the enzyme hexosaminidase A. 
+Hexosaminidase A is necessary for the breakdown of GM2 gangliosides, which are a type of lipid that is found in the membranes of nerve cells. 
+When hexosaminidase A is deficient, GM2 gangliosides accumulate in lysosomes, which can damage nerve cells and lead to a variety of symptoms, including seizures, developmental delay, and blindness.
+
+**a-galactosidase A deficiency** is a lysosomal storage disorder that is caused by a deficiency of the enzyme a-galactosidase A. 
+a-galactosidase A is necessary for the breakdown of a-galactosides, which are a type of sugar that is found in glycolipids and glycoproteins. 
+When a-galactosidase A is deficient, a-galactosides accumulate in lysosomes, which can damage cells and tissues in the nervous system, the heart, and the kidneys. 
+The symptoms of a-galactosidase A deficiency can vary depending on the severity of the deficiency.
+
+**Glucocerebrosidase deficiency** is a lysosomal storage disorder that is caused by a deficiency of the enzyme glucocerebrosidase. 
+Glucocerebrosidase is necessary for the breakdown of glucosylceramide, which is a type of lipid that is found in the membranes of cells. 
+When glucocerebrosidase is deficient, glucosylceramide accumulates in lysosomes, which can damage cells and tissues in the brain, the liver, and the spleen. 
+The symptoms of glucocerebrosidase deficiency can vary depending on the severity of the deficiency.
+
+**Arylsulfatase A deficiency** is a lysosomal storage disorder that is caused by a deficiency of the enzyme arylsulfatase A. 
+Arylsulfatase A is necessary for the breakdown of sulfati

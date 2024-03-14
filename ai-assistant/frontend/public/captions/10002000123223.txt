@@ -1,0 +1,9 @@
+ The image is a table that shows the different types of joint movements. The table has three columns. The first column lists the name of the movement, the second column describes the movement, and the third column shows an image of the movement.
+    The different types of joint movements are:
+    - Flexion: This is when a joint bends, such as when you bend your elbow.
+    - Extension: This is when a joint straightens, such as when you straighten your leg.
+    - Hyperextension: This is when a joint bends beyond its normal range of motion, such as when you bend your elbow backwards.
+    - Dorsiflexion: This is when the ankle joint moves upwards, such as when you point your toes.
+    - Plantar flexion: This is when the ankle joint moves downwards, such as when you flex your toes.
+    - Abduction: This is when a body part moves away from the midline of the body, such as when you raise your arm out to the side.
+    - Adduction: This is when a body part moves towards the midline of the body, such as when you bring your arm down to your side.

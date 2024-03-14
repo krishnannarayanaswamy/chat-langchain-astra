@@ -1,0 +1,24 @@
+ # Flowchart 25.1
+## Lung cancer (LC)
+Lung cancer is the leading cause of cancer death worldwide.
+There are two main types of lung cancer: small cell lung cancer (SCLC) and non-small cell lung cancer (NSCLC).
+## Small cell lung cancer (SCLC)
+- SCLC accounts for about 10-15% of all lung cancers.
+- It is more common in men than in women.
+- It is usually found in people who smoke cigarettes.
+- SCLC is a very aggressive type of cancer that grows and spreads quickly.
+- The prognosis for SCLC is poor, with most patients dying within one to two years of diagnosis.
+## Non-small cell lung cancer (NSCLC)
+- NSCLC accounts for about 85% of all lung cancers.
+- It is more common in men than in women.
+- It is usually found in people who smoke cigarettes.
+- NSCLC is less aggressive than SCLC, but it is still a serious disease.
+- The prognosis for NSCLC depends on the stage of the cancer at diagnosis.
+## Types of NSCLC
+There are three main types of NSCLC:
+- Lung adenocarcinoma (LUAD)
+- Lung squamous cell carcinoma (LUSC)
+- Large cell carcinoma (LCC)
+- LUAD is the most common type of NSCLC, accounting for about 40% of all cases.
+- LUSC is the second most common type of NSCLC, accounting for about 25% of all cases.
+- LCC is the third most common type of NSCLC, accounting for about 10% of all cases.

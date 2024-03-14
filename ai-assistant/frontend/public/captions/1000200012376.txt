@@ -1,0 +1,34 @@
+ The image is a flowchart that provides a treatment algorithm for asthma. It is divided into two main sections: intermittent asthma and persistent asthma.
+
+**Intermittent Asthma**
+
+Intermittent asthma is defined as asthma symptoms that occur less than twice a week. The preferred controller medication for intermittent asthma is a low-dose inhaled corticosteroid (ICS). If symptoms are not controlled with a low-dose ICS, a low-dose ICS-formoterol combination can be added.
+
+**Persistent Asthma**
+
+Persistent asthma is defined as asthma symptoms that occur more than twice a week. The preferred controller medication for persistent asthma is a medium-dose ICS-LABA combination. If symptoms are not controlled with a medium-dose ICS-LABA combination, a high-dose ICS-LABA combination can be added.
+
+In addition to controller medications, reliever medications can also be used to treat asthma symptoms. Reliever medications are short-acting beta-agonists (SABAs) that work by relaxing the muscles in the airways and improving airflow.
+
+The table below summarizes the different treatment options for asthma.
+
+| Treatment | Medication |
+|---|---|
+| Intermittent Asthma | Low-dose ICS |
+| | Low-dose ICS-formoterol |
+| Persistent Asthma | Medium-dose ICS-LABA |
+| | High-dose ICS-LABA |
+| Reliever Medication | SABA |
+
+The flowchart below provides a more detailed overview of the treatment algorithm for asthma.
+
+[Image of flowchart]
+
+In addition to the medications listed in the table above, there are also a number of other treatments that can be used for asthma. These include:
+
+* Leukotriene modifiers
+* Theophylline
+* Anticholinergics
+* Biologic therapies
+
+These treatments can be used in combination with controller and reliever medications to achieve optimal asthma control.

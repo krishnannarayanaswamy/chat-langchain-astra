@@ -1,0 +1,11 @@
+ The image is a table that shows the stages of Parkinson's disease (PD). It is divided into five columns, with each column representing a different stage of the disease. The first column is the early stage, the second column is the mid stage, the third column is the moderate stage, the fourth column is the advanced stage, and the fifth column is the severe stage.
+
+In the early stage of PD, the symptoms are mild and only seen on one side of the body. The symptoms include tremor of one hand, rigidity, clumsy leg, and one side of the face may be affected, impacting the expression.
+
+In the mid stage of PD, the symptoms are more severe and seen on both sides of the body. The symptoms include loss of facial expression on both sides, decreased blinking, speech abnormalities, and rigidity of the muscles in the trunk.
+
+In the moderate stage of PD, the symptoms are characterized by loss of balance and slowness of movement. The symptoms include balance is compromised, inability to make the rapid, automatic and involuntary adjustments, and all other symptoms of PD are present.
+
+In the advanced stage of PD, the symptoms are severely disabling. The symptoms include patients may be able to walk and stand unassisted, but they are noticeably incapacitated, and patient is unable to live an independent life and needs assistance.
+
+In the severe stage of PD, the symptoms are severe and are characterized by an inability to rise. The symptoms include patient fall when standing or turning, may freeze or stumble when walking, and hallucinations or delusions.

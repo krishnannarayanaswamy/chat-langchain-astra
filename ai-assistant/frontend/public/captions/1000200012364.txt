@@ -1,0 +1,11 @@
+ The image is a flowchart that provides an algorithm for the treatment of moderate to severe ulcerative colitis. The algorithm is based on the patient's response to treatment.
+
+The first step in the algorithm is to determine whether the patient has mild or moderate to severe disease. If the patient has mild disease, the algorithm recommends treatment with budesonide or mesalazine. If the patient has moderate to severe disease, the algorithm recommends treatment with systemic corticosteroids.
+
+The next step in the algorithm is to determine whether the patient is steroid-dependent or steroid-refractory. If the patient is steroid-dependent, the algorithm recommends tapering of steroids within 16 weeks. If the patient is steroid-refractory, the algorithm recommends vedolizumab.
+
+The next step in the algorithm is to determine whether the patient has an insufficient response or loss of response. If the patient has an insufficient response or loss of response, the algorithm recommends optimizing escalation (dose escalation or/and interval), adding AZA/6-MP if possible, or changing to another class of biologicals.
+
+The next step in the algorithm is to determine whether the patient has intolerance or primary non-response. If the patient has intolerance or primary non-response, the algorithm recommends changing to another anti-TNF or to another class of biologicals.
+
+The final step in the algorithm is to determine whether the patient has a response or no response. If the patient has a response, the algorithm recommends maintaining remission with the selected agent. If the patient has no response, the algorithm recommends surgery.

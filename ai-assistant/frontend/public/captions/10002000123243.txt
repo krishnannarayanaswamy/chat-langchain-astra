@@ -1,0 +1,55 @@
+ ## **Myasthenia Gravis**
+- Autoimmune disorder that affects the neuromuscular junction
+- Weakness of the skeletal muscles
+- Caused by antibodies that attack the acetylcholine receptors on the muscle cells
+- Symptoms:
+ - Ptosis (drooping of the eyelids)
+ - Diplopia (double vision)
+ - Difficulty swallowing
+ - Difficulty speaking
+ - Muscle weakness
+- Diagnosis:
+ - Physical examination
+ - Blood tests
+ - Electromyography
+ - Nerve conduction studies
+- Treatment:
+ - Medications
+ - Thymectomy (surgery to remove the thymus gland)
+ - Plasmapheresis (a procedure that removes antibodies from the blood)
+- Prognosis:
+ - Most people with myasthenia gravis can live a full and active life with treatment
+
+## **Lambert-Eaton Myasthenic Syndrome**
+- Rare autoimmune disorder that affects the neuromuscular junction
+- Weakness of the skeletal muscles
+- Caused by antibodies that attack the calcium channels on the nerve cells
+- Symptoms:
+ - Muscle weakness
+ - Difficulty swallowing
+ - Difficulty speaking
+ - Vision problems
+- Diagnosis:
+ - Physical examination
+ - Blood tests
+ - Electromyography
+ - Nerve conduction studies
+- Treatment:
+ - Medications
+ - Thymectomy (surgery to remove the thymus gland)
+ - Plasmapheresis (a procedure that removes antibodies from the blood)
+- Prognosis:
+ - Most people with Lambert-Eaton myasthenic syndrome can live a full and active life with treatment
+
+## **Differential Diagnosis**
+- Myasthenia gravis and Lambert-Eaton myasthenic syndrome are two similar disorders that can be difficult to distinguish from each other.
+- The following table summarizes the key differences between the two disorders:
+
+| Feature | Myasthenia Gravis | Lambert-Eaton Myasthenic Syndrome |
+|---|---|---|
+| Age of onset | Usually young adults | Usually older adults |
+| Sex | More common in women | More common in men |
+| Symptoms | Weakness of the skeletal muscles, ptosis, diplopia, difficulty swallowing, difficulty speaking | Weakness of the skeletal muscles, difficulty swallowing, difficulty speaking, vision problems |
+| Antibodies | Anti-acetylcholine receptor antibodies | Anti-calcium channel antibodies |
+| Treatment | Medications, thymectomy, plasmapheresis | Medications, thymectomy, plasmapheresis |
+| Prognosis | Most people can live a full and active life with treatment | Most people can live a full and active life with treatment |

@@ -1,0 +1,7 @@
+ The image is a table that summarizes the treatment for newly diagnosed myeloma. The table is divided into three sections: standard risk, high risk, and transplant ineligible. For each section, the table lists the recommended treatment regimen.
+
+Standard risk patients are treated with VRd (bortezomib, lenalidomide, and dexamethasone) for 8-12 cycles. High risk patients are treated with VRd or Dara-VRd (bortezomib, daratumumab, lenalidomide, and dexamethasone) for 3-4 cycles, followed by stem cell collection and cryopreservation. They then continue VRd for 5-8 additional cycles. Transplant ineligible patients are treated with lenalidomide maintenance.
+
+The table also includes information on the treatment of hypercalcemia, renal impairment, anemia, and bone lesions.
+
+Hypercalcemia is treated with intravenous fluids, pamidronate, and calcitonin. Renal impairment is treated with dose adjustments of VRd. Anemia is treated with erythropoietin or darbepoetin alfa. Bone lesions are treated with radiation therapy, surgery, or bisphosphonates.

@@ -1,0 +1,36 @@
+ The image is a flowchart that describes the water deprivation test for diabetes insipidus. The test is used to diagnose diabetes insipidus, a condition in which the body produces too little urine.
+
+The test is started at 8am. The patient is asked to empty their bladder and a urine sample is collected. The patient's weight is also recorded.
+
+Over the next 8 hours, the patient's urine osmolality and weight are checked every hour. The serum osmolality is also checked every 2 hours.
+
+At the end of the test, the patient is given a desmopressin injection. This medication causes the body to produce more urine. The patient's urine osmolality is then checked hourly for the next 4 hours.
+
+The results of the test are used to diagnose diabetes insipidus. If the patient's urine osmolality is greater than 600 mOsm/kg after the water deprivation test, they are diagnosed with diabetes insipidus. If the patient's urine osmolality is less than 600 mOsm/kg after the water deprivation test, they are not diagnosed with diabetes insipidus.
+
+DIABETES INSIPIDUS
+Diabetes insipidus (DI) is a disorder of water balance resulting from a deficiency of antidiuretic hormone (ADH), either because the hormone is not produced or because the kidneys are resistant to its effects. This results in the production of large volumes of dilute urine and consequent dehydration.
+
+ADH (also known as vasopressin) is a hormone produced by the hypothalamus and stored in the posterior pituitary gland. It acts on the kidneys to increase water reabsorption from the collecting ducts, thus reducing urine output and increasing urine osmolality.
+
+In DI, the lack of ADH or resistance to its effects results in the inability of the kidneys to concentrate urine, leading to the production of large volumes of dilute urine. This can lead to dehydration, electrolyte imbalance, and other complications.
+
+There are two main types of DI:
+
+Central DI: This is caused by a deficiency of ADH production in the hypothalamus. It can be idiopathic (of unknown cause), or it can be caused by a variety of factors, such as head injury, surgery, or certain medications.
+Nephrogenic DI: This is caused by the kidneys' resistance to the effects of ADH. It can be inherited or acquired, and it can be associated with a variety of conditions, such as kidney disease, sickle cell anemia, and certain medications.
+Symptoms of DI include:
+
+Excessive thirst
+Frequent urination
+Large volumes of dilute urine
+Dehydration
+Electrolyte imbalance
+Fatigue
+Weakness
+Confusion
+Seizures
+Coma
+DI can be diagnosed with a water deprivation test. This test involves measuring the patient's urine osmolality and weight before and after a period of water deprivation. If the urine osmolality does not increase after water deprivation, DI is diagnosed.
+
+Treatment for DI depends on the type of DI. Central DI is treated with ADH replacement therapy. Nephrogenic DI is treated with medications that help to reduce urine output and increase urine osmolality.

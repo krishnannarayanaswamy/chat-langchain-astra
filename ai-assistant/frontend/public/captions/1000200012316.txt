@@ -1,0 +1,20 @@
+ The image is a flowchart that shows the classification of anemia. Anemia is a condition in which the body does not have enough red blood cells to carry oxygen to the tissues. There are three main types of anemia: absolute anemia, relative anemia, and blood loss anemia.
+
+**Absolute anemia** is caused by a decrease in the number of red blood cells. This can be due to a number of factors, including:
+
+* **Pluripotent hematopoietic stem cell failure:** This is a condition in which the stem cells that produce red blood cells are damaged or destroyed. This can be caused by a number of factors, including leukemia, lymphoma, and aplastic anemia.
+* **Erythroid progenitor cell failure:** This is a condition in which the cells that develop into red blood cells are damaged or destroyed. This can be caused by a number of factors, including Diamond-Blackfan anemia and sickle cell anemia.
+* **Functional impairment of erythroid and other progenitors:** This is a condition in which the cells that develop into red blood cells are not able to function properly. This can be caused by a number of factors, including nutritional deficiencies, iron deficiency, and vitamin B12 deficiency.
+
+**Relative anemia** is caused by an increase in the volume of plasma in the blood. This can be due to a number of factors, including:
+
+* **Macroglobulinemia:** This is a condition in which the body produces too much of a type of protein called macroglobulin. This can cause the blood to become thicker and more viscous, which can make it difficult for the red blood cells to flow through the blood vessels.
+* **Pregnancy:** During pregnancy, the body produces more blood to support the growing fetus. This can cause the volume of plasma in the blood to increase, which can lead to relative anemia.
+* **Athletes:** Athletes often have a higher than normal blood volume, which can lead to relative anemia. This is because exercise causes the body to produce more red blood cells, which can increase the volume of plasma in the blood.
+* **Post-flight astronauts:** Astronauts who have spent time in space often have a lower than normal blood volume. This is because the lack of gravity in space causes the body to lose fluids, which can lead to a decrease in the volume of plasma in the blood.
+
+**Blood loss anemia** is caused by a loss of blood from the body. This can be due to a number of factors, including:
+
+* **Acute blood loss:** This is a sudden loss of a large amount of blood, such as from a car accident or a major surgery.
+* **Chronic blood loss:** This is a slow, ongoing loss of blood, such as from a bleeding ulcer or a heavy menstrual period.
+* **Splenic sequestration:** This is a condition in which the spleen traps and destroys red blood cells. This can lead to a decrease in the number of red blood cells in the blood.

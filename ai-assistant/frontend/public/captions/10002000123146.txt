@@ -1,0 +1,61 @@
+ **Title: Pathophysiology**
+
+**Osteoporosis**
+
+- Osteoporosis is a perfect example of a multifunctional disease.
+- A complex interplay of the following factors contributes to a person's risk of developing the disease:
+ - Genetic factors
+ - Intrinsic factors
+ - Exogenous factors
+ - Lifestyle factors
+
+
+- In a normal bone, constant growth of bone mass and thus bone remodeling takes place.
+
+
+- Three main mechanisms that can lead to osteoporosis are the following:
+ - Inadequate peak bone mass (The skeleton develops insufficient mass and strength during growth)
+ - Increased bone resorption which can lead to bone loss
+ - Inadequate new bone formation during bone remodeling.
+
+
+- These processes take place in the bone multicellular units (BMUs). They are:
+ - Osteoclasts
+ - Osteoblasts
+
+
+- Loss of bone mass occurs through the activation of the osteoclastogenic pathway.
+
+
+**Osteoclastogenic Pathway**
+
+- Two main cells are involved in this particular pathway which plays a significant role in the pathogenesis of osteoporosis. They are osteoclasts and osteoblasts.
+ - Osteoblasts: Responsible for bone resorption.
+ - Osteoclasts: Determine the final outcome of bone resorption.
+
+
+- The balance of these two activities is essential and it is influenced by macrophages and innate adaptive immunity.
+
+
+- This ultimately helps in the formation of a normal bone.
+
+
+- Bone mass loss which can lead to osteoporosis happens when the balance between the osteoclastic and osteoblastic activity is disrupted.
+
+
+**Role of hormones**
+
+- Estrogen and calcium in addition to that also plays a major role in bone turnover.
+- Bone mass formation or bone deposition will be impaired due to vitamin D deficiency and calcium deficiency.
+- This leads to secretion of parathyroid hormones (Parathormone and PTH) by the parathyroid gland.
+- This is to ensure adequate calcium level in the blood and thereby increasing bone resorption.
+
+
+**Genetics**
+
+- Certain genes are involved in the pathogenesis of osteoporosis.
+- Mutation caused in these genes can lead to certain rare diseases:
+ - Osteoblast regulatory gene
+ - Osteoclast regulatory gene
+ - Bone matrix elements gene
+ - Hormone/receptor genes

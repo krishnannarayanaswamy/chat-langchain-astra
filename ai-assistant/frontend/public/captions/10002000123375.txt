@@ -1,0 +1,7 @@
+ The image is a table that summarizes the types of glaucoma and their causes. The first column lists the different types of glaucoma, while the second column lists the causes of each type.
+
+There are two main types of glaucoma: open-angle glaucoma and angle-closure glaucoma. Open-angle glaucoma is the most common type of glaucoma. It is caused by a gradual buildup of pressure in the eye due to a blockage in the trabecular meshwork, which is the tissue that drains fluid from the eye. Angle-closure glaucoma is a less common type of glaucoma that is caused by a sudden increase in pressure in the eye due to a blockage in the angle between the iris and the cornea.
+
+There are also two main types of developmental glaucoma: congenital glaucoma and infantile glaucoma. Congenital glaucoma is present at birth, while infantile glaucoma develops within the first few years of life. Both types of developmental glaucoma are caused by a defect in the development of the eye's drainage system.
+
+Finally, there are two main types of acquired glaucoma: primary glaucoma and secondary glaucoma. Primary glaucoma is caused by an unknown factor, while secondary glaucoma is caused by another underlying condition, such as diabetes, high blood pressure, or eye injury.

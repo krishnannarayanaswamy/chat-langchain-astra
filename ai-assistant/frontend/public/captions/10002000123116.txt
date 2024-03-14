@@ -1,0 +1,48 @@
+ The image describes the treatment of acromegaly. 
+     
+     It mentions two types of treatment:
+1. Surgery
+2. Radiation therapy
+
+     **Surgery**
+     
+     - The goal of the surgery is to remove the pituitary tumor that is causing the overproduction of GH.
+     - The surgery is usually done through a transsphenoidal approach, which involves making an incision in the upper lip and removing the tumor through the nose.
+     - This approach is less invasive than a traditional craniotomy, and it has a shorter recovery time.
+     - Surgery is usually successful in controlling acromegaly, but it may not be curative. 
+     - In some cases, the tumor may grow back or it may not be completely removed during surgery. 
+     - If this happens, additional treatment may be necessary.
+
+     **Radiation therapy**
+     
+     - Radiation therapy may be used before or after surgery, or it may be used as a standalone treatment. 
+     - Radiation therapy works by damaging the DNA of the tumor cells, causing them to die. 
+     - Radiation therapy is usually given in divided doses over a period of several weeks. 
+     - The goal of radiation therapy is to control the growth of the tumor and to reduce the symptoms of acromegaly. 
+     - Radiation therapy can be effective in controlling acromegaly, but it may not be curative. 
+     - In some cases, the tumor may grow back or it may not be completely destroyed by radiation therapy. 
+     - If this happens, additional treatment may be necessary.
+
+     **Drug therapy**
+
+     - Drug therapy is the mainstay of treatment for acromegaly. 
+     - The goal of drug therapy is to reduce the levels of GH and IGF-1 in the blood. 
+     - There are three main types of drugs that are used to treat acromegaly: 
+       - Dopamine agonists
+       - Growth hormone receptor antagonists
+       - Somatostatin analogs
+
+     - Dopamine agonists are the preferred first-line treatment for acromegaly. 
+     - They work by binding to dopamine receptors in the pituitary gland, which inhibits the release of GH. 
+     - Dopamine agonists are usually well-tolerated, and they can be taken orally. 
+     - The most common side effects of dopamine agonists are nausea, vomiting, and headache.
+
+     - Growth hormone receptor antagonists are another type of drug that is used to treat acromegaly. 
+     - They work by binding to the GH receptor on cells, which prevents GH from binding to the receptor and activating it. 
+     - Growth hormone receptor antagonists are usually well-tolerated, and they can be taken orally. 
+     - The most common side effects of growth hormone receptor antagonists are headache, diarrhea, and fatigue.
+
+     - Somatostatin analogs are a third type of drug that is used to treat acromegaly. 
+     - They work by binding to somatostatin receptors in the pituitary gland, which inhibits the release of GH. 
+     - Somatostatin analogs are usually given by injection. 
+     - The most common side effects of somatostatin analogs are nausea, vomiting, and diarrhea.

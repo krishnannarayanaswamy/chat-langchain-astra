@@ -1,0 +1,24 @@
+ The image is about the flu. It starts with a definition of the flu, and then it talks about the symptoms of the flu. Next, it discusses how the flu spreads, and then it provides information on how to prevent the flu. Finally, it provides information on how to treat the flu.
+
+The flu is a contagious respiratory illness caused by the influenza virus. It can range in severity from mild to severe, and it can even be fatal. The symptoms of the flu include fever, headache, muscle aches, sore throat, runny nose, and cough. The flu spreads from person to person through the air when an infected person coughs or sneezes. It can also be spread by contact with contaminated surfaces or objects.
+
+There are a number of things that can be done to prevent the flu. The most important thing is to get vaccinated every year. The flu vaccine is both safe and effective. Other ways to prevent the flu include washing your hands frequently, covering your mouth and nose when you cough or sneeze, and staying away from sick people.
+
+There are a number of antiviral medications that can be used to treat the flu. These medications are most effective when they are taken within the first 48 hours of getting sick.
+
+The table below summarizes the information on the different types of influenza viruses.
+
+| Type of Influenza Virus | Symptoms | Treatment |
+|---|---|---|
+| Influenza A | Fever, headache, muscle aches, sore throat, runny nose, cough | Antiviral medication, rest, fluids |
+| Influenza B | Fever, headache, muscle aches, sore throat, runny nose, cough | Antiviral medication, rest, fluids |
+| Influenza C | Mild symptoms, such as a runny nose and cough | No treatment necessary |
+
+The flowchart below summarizes the steps that should be taken to prevent the flu.
+
+| Step | Action |
+|---|---|
+| 1 | Get vaccinated every year. |
+| 2 | Wash your hands frequently. |
+| 3 | Cover your mouth and nose when you cough or sneeze. |
+| 4 | Stay away from sick people. |

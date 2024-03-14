@@ -1,0 +1,26 @@
+ The image is a table that summarizes the different types of lymphoma, their genetic mutations, clinical features, and biopsy findings.
+
+There are 7 types of lymphoma:
+- Diffuse large B-cell lymphoma (DLBCL)
+- Follicular lymphoma
+- Mantle cell lymphoma
+- Burkitt lymphoma
+- Marginal zone lymphoma
+- Adult T-cell lymphoma
+- Mycosis fungoides
+
+**Diffuse large B-cell lymphoma (DLBCL)** is a type of non-Hodgkin lymphoma that is characterized by the presence of large, atypical B cells. It is the most common type of lymphoma, accounting for about 30% of all cases. DLBCL can occur at any age, but it is most common in adults over the age of 60.
+
+**Follicular lymphoma** is a type of non-Hodgkin lymphoma that is characterized by the presence of small, round B cells that form follicles. It is the second most common type of lymphoma, accounting for about 20% of all cases. Follicular lymphoma typically occurs in adults over the age of 50.
+
+**Mantle cell lymphoma** is a type of non-Hodgkin lymphoma that is characterized by the presence of small, round B cells that infiltrate the mantle zone of the lymph node. It is a relatively rare type of lymphoma, accounting for about 5% of all cases. Mantle cell lymphoma typically occurs in adults over the age of 60.
+
+**Burkitt lymphoma** is a type of non-Hodgkin lymphoma that is characterized by the presence of small, round B cells that grow in a diffuse pattern. It is a very aggressive type of lymphoma, and it can occur at any age. Burkitt lymphoma is most common in children and young adults.
+
+**Marginal zone lymphoma** is a type of non-Hodgkin lymphoma that is characterized by the presence of small, round B cells that infiltrate the marginal zone of the lymph node. It is a relatively rare type of lymphoma, accounting for about 5% of all cases. Marginal zone lymphoma typically occurs in adults over the age of 60.
+
+**Adult T-cell lymphoma** is a type of non-Hodgkin lymphoma that is caused by the human T-cell leukemia virus (HTLV-1). It is a rare type of lymphoma, and it is most common in adults from Japan, the Caribbean, and South America.
+
+**Mycosis fungoides** is a type of cutaneous T-cell lymphoma that is characterized by the presence of red, scaly patches on the skin. It is the most common type of cutaneous T-cell lymphoma, accounting for about 50% of all cases. Mycosis fungoides typically occurs in adults over the age of 50.
+
+The table also summarizes the genetic mutations, clinical features, and biopsy findings for each type of lymphoma. This information can be helpful for doctors when diagnosing and treating lymphoma.

@@ -1,0 +1,36 @@
+ # **18. CHROHN'S DISEASE**
++ Crohn's disease is a chronic inflammatory bowel disease.
++ It affects the digestive tract lining.
++ It causes tissue inflammation in the digestive tract, which leads to abdominal pain, severe diarrhea, fatigue, weight loss and malnutrition.
++ Although treatments can help, Crohn's disease can't be cured permanently.
++ The disease was named after gastroenterologist Burrill Bernard Crohn, who first described the disease in 1932.
+
+## **Epidemiology**
++ Crohn's disease is classified as Rare.
++ It affects fewer than 1 million cases per year in India.
+
+## **Etiology**
++ The exact cause of ulcerative colitis is unknown, but there are specific factors that appear to trigger or aggravate it.
+
+**Immune System**
++ Disrupted microflora-immune response
++ Th1> Th 2
+
+**Genetics**
++ Polygenic disease
++ Susceptible loci
++ Positive Fhx
++ HLA gene associations
+
+**Environment**
++ Alteration in bacterial microflora
++ Nutritional & social factors
+
+## **Diagnosis**
++ The diagnosis of Crohn's disease is challenging at times, and many tests are often required to assist the physician in making the diagnosis.
++ A colonoscopy has a 70% chance to correctly diagnose the disease.
++ Endoscopic image of Crohn's colitis showing deep ulceration:
+
++ CT scan showing Crohn's disease in the fundus of the stomach:
+
+## **Signs and

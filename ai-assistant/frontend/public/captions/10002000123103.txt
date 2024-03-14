@@ -1,0 +1,70 @@
+ ## **Congestive Heart Failure (CHF)**
+
+### Introduction
+- CHF is a condition in which the heart is unable to pump blood effectively, leading to inadequate perfusion of body tissues with nutrients and oxygen.
+- It is a major cause of hospitalization in patients over the age of 65.
+- The left ventricle is usually the first to fail, but eventually both ventricles may fail.
+- CHF can be acute or chronic, and it can be mild or severe.
+
+### Symptoms of CHF
+- Shortness of breath
+- Difficulty focusing
+- Fatigue
+- Confusion
+- Lowered ability to exercise
+- Heart palpitations
+- Dry, hacking cough
+- Edema
+
+### NYHA classification of heart failure
+The New York Heart Association (NYHA) classification of heart failure is a system used to classify the severity of CHF. It is based on the patient's symptoms and their limitations on physical activity.
+- Class I: No symptoms with ordinary activity
+- Class II: Slight limitation of physical activity
+- Class III: Marked limitation of physical activity
+- Class IV: Unable to carry on any activity without discomfort and possibly confined to bed
+
+### Objective symptoms of CHF
+- Left-sided failure
+ - Anxious
+ - Pale
+ - Tachycardia
+ - Dyspnea, with crackles, wheezes
+ - Orthopnea
+ - Later productive cough with frothy, bloody sputum
+ - Oliguria
+- Right sided failure
+ - Weight gain
+ - Pitting, dependent edema
+ - JVD
+ - Ascites
+ - Decreased UOP
+ - Distended neck veins
+ - N/V, anorexia
+
+### Causes of heart failure
+- Coronary artery disease
+- Acute MI
+- Cardiomyopathy
+- Hypertension
+- COPD
+- Anemia
+- Fluid volume overload
+- The disease of the heart valves
+- Cardiac arrhythmias
+- Myocarditis
+- Alcohol abuse
+- Obesity
+
+### Pathophysiology of CHF
+- The heart is a pump that circulates blood throughout the body. The right side of the heart pumps blood to the lungs, where it is oxygenated. The left side of the heart then pumps the oxygenated blood to the rest of the body.
+- In CHF, the heart is unable to pump blood effectively. This can be due to a variety of factors, such as damage to the heart muscle, problems with the heart valves, or abnormal heart rhythms.
+- When the heart is unable to pump blood effectively, it can lead to a backup of blood in the heart and lungs. This can cause shortness of breath, fatigue, and swelling in the feet and ankles.
+- CHF can also lead to a decrease in blood flow to the kidneys, which can cause fluid retention and weight gain.
+- If CHF is severe, it can lead to death.
+
+### Treatment of CHF
+- The treatment of CHF depends on the severity of the condition.
+- Treatment may include medications, lifestyle changes, and surgery.
+- Medications used to treat CHF include diuretics, ACE inhibitors, beta-blockers, and digoxin.
+- Lifestyle changes that can help to improve CHF include losing weight, eating a healthy diet, and exercising regularly.
+- Surgery may be necessary to repair or replace a damaged heart valve or to correct an abnormal heart rhythm.

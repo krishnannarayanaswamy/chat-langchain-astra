@@ -1,0 +1,59 @@
+ ## **28. MYOCARDIAL INFARCTION**
+**Introduction**
+- A myocardial infarction occurs when there's a blockage of blood flow to the myocardium, almost always a medical emergency.
+
+**Epidemiology**
+- Myocardial infarction is classified as very common.
+- It affects more than 10 million people per year in India. 
+
+**Etiology**
+- Most myocardial infarction are stemmed from underlying coronary artery disease.
+- Coronary atherosclerosis
+- Thromboemboli
+- Coronary artery spasm
+- Myocardial oxygen supply-demand mismatch, for example, due to severe anemia
+- Hypertrophic cardiomyopathy
+- Severe aortic stenosis
+
+**Risk Factors**
+- Diabetes
+- High Blood Pressure
+- Smoking
+- Overweight
+- High Cholesterol
+- Family History
+
+**Pathophysiology**
+- Coronary artery occlusion: usually a partial or endothelial infarction manifesting as unstable angina or STEMI
+- Complete coronary artery occlusion (usually a trans-mural infarction manifesting as Type 1 MI)
+- Oxygen supply and demand mismatch
+- Nonischemic myocardial injury (such as secondary to inflammatory cytokines)
+
+**Signs and Symptoms**
+Refer Diagram 28.1
+
+**Clinical Findings**
+Refer Flow Chart 28.1
+
+**Complications**
+Refer Chart 28.2
+
+**Diagnosis**
+- A primary diagnosis can be made from physical findings itself.
+- However, for a confirmatory diagnosis, ECG and lab results are used.
+Refer Flow Chart 28.3
+
+**Treatment**
+Refer Flow Chart 28.4
+
+**Prevention**
+- Primary prevention: Avoidance of the modifiable risk factors for atherosclerosis such as:
+ - Regular exercise
+ - Smoking cessation
+ - Management of hypertension and hyperlipidemias
+- Secondary prevention:
+ - Lifestyle modifications
+ - Statins
+ - Long-dose low-dose aspirin
+ - Dual antiplatelet therapy
+ - Beta-blockers unless contraindicated

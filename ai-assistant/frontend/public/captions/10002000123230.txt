@@ -1,0 +1,5 @@
+ The diagram shows the role of calcium in muscle contraction. The OCR text describes the process of muscle contraction and the role of calcium in it.
+    The first step in muscle contraction is the binding of ATP to the myosin head. This causes the myosin head to split into two parts, and the energy from the ATP is used to reorient the myosin head so that it can bind to actin.
+    The myosin head then binds to actin, forming a crossbridge. The crossbridge is then able to rotate, pulling the actin filament toward the center of the sarcomere. This causes the muscle to contract.
+    The contraction cycle continues as long as there is ATP available and the calcium level in the sarcoplasm is high. When the calcium level drops, the myosin head detaches from the actin filament and the muscle relaxes.
+    The role of calcium in muscle contraction is to trigger the release of ATP from the myosin head. This allows the myosin head to bind to actin and form a crossbridge. The crossbridge is then able to rotate, pulling the actin filament toward the center of the sarcomere and causing the muscle to contract.

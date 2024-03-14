@@ -1,0 +1,31 @@
+ The image shows the superficial muscles of the right lower leg in anterior view, the superficial muscles of the right lower leg in posterior view, and the deep muscles of the right lower leg in posterior view. 
+
+The table summarizes the key differences between skeletal muscle, smooth muscle, and cardiac muscle.
+
+**Skeletal Muscle**
+
+* Striations: Skeletal muscle cells have a striped appearance due to the arrangement of actin and myosin filaments.
+* Single nucleus: Skeletal muscle cells have a single nucleus located in the center of the cell.
+* No transverse tubules: Skeletal muscle cells do not have transverse tubules, which are invaginations of the sarcolemma that allow for the rapid spread of action potentials.
+* No intercalated discs: Skeletal muscle cells do not have intercalated discs, which are specialized junctions that connect adjacent muscle cells and allow for the coordinated contraction of the muscle.
+* Voluntary: Skeletal muscle is voluntary muscle, meaning that it can be consciously controlled.
+* Tapered: Skeletal muscle cells are tapered at the ends, which allows them to attach to tendons and bones.
+
+**Smooth Muscle**
+
+* Peristalsis, vasoconstriction: Smooth muscle is responsible for peristalsis, the wave-like contractions that move food through the digestive tract, and vasoconstriction, the narrowing of blood vessels.
+* No striations: Smooth muscle cells do not have a striped appearance, as the actin and myosin filaments are not arranged in a regular pattern.
+* Single nucleus: Smooth muscle cells have a single nucleus located in the center of the cell.
+* No transverse tubules: Smooth muscle cells do not have transverse tubules, which are invaginations of the sarcolemma that allow for the rapid spread of action potentials.
+* No intercalated discs: Smooth muscle cells do not have intercalated discs, which are specialized junctions that connect adjacent muscle cells and allow for the coordinated contraction of the muscle.
+* Involuntary: Smooth muscle is involuntary muscle, meaning that it cannot be consciously controlled.
+* Tapered: Smooth muscle cells are tapered at the ends, which allows them to attach to tendons and bones.
+
+**Cardiac Muscle**
+
+* Striations: Cardiac muscle cells have a striped appearance due to the arrangement of actin and myosin filaments.
+* Single nucleus: Cardiac muscle cells have a single nucleus located in the center of the cell.
+* Transverse tubules: Cardiac muscle cells have transverse tubules, which are invaginations of the sarcolemma that allow for the rapid spread of action potentials.
+* Intercalated discs: Cardiac muscle cells have intercalated discs, which are specialized junctions that connect adjacent muscle cells and allow for the coordinated contraction of the muscle.
+* Involuntary: Cardiac muscle is involuntary muscle, meaning that it cannot be consciously controlled.
+* Branched: Cardiac muscle cells are branched, which allows them to connect to each other and form a strong, interconnected network.

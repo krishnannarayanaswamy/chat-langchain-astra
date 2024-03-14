@@ -1,0 +1,9 @@
+ The image is a table that compares three different types of vaginitis: vulvovaginal candidiasis, trichomonal vaginitis, and bacterial vaginosis. The table includes information about the causative organism, population, symptoms, pH, types of discharges, and investigation by smears.
+
+    **Vulvovaginal candidiasis** is caused by the fungus Candida albicans. It is more common in pregnant women and women with diabetes. Symptoms include pruritus and a thick, white discharge. The pH of the vagina is typically acidic. 
+
+    **Trichomonal vaginitis** is caused by the protozoan Trichomonas vaginalis. It is the most common non-viral sexually transmitted infection. Symptoms include pruritus, a green frothy discharge, and a strawberry cervix. The pH of the vagina is typically basic. 
+
+    **Bacterial vaginosis** is caused by an overgrowth of anaerobic bacteria in the vagina. It is the most common cause of vaginitis in women of reproductive age. Symptoms include a thin, white discharge and a fishy odor. The pH of the vagina is typically basic.
+
+    To diagnose vaginitis, a doctor will typically perform a pelvic exam and take a sample of vaginal discharge for testing. Treatment for vaginitis depends on the cause.

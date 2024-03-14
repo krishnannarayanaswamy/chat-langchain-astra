@@ -1,0 +1,44 @@
+ **+ 1 GENERAL ANATOMY-HEMATOLOGY**
+
+Hematology is popularly defined as the science of study of the blood and various disorders associated with it.
+
+**Blood consists of two elements:**
+- Plasma, which is the liquid component.
+- Erythrocytes(RBC), Leucocytes(WBC) and Thrombocytes(Platelets): They are the solid components.
+
+The solid components are formed as a result of a process called Hematopoiesis.
+Hematopoiesis results in the formation of the solid components.
+
+**Refer Image 1.1**
+Formation of blood cells occurs in the bone marrow.
+A pluripotent stem cell serves as the mother cell in the bone marrow.
+The mother cell is the originator of all blood cells. It has a self renewing property and create further progenitors.
+
+**Erythrocytes**
+
+- Indent
+- Hemoglobin-rich cytoplasm
+- Biconcave shape
+
+**Structure:** Biconcave, anucleate cells. Organelles absent.
+
+**Function:** Transport of Oxygen to tissues and Carbon-dioxide to lungs.
+
+**Lifespan:** 120 days in healthy adults,
+Glucose is the primary source of energy for erythrocytes.
+
+**Both increase and decrease in erythrocyte count indicates an abnormality.**
+
+**Normal range:**
+- Male: 4.5-5.9 mil/uL
+- Female: 4.0-5.2 mil/uL
+
+**Thrombocytes**
+
+- Structure: Multi-lobed nucleus.
+- Function: Participates in acute inflammatory response.
+- Contains specific enzymes for inflammatory responses.
+
+**Structure:** Anucleate, Small cytoplasmic fragments
+**Function:** Involved in primary hemostasis.
+**Lifespan:** 8-10 days.

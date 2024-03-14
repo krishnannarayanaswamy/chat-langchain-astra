@@ -1,0 +1,28 @@
+ ## **General Physiology - Nervous System**
+
++ **Cells of the Nervous System**
++ There are two cells of the nervous system. These are;
+ - Neuron
+ - Neuroglia
++ The functional unit of the nervous system is the nerve cell, or neuron
++ Neuroglia or glial are supportive cells in the nervous system that aid the function of neurons
+
+**Neurons (Nerve Cells)**
+Neurons have three fundamental physiological properties:
+- Excitability
+- Conductivity
+- Secretion
++ A typical neuron is divided into three parts;
+ - Soma or cell body (perikaryon)
+ - Dendrites
+ - Axon
+
+**Structure of a neuron**
++ **Axonal Transport**
+ - Many proteins made in soma must be transported to axon and axon terminal
+ - Repair axolemma, for gated ion channel proteins, as enzymes or neurotransmitters
+ - Fast anterograde axonal transport
+ - Either direction up to 400 mm/day for organelles, enzymes, vesicles and small molecules
+ - Fast retrograde for recycled materials and pathogens
+ - Slow axonal transport or axoplasmic flow
+ - Moves cytoskeletal and new axoplasm at 10 mm/day during repair and regeneration in damaged

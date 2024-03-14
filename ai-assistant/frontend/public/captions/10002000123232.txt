@@ -1,0 +1,13 @@
+ The image is a flowchart that describes the diagnostic criteria for amyotrophic lateral sclerosis (ALS). ALS is a progressive neurodegenerative disease that affects the motor neurons in the brain and spinal cord. The disease is characterized by weakness, atrophy, and spasticity of the muscles.
+
+The flowchart begins with the patient presenting with symptoms of weakness, atrophy, or spasticity. The next step is to determine if the patient has signs of lower motor neuron (LMN) or upper motor neuron (UMN) involvement. LMN signs include muscle weakness, atrophy, and fasciculations. UMN signs include spasticity, hyperreflexia, and clonus.
+
+If the patient has signs of both LMN and UMN involvement, then the next step is to determine the distribution of the signs. If the signs are confined to one region of the body, then the patient is diagnosed with possible ALS. If the signs are present in two or more regions of the body, then the patient is diagnosed with probable ALS.
+
+If the patient has signs of only LMN involvement, then the next step is to determine the duration of the symptoms. If the symptoms have been present for less than two months, then the patient is diagnosed with suspected ALS. If the symptoms have been present for two months or more, then the patient is diagnosed with probable ALS.
+
+If the patient has signs of only UMN involvement, then the patient is diagnosed with possible ALS.
+
+The flowchart also includes information on the prognosis of ALS. The prognosis is worse for patients who are older than 65 years of age, who have a rapid progression of symptoms, or who have bulbar involvement.
+
+The flowchart is a helpful tool for diagnosing ALS. It can help to ensure that patients are diagnosed with the correct disease and that they receive the appropriate treatment.

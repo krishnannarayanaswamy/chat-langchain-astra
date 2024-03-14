@@ -1,0 +1,24 @@
+ ## Types of Neuroglia
+
+Central Nervous System | Peripheral Nervous System
+--- | ---
+Ependymal cells | Satellite cells
+Oligodendrocytes | Schwann cells
+Astrocytes | 
+Microglia | 
+
+**Image Description**
+
+The image shows a table of the different types of neuroglia. The table is divided into two columns, one for the central nervous system and one for the peripheral nervous system. The central nervous system is the part of the nervous system that is located in the brain and spinal cord, while the peripheral nervous system is the part of the nervous system that is located outside of the brain and spinal cord.
+
+The different types of neuroglia are listed in the rows of the table. The first type of neuroglia is the ependymal cell. Ependymal cells are found in the central nervous system and they line the ventricles of the brain and the central canal of the spinal cord. They are responsible for producing cerebrospinal fluid, which is a clear fluid that bathes the brain and spinal cord.
+
+The second type of neuroglia is the oligodendrocyte. Oligodendrocytes are found in the central nervous system and they are responsible for producing the myelin sheath, which is a fatty layer that surrounds the axons of neurons. The myelin sheath helps to insulate the axons and allows for faster transmission of nerve impulses.
+
+The third type of neuroglia is the astrocyte. Astrocytes are found in the central nervous system and they are responsible for a variety of functions, including providing structural support for the brain and spinal cord, regulating the blood-brain barrier, and helping to clear away waste products from the brain.
+
+The fourth type of neuroglia is the microglia. Microglia are found in the central nervous system and they are responsible for removing dead or damaged cells from the brain and spinal cord. They also play a role in the immune response of the central nervous system.
+
+The fifth type of neuroglia is the satellite cell. Satellite cells are found in the peripheral nervous system and they surround the neurons in the ganglia. They are responsible for providing structural support for the neurons and for helping to regulate the neuron's environment.
+
+The sixth type of neuroglia is the Schwann cell. Schwann cells are found in the peripheral nervous system and they are responsible for producing the myelin sheath that surrounds the axons of neurons. The myelin sheath helps to insulate the axons and allows for faster transmission of nerve impulses.

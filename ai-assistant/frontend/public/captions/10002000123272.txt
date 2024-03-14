@@ -1,0 +1,7 @@
+ The image is a flowchart that shows the pathophysiology of Parkinson's disease. The flowchart starts with the genetic vulnerability and oxidative stress. It then goes on to describe the loss of dopaminergic neurons in the substantia nigra pars compacta of the basal ganglia. This loss of neurons leads to a decrease in dopamine production, which in turn leads to the development of the symptoms of Parkinson's disease. These symptoms include bradykinesia, hypokinesia, rigidity, and postural instability. The flowchart also shows the compensatory mechanisms that the body can use to try to overcome the loss of dopamine neurons. These mechanisms include the upregulation of dopamine receptors and the activation of indirect basal ganglia pathways. However, these compensatory mechanisms are eventually overwhelmed by the progression of the disease.
+    Parkinson's disease is a progressive neurological disorder that affects movement. It is caused by the loss of nerve cells in the brain that produce dopamine. Dopamine is a neurotransmitter that helps control movement. The loss of dopamine causes the symptoms of Parkinson's disease, which include:
+Tremor
+Rigidity
+Bradykinesia (slowed movement)
+Postural instability
+Parkinson's disease is usually diagnosed based on the patient's symptoms and a physical examination. There is no cure for Parkinson's disease, but there are treatments that can help to relieve the symptoms. These treatments include medication, surgery, and physical therapy.

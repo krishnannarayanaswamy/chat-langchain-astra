@@ -1,0 +1,9 @@
+ The image is a table that summarizes the management of diabetic retinopathy. It includes information on the different types of diabetic retinopathy, the goals of treatment, and the treatment options.
+
+Diabetic retinopathy is a complication of diabetes that affects the eyes. It is caused by damage to the blood vessels in the retina, the light-sensitive tissue at the back of the eye. Diabetic retinopathy can lead to blindness if it is not treated.
+
+There are two main types of diabetic retinopathy: proliferative diabetic retinopathy (PDR) and non-proliferative diabetic retinopathy (NPDR). PDR is the more severe form of the disease and is characterized by the growth of new blood vessels on the retina. NPDR is the earlier stage of the disease and is characterized by damage to the blood vessels in the retina.
+
+The goals of treatment for diabetic retinopathy are to prevent blindness, preserve vision, and improve the quality of life. Treatment options for PDR include laser therapy, anti-VEGF injections, and vitrectomy. Treatment options for NPDR include laser therapy and anti-VEGF injections.
+
+The table provides a summary of the different treatment options for diabetic retinopathy. It includes information on the type of treatment, the goal of treatment, and the potential side effects.

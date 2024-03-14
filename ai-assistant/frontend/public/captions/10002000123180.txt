@@ -1,0 +1,10 @@
+ The image describes the **ADH pathway and the disorders associated with it.**
+The hypothalamus responds to changes in blood volume and pressure by releasing ADH. ADH acts on the kidneys to regulate water reabsorption.
+
+**Central diabetes insipidus** is a disorder in which the hypothalamus does not produce enough ADH. This can lead to dehydration and electrolyte imbalance.
+
+**Nephrogenic diabetes insipidus** is a disorder in which the kidneys do not respond to ADH. This can also lead to dehydration and electrolyte imbalance.
+
+**Dipsogenic diabetes insipidus** is a disorder in which the hypothalamus produces too much ADH. This can lead to water intoxication and hyponatremia.
+
+The treatment for diabetes insipidus depends on the type of disorder. Central diabetes insipidus is treated with ADH replacement therapy. Nephrogenic diabetes insipidus is treated with thiazide diuretics. Dipsogenic diabetes insipidus is treated with fluid restriction and medications to decrease ADH production.

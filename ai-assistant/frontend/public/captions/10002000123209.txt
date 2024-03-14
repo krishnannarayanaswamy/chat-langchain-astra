@@ -1,0 +1,56 @@
+ ## **Primary Amenorrhea**
+**Introduction**
+- Primary amenorrhea is the absence of menstruation.
+- Primary amenorrhea is defined as the absence of menses by age 16 in an individual with normal secondary sexual characteristics or the absence of menses by age 14 in an individual without secondary sexual development.
+- Secondary amenorrhea is defined as the absence of menses for 6 months in a previously menstruating female.
+
+**Epidemiology**
+- It is an uncommon disorder affecting only 1% of adolescent girls presenting with menstrual abnormalities.
+
+**Causes of Primary Amenorrhea**
+- A common cause of primary amenorrhea is a family history of delayed menstruation.
+- Hypothalamic/Pituitary:
+ - Constitutional
+ - Systemic illness
+ - Hyperprolactinemia
+ - Extreme physical, nutritional, or emotional stress
+ - Polycystic ovarian syndrome (PCOS)
+- Ovarian:
+ - Gonadal dysgenesis (e.g., Turner's Syndrome)
+- Anatomic:
+ - Mullerian anomalies or agenesis (e.g., absent vagina)
+ - Imperforate hymen
+
+**Diagnostic Evaluation**
+- History:
+ - Pubertal changes, family history, change in weight, exercise, galactorrhea, neurologic symptoms, cyclic pain
+- Physical exam:
+ - Height, weight, tanner staging
+ - Pelvic exam/ultrasound
+  - Presence/Absence of breast development
+  - Presence/Absence of uterus
+- Laboratory investigations:
+ - hCG (Always rule out pregnancy first)
+ - FSH level, LH, estradiol
+ - Prolactin
+ - TSH
+
+**Management**
+- Wherever the cause can be eliminated, it should be eliminated e.g., provision of thyroxine to hypothyroid individuals.
+- Hyperprolactinemia - correct underlying etiology
+- Androgen insensitivity syndrome (AIS)
+ - Gonadal resection after puberty
+ - Psychological counseling
+- Creation of neo-vagina
+- Anatomical (imperforate hymen, transverse vaginal septum, cervical agenesis)
+ - Surgical management
+- Müllerian dysgenesis (Mayer-Rokitansky-Kuster-Hauser syndrome)
+ - Psychological counseling
+ - Creation of neo-vagina with dilation
+ - Diagnostic study to confirm the normal urinary system, spine, and heart.
+
+**Complications**
+- Osteoporosis and increased risk of bone fractures
+
+**Prognosis**
+- It is not life-threatening but can result in several complications.

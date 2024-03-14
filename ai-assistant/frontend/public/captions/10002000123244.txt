@@ -1,0 +1,13 @@
+ The image is a table that compares Lambert-Eaton myasthenic syndrome (LEMS) and myasthenia gravis (MG). 
+
+The table has six columns. The first column is the mechanism of the disease. LEMS is caused by antibodies against the presynaptic calcium channels, while MG is caused by antibodies against the postsynaptic acetylcholine receptors.
+
+The second column is the clinical features of the disease. LEMS presents with incremental response to repetitive stimulation, improvement towards the night, rarely affected eye involvement, and usually decreased or lost tendon reflexes. MG presents with decremental response to repetitive stimulation, gets worse towards the night, very common eye involvement with diplopia, and usually intact tendon reflexes.
+
+The third column is the association of the disease. LEMS is associated with small cell carcinoma in 50% of cases, while MG is associated with thymoma in 15% of cases.
+
+The fourth column is the treatment of the disease. LEMS is treated with steroids and immunosuppressives, while MG is treated with anticholinesterases (pyridostigmine).
+
+The fifth column is a mnemonic for the medications to be avoided in myasthenia gravis. The mnemonic is "EXACERBATE". The medications that should be avoided are erythromycin, xylocaine (lignocaine), aminoglycosides (streptomycin), ciprofloxacin (quinolones), electrolyte (Mg and its compounds such as MgSO4), relaxants (succinylcholine and dantrolene), botox & beta blocker, anti-malarial (quinine), and timolol.
+
+The sixth column is a table that summarizes the key differences between LEMS and MG.

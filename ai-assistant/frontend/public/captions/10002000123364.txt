@@ -1,0 +1,37 @@
+ The image is a table that compares cavernous sinus thrombosis with orbital cellulitis. 
+
+The table has 5 columns. The first column is the source of the infection. The second column is the onset of the infection. The third column is the toxemia. The fourth column is the laterality of the infection. The fifth column is the edema of the eyelids. The sixth column is the cranial nerve involvement.
+
+## **Cavernous sinus thrombosis**
+- is a serious infection of the blood vessels that surround the cavernous sinus, which is a space at the base of the skull. 
+- The cavernous sinus is located behind the eyes and is connected to the brain. 
+- Cavernous sinus thrombosis can occur when an infection from the face or sinuses spreads to the cavernous sinus. 
+- Symptoms of cavernous sinus thrombosis include:
+ - headache
+ - fever
+ - chills
+ - nausea
+ - vomiting
+ - confusion
+ - seizures
+ - vision problems
+ - eye pain
+ - swelling around the eyes
+- Treatment for cavernous sinus thrombosis typically involves antibiotics and surgery to drain the infected sinus.
+
+## **Orbital cellulitis**
+- is an infection of the tissues that surround the eye. 
+- It can be caused by a variety of bacteria, including Staphylococcus aureus, Streptococcus pneumoniae, and Haemophilus influenzae. 
+- Orbital cellulitis can occur when an infection from the sinuses, skin, or eyelids spreads to the orbit. 
+- Symptoms of orbital cellulitis include:
+ - pain
+ - swelling
+ - redness
+ - warmth
+ - tenderness
+ - fever
+ - chills
+ - nausea
+ - vomiting
+ - vision problems
+- Treatment for orbital cellulitis typically involves antibiotics and surgery to drain the infected area.

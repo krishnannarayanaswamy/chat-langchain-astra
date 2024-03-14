@@ -1,0 +1,56 @@
+ ## Laryngeal cancer
+### Etiology
+- Most common in males
+- Risk factors: smoking, alcohol, asbestos, nickel, wood dust
+- HPV-16 and HPV-18 are associated with a subset of laryngeal cancers, particularly in younger patients
+
+### Clinical presentation
+- Hoarseness
+- Dysphagia
+- Odynophagia
+- Otalgia
+- Neck mass
+
+### Physical examination
+- Indirect laryngoscopy: visualization of the larynx with a mirror
+- Direct laryngoscopy: visualization of the larynx with a rigid scope
+- Palpation of the neck: to assess for lymphadenopathy
+
+### Imaging
+- CT scan of the neck and chest: to assess for the extent of the tumor and to identify any metastatic disease
+- MRI of the neck: to assess for the extent of the tumor and to identify any metastatic disease
+- PET scan: to assess for the presence of metastatic disease
+
+### Staging
+The staging of laryngeal cancer is based on the TNM system. The T stage describes the size and location of the tumor, the N stage describes the presence and extent of regional lymph node involvement, and the M stage describes the presence of distant metastases.
+- T stage
+ - T1: Tumor confined to the vocal cords
+ - T2: Tumor invades the vocal cords and/or the supraglottic or subglottic regions
+ - T3: Tumor invades the thyroid cartilage or the cricoid cartilage
+ - T4: Tumor invades the surrounding structures, such as the skin, muscles, or bones of the neck
+- N stage
+ - N0: No regional lymph node involvement
+ - N1: Metastasis to a single ipsilateral lymph node
+ - N2: Metastasis to multiple ipsilateral lymph nodes
+ - N3: Metastasis to contralateral lymph nodes or to lymph nodes in the neck
+- M stage
+ - M0: No distant metastases
+ - M1: Distant metastases
+
+### Treatment
+The treatment of laryngeal cancer depends on the stage of the disease.
+- Early-stage laryngeal cancer (T1-T2N0M0)
+ - Radiation therapy
+ - Surgery
+ - Laser surgery
+ - Chemotherapy
+ - Immunotherapy
+- Advanced-stage laryngeal cancer (T3-T4N0-3M0 or any TNM stage with distant metastases)
+ - Surgery
+ - Radiation therapy
+ - Chemotherapy
+ - Immunotherapy
+ - Targeted therapy
+
+### Prognosis
+The prognosis of laryngeal cancer depends on the stage of the disease. The 5-year survival rate for early-stage laryngeal cancer is greater than 90%. The 5-year survival rate for advanced-stage laryngeal cancer is less than 50%.

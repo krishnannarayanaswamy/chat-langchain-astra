@@ -1,0 +1,56 @@
+ # Porphyria
+Porphyria is a group of rare genetic disorders characterized by the disruption of heme biosynthesis, an essential component of haemoglobin.
+These disorders result from defects in specific enzymes responsible for heme production, leading to an accumulation of heme precursors called porphyrins.
+The excess porphyrins cause a range of symptoms, including photosensitivity, neurological problems, and gastrointestinal issues.
+The manifestations of porphyria can be classified into acute (neurovisceral) attacks or cutaneous symptoms, depending on the specific type of porphyria and the enzymes affected.
+
+## Heme Synthesis
+Refer Flow Chart 11.1
+
+## Types of Porphyrias
+Different types of porphyrias
+Refer Table 11.1
+
+## Signs and Symptoms of Porphyrias
+Causes:
+- Peripheral
+ - Muscles weakness, neuropathic pain in limbs, sensory loss, paralysis, fatigue, respiratory paralysis
+- Central
+ - Anxiety, depression, confusion, seizures, hallucinations, insomnia
+- Cutaneous symptoms
+ - Lesions on sun-exposed skin occur primarily in hereditary coporoporphyria (HCP), variegate porphyria (VP)
+Other Manifestations
+- Hyponatremia, dark or reddish urine
+The two most clinically important porphyrias include the following:
+- Acute intermittent porphyria
+- Porphyria cutanea tarda
+
+## Acute intermittent porphyria
+Refer Table 11.2
+Glucose administration: Glucose suppresses the production of aminolevulinic acid (ALA) synthase, leading to a decrease in the accumulation of porphyrin precursors ALA and porphobilinogen (PBG).
+Hemin infusion: Hemin, also known as heme arginate or hematin, is a medication that directly provides the heme molecule, which acts as a negative feedback mechanism on ALA synthase. When heme levels are replenished, the synthesis of ALA and PBG is decreased, reducing the toxic buildup of these precursors and alleviating the symptoms of acute intermittent porphyria.
+Refer Flow Chart 11.2
+
+**Acute intermittent porphyria: 5 P's**
+- Porphobillnogen deaminase deficiency
+- Pain in abdomen (most common, 95% of patients experience)
+- Psychological symptoms (Anxiety, agitation, hallucination, hysteria, delirium, depression)
+- Peripheral neuropathy (Patchy numbness and paresthesias)
+- Pee abnormality (Dysuria, urinary retention/incontinence of dark urine)
+Precipitated by drugs (e.g. barbiturates, oral contraceptives, Sulfa drugs)
+
+**Triggers for acute intermittent porphyria**
+Drugs causing acute intermittent porphyria
+- Boges CPR
+- B-Barbiturates
+- O-OC Pills
+- G-Griseofulvin
+- E-Estrogen
+- S-Sulfonamides
+- C-Chloradizepoxide
+- C-Chlorpropamide
+- P-Phenytoin
+- R-Rifampicin
+
+## Porphyria cutanea tarda
+Refer Table 11.3

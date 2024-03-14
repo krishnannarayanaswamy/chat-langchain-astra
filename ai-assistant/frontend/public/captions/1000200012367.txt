@@ -1,0 +1,19 @@
+ The image is a flowchart that provides a treatment algorithm for peptic ulcer associated with Helicobacter pylori infection. The algorithm is based on the patient's penicillin allergy status and the results of culture and susceptibility testing.
+
+**First-line therapies**
+
+For patients who are not allergic to penicillin, the first-line therapy is a 14-day course of bismuth plus PPI plus tetracycline plus metronidazole.
+
+For patients who are allergic to penicillin, the first-line therapy is a 14-day course of double-dose PPI plus metronidazole plus clarithromycin.
+
+**Rescue therapies**
+
+If the first-line therapy fails, the patient can be treated with a 14-day course of bismuth plus PPI plus tetracycline plus metronidazole.
+
+If the second-line therapy fails, the patient can be treated with a 14-day course of PPI plus clarithromycin plus levofloxacin with or without bismuth.
+
+**Culture and susceptibility testing**
+
+Culture and susceptibility testing should be performed to determine the susceptibility of the H. pylori strain to the antibiotics that are being considered for treatment.
+
+If culture and susceptibility testing is not available, the patient can be treated with a 10-day course of rifabutin plus PPI plus amoxicillin.

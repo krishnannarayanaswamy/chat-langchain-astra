@@ -1,0 +1,11 @@
+ ## Diagram 27.2: Cardiac cycle
+
+The cardiac cycle is the sequence of events that occur during one heartbeat. It is divided into two phases: systole and diastole.
+
+During systole, the heart contracts and pumps blood out to the body. The atria contract first, followed by the ventricles. The ventricles contract with more force than the atria, which helps to propel the blood through the body.
+
+During diastole, the heart relaxes and fills with blood. The atria fill first, followed by the ventricles. The ventricles fill with blood from the atria and from the body.
+
+The cardiac cycle is regulated by the electrical impulses from the heart's sinoatrial node (SA node). The SA node is located in the right atrium and is responsible for generating the electrical impulses that cause the heart to contract. The electrical impulses travel from the SA node to the atrioventricular node (AV node), which is located between the atria and the ventricles. The AV node delays the electrical impulses slightly, which allows the atria to fill with blood before the ventricles contract. The electrical impulses then travel down the bundle of His, which is a group of fibers that connect the AV node to the ventricles. The bundle of His divides into the left and right bundle branches, which carry the electrical impulses to the left and right ventricles. The electrical impulses cause the ventricles to contract, which pumps blood out to the body.
+
+The cardiac cycle is a continuous process that repeats itself over and over again. It is essential for maintaining the body's blood supply.

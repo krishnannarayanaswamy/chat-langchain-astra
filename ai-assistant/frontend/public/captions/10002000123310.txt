@@ -1,0 +1,13 @@
+ The image is a table that lists the different drug classes used to treat PTSD, their efficacy, and prescribing notes. The drug classes listed are risperidone, SSRIs, trazodone, tricyclic antidepressants, monoamine oxidase inhibitors, and prazosin.
+
+Risperidone is effective for women with chronic PTSD following physical, sexual, or emotional abuse as a child. It reduces intrusive traumatic thinking and hyperarousal.
+
+SSRIs are the pharmacologic treatment of choice for patients with PTSD. Sertraline and paroxetine have US Food and Drug Administration approval for PTSD treatment. They are effective at diminishing reexperiencing, avoidance, numbing, and hyperarousal and also at sustaining a better quality of life. Sertraline efficacy improves when augmented by exposure therapy.
+
+Trazodone has limited efficacy as monotherapy. It can be combined with SSRIs to counter insomnia due to antihistaminergic effects.
+
+Tricyclic antidepressants are less commonly utilized. Imipramine and desipramine have demonstrated efficacy.
+
+Monoamine oxidase inhibitors are a third-choice drug; also has important dietary, drug, and beverage restrictions.
+
+Prazosin is an a1-adrenergic antagonist that can reduce traumatic PTSD nightmare. Fear memories are reduced by α1-adrenergic blockade at the amygdala.

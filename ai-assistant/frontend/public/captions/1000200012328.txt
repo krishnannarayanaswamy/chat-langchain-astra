@@ -1,0 +1,26 @@
+ The image is a table that classifies lymphomas. Lymphomas are a type of cancer that start in the lymphatic system. The lymphatic system is a network of vessels and nodes that helps fight infection. Lymphomas can occur in any part of the body, but they most commonly occur in the lymph nodes, spleen, bone marrow, and digestive tract.
+
+There are two main types of lymphomas: Hodgkin lymphoma and non-Hodgkin lymphoma. Hodgkin lymphoma is characterized by the presence of Reed-Sternberg cells, which are large, abnormal cells that are found in the lymph nodes. Non-Hodgkin lymphoma is a more common type of lymphoma that includes a variety of different subtypes.
+
+The table classifies lymphomas according to their subtype. The subtypes of Hodgkin lymphoma are:
+
+* Nodular sclerosis
+* Mixed cellularity
+* Lymphocyte-rich
+* Lymphocyte-depleted
+
+The subtypes of non-Hodgkin lymphoma are:
+
+* Diffuse large B-cell lymphoma
+* Follicular lymphoma
+* Mantle cell lymphoma
+* Burkitt lymphoma
+* Marginal zone lymphoma
+* Chronic lymphocytic leukemia/small lymphocytic lymphoma
+* Adult T-cell lymphoma
+* Anaplastic large cell lymphoma
+* Angio-immunoblastic T-cell lymphoma
+* Peripheral T-cell lymphoma, NOS
+* Mycosis fungoides
+
+Each subtype of lymphoma has its own unique characteristics, symptoms, and treatment options.

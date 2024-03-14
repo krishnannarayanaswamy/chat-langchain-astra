@@ -1,0 +1,11 @@
+ The image is a flowchart that shows the relationship between neurotransmitter deficiency, neural network abnormality, phenotype, endophenotype, and behavioral treatment of ADHD. 
+
+The neurotransmitter dopamine, noradrenaline, serotonin, histamine, glutamate, and nicotine-acetylcholine are involved in the pathophysiology of ADHD. 
+
+The neural network abnormality can be caused by a deficiency in one or more of these neurotransmitters. 
+
+The phenotype of ADHD is characterized by inattention, hyperactivity, and impulsivity. 
+
+The endophenotype of ADHD is characterized by executive function, abnormal EEG, and neuroimaging. 
+
+The behavioral treatment of ADHD includes cognitive training, physical exercise, and neurofeedback therapy.

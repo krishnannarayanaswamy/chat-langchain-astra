@@ -1,0 +1,17 @@
+ The image shows a table of different types of white blood cells. The table includes the following information:
+
+- **Monocyte:** 
+ - Structure: Bilobate nucleus, Large granules.
+ - Function: Phagocytosis, useful especially against helminthic infection.
+- **Macrophages:** 
+ - Structure: Large kidney shaped nucleus, 'Frosted Glass' cytoplasm.
+ - Function: Differentiate into macrophage in tissues.
+- **Basophils:** 
+ - Structure: Densely arranged basophilic granules
+ - Function: Mediate allergic reaction and leukotriene synthesis
+- **Mast Cells:** 
+ - Structure: Basophilic granules.
+ - Function: Mediate local tissue allergic reaction.
+- **Eosinophils:** 
+ - Structure: Two lobed nucleus
+ - Function: Phagocytosis.

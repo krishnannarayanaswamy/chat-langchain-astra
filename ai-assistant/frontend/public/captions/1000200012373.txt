@@ -1,0 +1,97 @@
+ **22 ASTHMA**
+Asthma is a chronic inflammatory disorder of the airways
+characterised by bronchial hyperresponsiveness, reversible
+airflow obstruction, and airway inflammation.
+This condition leads to recurrent episodes of wheezing,
+coughing, chest tightness, and shortness of breath, with
+varying severity and frequency among affected individuals.
+
+**Epidemiology**
+• Asthma is a prevalent global health concern, affecting an
+estimated 339 million people worldwide across all age
+groups, with a higher prevalence in children.
+• The distribution of asthma varies by region, influenced by
+factors such as genetics, environmental exposure, and
+socioeconomic status.
+• It affects more than 10 million cases per year in India.
+
+**Triggers for asthma**
+• Exposures to some viral infections in infancy.
+• NSAIDs
+• Irritants- cigarette smoking, air pollution, chemicals, etc.
+• Viral upper respiratory infections.
+• Allergens from dust, animal, fur, mold, etc.
+• Heredity- Parents who have asthma.
+• An inherited tendency to develop allergies, called atopy.
+
+**Pathophysiology**
+Refer Flow Chart 22.1
+
+**Clinical Features**
+Refer Flow Chart 22.2
+
+**Diagnosis**
+**Medical history
+and physical
+exam**
+Diagnosis of asthma
+• Recurrent episodes of wheezing,
+coughing, chest tightness, and dyspnea;
+family history of asthma or atopy
+**Spirometry**
+• Reduced FEV1/FVC ratio (<0.7),
+indicating airflow obstruction
+**Bronchodilator
+reversibility test**
+• ≥12% improvement in FEV1 after
+bronchodilator administration
+**Methacholine
+challenge test**
+• >20% decrease in FEV1 after
+methacholine exposure, indicating
+airway hyperresponsiveness
+**Allergy testing**
+• Positive results for specific allergens,
+indicating allergic asthma
+
+**Treatment**
+Refer Table 22.1
+**Management of asthma according to the severity**
+• A-Adrenergics (Beta 2 agonists, albuterol)
+• S- Steroids
+• T-Theophylline
+• H- Hydration
+• M- Mask Oxygen
+• A-Anticholinergics
+Refer Flow Chart 22.3
+
+**Acute asthma exacerbation**
+**Triggers**
+• Allergens (e.g., pollen, pet dander, mould)
+• Respiratory infections (e.g., cold, flu)
+• Air pollutants (e.g., smoke, chemical
+fumes)
+• Exercise or physical activity
+• Weather changes (e.g., cold air, humidity)
+
+**Clinical
+Features**
+• Increased wheezing
+• Coughing, often worse at night
+• Shortness of breath
+• Chest tightness
+• Tachypnea (rapid breathing)
+• Use of accessory muscles for breathing
+
+**Treatment**
+• Oxygen therapy for hypoxia
+• Short-acting beta-agonists (e.g., albuterol)
+for immediate relief
+• Inhaled anticholinergics (e.g., ipratropium)
+to reduce bronchoconstriction (in severe
+cases)
+• Systemic corticosteroids (e.g., prednisone)
+to reduce inflammation
+• Intravenous magnesium sulphate for
+severe exacerbations unresponsive to
+initial treatments.

@@ -1,0 +1,7 @@
+ Image 76.1: Neuron Structure
+
+The image shows a neuron, which is the basic functional unit of the nervous system. Neurons are responsible for receiving, processing, and transmitting information through electrical and chemical signals.
+
+The main parts of a neuron are the cell body, dendrites, and axon. The cell body contains the nucleus, which controls the cell's activities. Dendrites are short, branched extensions that receive signals from other neurons. The axon is a long, thin extension that transmits signals to other neurons.
+
+Neurons are connected to each other by synapses, which are specialized junctions that allow signals to pass from one neuron to another. When an electrical signal reaches the end of an axon, it causes the release of neurotransmitters, which are chemical messengers that cross the synapse and bind to receptors on the dendrites of other neurons. This binding of neurotransmitters to receptors triggers the generation of new electrical signals in the other neurons,

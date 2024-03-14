@@ -1,0 +1,13 @@
+ ## **Table 99.1**
+
+| Causative Organism | Gonococcal | Non Gonococcal |
+|---|:---:|:---:|
+| Disease Name | Gonococcal urethritis/ cervicitis (GU/ GC) | Non gonococcal urethritis/ cervicitis (NGU/NGC) |
+| Incubation Period | 3-5 days | 3-5 days (little longer sometimes) |
+| Presentation of Constitutional Symptoms | +ve (fever) | -ve |
+| Urinary Symptoms | +ve (dysuria) | -ve |
+| Clinical Features | 
+| In penis: Thick copious purulent discharge | In penis: Thin watery scanty clear looking discharge |
+| In cervix: Thick copious purulent discharge | In cervix: Thin watery scanty clear looking discharge |
+| | Cervix is friable | Cervix is friable |
+| Investigations |  |  |

@@ -1,0 +1,15 @@
+ The image shows a diagram of the cardiac cycle. The cardiac cycle is the sequence of events that occur during one heartbeat. It is divided into two phases: systole and diastole.
+
+Systole is the phase when the heart contracts and pumps blood out to the body. Diastole is the phase when the heart relaxes and fills with blood.
+
+The first heart sound (S1) occurs at the beginning of systole when the atrioventricular valves close. The second heart sound (S2) occurs at the end of systole when the semilunar valves close.
+
+The aortic stenosis murmur is a harsh, high-pitched sound that occurs during systole. It is caused by a narrowing of the aortic valve.
+
+The mitral regurgitation murmur is a blowing, low-pitched sound that occurs during systole. It is caused by a leaking mitral valve.
+
+The aortic regurgitation murmur is a high-pitched, musical sound that occurs during diastole. It is caused by a leaking aortic valve.
+
+The mitral stenosis murmur is a low-pitched, rumbling sound that occurs during diastole. It is caused by a narrowing of the mitral valve.
+
+The patent ductus arteriosus murmur is a continuous, high-pitched sound that occurs throughout the cardiac cycle. It is caused by a patent ductus arteriosus, which is a connection between the aorta and the pulmonary artery.

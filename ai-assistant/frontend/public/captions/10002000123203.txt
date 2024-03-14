@@ -1,0 +1,19 @@
+ Image 1:
+First episode of nephrotic syndrome
+Absence of hypertension, hematuria, azotemia
+Prednisolone 2 mg/kg daily for 6 weeks.
+1.5 mg/kg on alternate days for 6 weeks
+
+This is a flowchart that shows the treatment for the first episode of nephrotic syndrome in children. The flowchart is based on the patient's response to treatment. If the patient has infrequent relapses, they are treated with prednisolone 2 mg/kg daily until remission, then 1.5 mg/kg on alternate days for 4 weeks. If the patient has frequent relapses, they are referred for evaluation and alternate day prednisolone is used to maintain remission. The goal of treatment is to achieve remission and prevent relapse.
+
+Image 2:
+Threshold < 0.5 mg/kg on alternate days
+↓
+Alternate day prednisolone for 9-18 months
+
+Threshold > 0.5 mg/kg on alternate days, of steroid toxicity
+Levamisole
+Cyclophosphamide
+Cyclosporin A
+
+This table shows the treatment for nephrotic syndrome in children who have frequent relapses. The treatment is based on the patient's response to treatment. If the patient has a threshold of <0.5 mg/kg on alternate days, they are treated with alternate day prednisolone for 9-18 months. If the patient has a threshold of >0.5 mg/kg on alternate days, they are treated with levamisole, cyclophosphamide, or cyclosporin A. The goal of treatment is to achieve remission and prevent relapse.

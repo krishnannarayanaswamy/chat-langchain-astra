@@ -1,0 +1,54 @@
+ ## GENERAL ANATOMY AND PHYSIOLOGY
+## CARDIOVASCULAR SYSTEM
+
+**Anatomy of Heart**
+- The heart is the primary organ of the cardiovascular system.
+- It is a muscular, four-chambered tube, which pumps blood throughout the body.
+- The heart is divided into four chambers: two atria and two ventricles. The middle (interatrial) septum separates the atria and the muscular wall that separates the ventricles is called the interventricular septum. The heart's conduction system comprises specialized cardiac muscle cells that initiate and coordinate wall contractions.
+- The left side of the heart pumps oxygenated blood from the lungs to the rest of the body. This is known as systemic circulation.
+- The right heart pumps deoxygenated blood to the lungs. This pathway is called pulmonary circulation.
+- Systemic circulation accounts for 80% of the circulation.
+- The coronary arteries serve the right and left coronary arteries, emerge from the aorta and supply the heart muscle with oxygen and nutrients and remove toxins and wastes. 
+
+**Types of Blood Vessels**
+- Arteries carry oxygenated blood away from the heart to the rest of the body.
+- Veins carry deoxygenated blood back to the heart.
+- Capillaries connect the arteries to the veins and allow for the exchange of nutrients, wastes, and gases between the blood and the cells.
+
+**Refer Diagram 27.1**
+
+**Sinus Node**
+- The sinus node (SA node) is a group of specialized cells located in the right atrium near the entrance of the superior vena cava.
+- It is the natural pacemaker of the heart and generates the electrical impulses that initiate each heartbeat.
+
+**Atrioventricular Node**
+- The atrioventricular node (AV node) is a group of specialized cells located at the junction of the atria and ventricles.
+- It delays the electrical impulse slightly, allowing the atria to fill with blood before the ventricles contract.
+
+**Bundle of His**
+- The bundle of His is a group of specialized cells that conducts the electrical impulse from the AV node to the ventricles.
+- It divides into the left and right bundle branches, which carry the impulse to the left and right ventricles, respectively.
+
+**Purkinje Fibers**
+- The Purkinje fibers are a network of specialized cells that conduct the electrical impulse from the bundle branches to the individual myocardial cells.
+- They ensure that the ventricles contract in a coordinated fashion.
+
+**Capillaries**
+- Capillaries are semi-permeable membranes that connect the arteries to the veins.
+- They act as waste-product removal and nutrient/gas exchange sites.
+
+**There are three types of capillaries:**
+- Continuous capillaries: These are the most common type of capillary. They have a single layer of endothelial cells and are found in most tissues.
+- Fenestrated capillaries: These capillaries have small pores (fenestrae) in their endothelial cells. They are found in tissues where there is a need for rapid exchange of substances, such as the intestines and kidneys.
+- Sinusoidal capillaries: These capillaries are large and irregular in shape. They are found in the liver and bone marrow.
+
+**Veins**
+- Veins are thin-walled, low-pressure blood vessels that carry deoxygenated blood back to the heart.
+- The primary function of veins is to transport blood back to the heart.
+- Veins have valves that prevent backward flow.
+
+**Important Terms**
+- Cardiac Volume:
+ - Stroke volume (SV) is the blood pumped by the left or right ventricle in one heartbeat.
+ - End Systolic Volume (ESV): End Systolic Volume is the volume of blood remaining in the ventricles after contraction.
+ - End Diastolic Volume (EDV): End Diastolic Volume is the volume of blood in the ventricles before contraction.

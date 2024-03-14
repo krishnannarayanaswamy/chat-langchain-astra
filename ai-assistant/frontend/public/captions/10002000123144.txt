@@ -1,0 +1,21 @@
+ The image is a table that summarizes the management of type 1 diabetes. It includes information on taking insulin, counting carbohydrates, fats, and protein, blood sugar monitoring, healthy diet, and regular exercise.
+
+**Taking insulin**
+
+There are three types of insulin: short-acting, intermediate-acting, and long-acting. Short-acting insulin starts working 30 minutes after injection and reaches its peak effect at 90 to 120 minutes. It lasts for 4 to 6 hours. Examples of short-acting insulin include Humulin R, Novolin R, and Afrezza. Intermediate-acting insulin starts working 1 to 3 hours after injection and reaches its peak effect at 6 to 8 hours. It lasts for 12 to 24 hours. Examples of intermediate-acting insulin include Insulin NPH (Novolin N, Humulin N). Long-acting and ultra-long-acting insulin provides protection and coverage for 14 to 40 hours. Examples of long-acting and ultra-long-acting insulin include Glargine, detemir, and degludec. Insulin can be delivered using injections or an insulin pump.
+
+**Counting carbohydrates, fats, and protein**
+
+Continuous glucose monitoring (CGM) monitors blood sugar levels. These devices attach to the body using a fine needle under the skin. Blood glucose is thus monitored every few minutes.
+
+**Blood sugar monitoring**
+
+Blood sugar is monitored at least 4 times daily based on the type of insulin therapy selected.
+
+**Healthy diet**
+
+A healthy diet for people with type 1 diabetes includes plenty of fruits, vegetables, and whole grains. It is also important to limit unhealthy fats and added sugar.
+
+**Regular exercise**
+
+Regular exercise is important for people with type 1 diabetes to help keep their blood sugar levels under control.

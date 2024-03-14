@@ -1,0 +1,40 @@
+ Image 1: This is a table summarizing the different types of glomerulonephritis, which is a condition that affects the kidneys. The table lists the different types of glomerulonephritis, their causes, and their symptoms.
+Image 2: This is a table summarizing the different types of glomerulonephritis, which is a condition that affects the kidneys. The table lists the different types of glomerulonephritis, their causes, and their symptoms.
+Text:
+Nephritic Syndrome
+- Acute poststreptococcal glomerulonephritis
+- Rapidly progressive glomerulonephritis
+- Berger disease (IgA glomerulonephropathy)
+- Alport Syndrome
+
+Nephrotic Syndrome
+- Focal segmental glomerulosclerosis
+- Membranous nephropathy
+- Minimal change disease
+- Amyloidosis
+- Diabetic glomerulonephropathy
+
+Minimal Change Disease
+- Idiopathic, NSAIDs, lymphoma, allergies
+- Normal glomeruli
+- Effacement of podocyte foot processes
+
+Focal Segmental Glomerulosclerosis
+- Idiopathic, genetic, HIV, heroin use, obesity, hypertension
+- Sclerosis and hyalinosis in a segment of glomeruli
+- Effacement of podocyte foot processes
+
+Membranous Nephropathy
+- Idiopathic, autoimmune diseases (e.g., SLE), infections, drugs, malignancies
+- Thickening of glomerular capillary walls, "spike" formations
+- Subepithelial electron-dense immune deposits, thickening of basement membrane
+
+Diabetic Nephropathy
+- Long-standing diabetes mellitus
+- Diffuse or nodular thickening of glomerular mesangial expansion, Kimmelstiel-Wilson nodules
+- Diffuse or nodular thickening of glomerular basement membrane, mesangial expansion
+
+Amyloid Nephropathy
+- Primary (AL) amyloidosis, secondary (AA) amyloidosis due to chronic inflammatory conditions
+- Amorphous, eosinophilic, acellular deposits in mesangium and glomerular capillary walls, Congo red stain shows apple-green birefringence under polarized light
+- Fibrillary, non-branching amyloid deposits

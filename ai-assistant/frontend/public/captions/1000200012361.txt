@@ -1,0 +1,7 @@
+ The image is a flowchart that provides an algorithm for the treatment of active ulcerative colitis. The algorithm is based on the severity of the disease, as well as the response to treatment.
+
+The first step in the algorithm is to determine the severity of the disease. This is done based on the patient's symptoms, as well as the extent of the inflammation. If the disease is mild to moderate, then the patient may be treated with topical 5-ASA. If the disease is extensive, or if the patient does not respond to topical 5-ASA, then they may be treated with oral and topical 5-ASA.
+
+If the patient does not respond to oral and topical 5-ASA, then they may be treated with oral and topical 5-ASA + oral corticosteroid. If the patient does not respond to this treatment, then they may be treated with azathioprine or 6-mercaptopurine. If the patient does not respond to this treatment, then they may be treated with infliximab or cyclosporine.
+
+If the patient has severe disease, then they may be treated with admission, methylprednisolone or hydrocortisone. If the patient does not respond to this treatment, then they may be treated with cyclosporine or infliximab. If the patient does not respond to this treatment, then they may be treated with colectomy.

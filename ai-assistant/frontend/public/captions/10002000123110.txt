@@ -1,0 +1,48 @@
+ + 32 DEEP VENOUS THROMBOSIS
+
+DVT, by definition, is a blood clot in any deep vein.
+It usually occurs in lower limbs.
+DVT is a serious condition due to the potential migratory property of these clots.
+
+**Epidemiology**
+DVT is classified as Common.
+It affects more than 1 million cases per year in India.
+
+**Etiology and Risk Factors**
+The three factors included in Virchow's triad can potentially cause DVT: Venous stasis, hypercoagulability and Endothelial lining changes.
+
+**Factors Increasing Risk for Venous Thromboembolism**
+Age>60 (After age 50, risk doubles every 10 years.)
+Cigarette smoking (active and passive)
+Prior VTE (most significant risk factor for DVT and PE)
+Venous stasis (Contributing factors include CHF, MI, major surgery, obesity, sickle cell anemia, stroke, varicose veins.)
+Injury to vasculature (Contributing factors include Knee and hip replacement surgery, hip and leg fractures, indwelling venous catheters.)
+Hypercoagulability (Contributing factors include elevated homocysteine levels, inflammatory bowel disease, malignancy, pregnancy/postpartum, hereditary deficiencies, gene mutations.)
+Immobilization
+Obesity
+Medication therapy
+Oral contraceptives with estrogen; hormone therapy with estrogen; selective estrogen-receptor modulators (e.g., tamoxifen, raloxifene); heparin-induced thrombocytopenia
+Nephrotic syndrome
+
+**Signs and Symptoms**
+Swelling of the leg or arm
+Pain or tenderness while standing or walking
+Feeling of warmth in swollen area
+Red or discoloured skin
+
+**Pathophysiology and Clinical Features**
+Refer Flow Chart 32.1
+
+**Diagnosis**
+The first step of the diagnostic process is an assessment using Wells Score
+
+| Well score | Criteria | Points |
+| :--- | :--- | :---: |
+|  | Clinical signs/symptoms of DVT | 3 |
+|  | PE is more likely diagnosis | 3 |
+|  | Tachycardia (> 100 bpm) | 1.5 |
+|  | Swelling of the leg or arm | 1.5 |
+|  | Immobilization/ surgery in previous 4 weeks | 1.5 |
+|  | Prior DVT/PE | 1.5 |
+|  | Hemoptysis | 1 |
+|  | Active malignancy (trt w/in 6 months) | 1 |

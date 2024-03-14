@@ -1,0 +1,13 @@
+ The image is about Diphtheria. It is an acute bacterial disease characterized by inflammation of the mucous membranes. The most distinguishable feature of diphtheria is the formation of a false membrane in the throat, hindering breathing and swallowing. The disease is highly contagious.
+
+**Epidemiology**
+Diphtheria is classified as a Very Rare disease. It affects fewer than 100 thousand cases in India.
+
+**Diagnosis**
+Diagnosis is predominantly made from clinical examination. Laboratory findings are used to classify the sub type of bacteria.
+
+**Etiology, Signs and Symptoms**
+Diphtheria is caused by Corynebacterium diphtheriae. Although the disease usually have a mild and asymptomatic clinical course, 10% fatality is observed globally. Diphtheria is usually spread through air and between direct contact of infected people. The symptoms appear usually 2-7 days after infection. High grade fever with chills, Fatigue, Sore throat, hoarseness, cough, headache etc are usually observed. The characteristic white patch, also known as the psuedo-membrane, is formed by rapid destruction of healthy respiratory cells.
+
+**Treatment**
+Refer Flow Chart 84.2

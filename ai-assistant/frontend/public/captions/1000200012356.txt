@@ -1,0 +1,5 @@
+ The image is a flowchart of the proposed treatment for irritable bowel syndrome (IBS). The flowchart is divided into three sections: first-line, second-line, and third-line treatment.
+
+First-line treatment includes osmotic laxatives for constipation and antispasmodics for abdominal pain. Second-line treatment includes secretagogues for constipation and rifaximin for diarrhea. Third-line treatment includes low-dose tricyclic antidepressants or serotonin and norepinephrine reuptake inhibitors for abdominal pain and brain-gut behavioral therapies for psychological symptoms.
+
+The flowchart also includes information about the provider-patient relationship, education and reassurance, lifestyle modification, and dietary modifications.

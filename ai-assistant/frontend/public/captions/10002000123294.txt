@@ -1,0 +1,16 @@
+ The image is about Chicken Pox. It includes introduction, signs and symptoms, epidemiology, treatment and pathophysiology.
+
+**Introduction**
+Chickenpox is a viral, highly contagious disease caused by the Varicella-Zoster virus. The most distinguishable feature of chickenpox is an itchy, blister-like rash on the skin. The disease is usually self diagnosable.
+
+**Epidemiology**
+Chickenpox is classified as a Rare disease. It affects fewer than 1 million cases in India.
+
+**Signs and Symptoms**
+Early symptoms include nausea, myalgia, headache and loss of appetite. This is followed by rash, oral sores, malaise, and a fever which is often low grade. In children, rash may occur first. When blisters start to pop out, intense itching may present. Fever progressively gets higher grade.
+
+**Pathophysiology and Clinical Findings**
+Refer Flow Chart 83.1
+
+**Treatment**
+Refer Flow Chart 83.2

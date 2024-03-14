@@ -1,0 +1,99 @@
+ Cardiac muscle
+- Involuntary control: Found in the heart, responsible for
+pumping blood.
+- Striated appearance: Actin and myosin filaments arranged in
+a regular pattern like skeletal muscles.
+- Intercalated discs: Unique cell junctions that enable
+synchronised contractions.
+- Autorhythmicity: Capable of generating its own electrical
+impulses, regulated by the heart's pacemaker cells.
+- Limited regeneration capacity: Cardiac muscle cells have
+limited ability to regenerate after injury.
+
+Structure of Skeletal Muscle Fibre
+Refer Diagram 60.1
+Muscle fibres: Long, cylindrical, and multinucleated cells
+that make up skeletal muscles. They contain numerous
+myofibrils.
+- Myofibrils: Thread-like structures within muscle fibres,
+composed of repeating units called sarcomeres. They are
+responsible for muscle contraction.
+- Sarcomeres: The basic functional unit of a myofibril,
+containing myofilaments (actin and myosin) responsible for
+muscle contractions. They are marked by Z lines.
+- Myofilaments: Protein filaments, including actin (thin
+filaments) and myosin (thick filaments), that interact during
+muscle contraction.
+- A band: The dark, central region of a sarcomere containing
+overlapping actin and myosin filaments.
+- I band: The light region of a sarcomere, containing only actin
+filaments, and located between adjacent Abands.
+- Z line (Z disc): Thin, dark lines that bisect I bands and mark
+the boundaries of sarcomeres. They anchor the actin
+filaments.
+- H zone: The central region of the A band in which there are no
+overlapping actin filaments, only myosin filaments. During
+muscle contraction, the H zone becomes shorter as the actin
+filaments slide further into it.
+
+Muscle contraction and relaxation
+- The four actions necessary for muscle contraction and
+relaxation.
+1. Excitation - Action potentials in the nerve lead to the
+formation of action potentials in a muscle fibre.
+2. Excitation- Contraction Coupling - action potentials on the
+sarcolemma activate myofilaments.
+3. Contraction - Shortening of a muscle fibre or at least the
+formation of tension.
+4. Relaxation - The return of a muscle fibre to its resting length.
+
+Neuromuscular junction and acetylcholine
+- Neuromuscular junction (NMJ) is the synapse between
+motor neurons and muscle fibres
+- Motor neurons release the neurotransmitter acetylcholine
+(ACh) into the synaptic cleft
+- ACh binds to nicotinic receptors on the muscle cell
+membrane, creating an action potential
+- Action potential triggers the release of calcium ions from SR,
+initiating muscle contraction
+- Acetylcholinesterase enzyme breaks down ACh, terminating
+the signal
+Refer Diagram 60.2
+
+The sliding filament theory
+- Describes the mechanism of muscle contraction at a
+molecular level
+- Involves interactions between actin (thin) and myosin (thick)
+protein filaments within sarcomeres
+- Upon muscle activation, myosin heads attach to actin
+filaments, forming cross-bridges
+- Myosin heads pull actin filaments towards the sarcomere
+centre in a "power stroke" motion
+- Contraction continues as long as ATP is available and
+calcium ions are present
+- Sarcomere shortens, leading to overall muscle contraction
+Refer Diagram 60.3
+
+Adenosine provides energy for myosin head "power stroke"
+during contraction
+- ATP binds to myosin, allowing detachment from actin after
+the power stroke
+- ATP is hydrolysed, re-energising myosin head for the next
+contraction cycle
+- Sustained muscle contraction depends on continuous ATP
+supply
+
+Role of calcium ions and the sarcoplasmic reticulum
+- Sarcoplasmic reticulum (SR) is a specialised endoplasmic
+reticulum found in muscle cells
+- Stores and releases calcium ions, which are crucial for
+muscle contraction
+- Upon muscle activation, SR releases calcium ions into the
+sarcoplasm
+- Calcium ions bind to troponin, causing a conformational
+change in tropomyosin
+- This change exposes myosin-binding sites on actin filaments,
+allowing cross-bridge formation
+- Muscle contraction stops when calcium ions are pumped
+back into the SR
+Refer Diagram 60.4

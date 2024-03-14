@@ -1,0 +1,41 @@
+ ## **Flow Chart 76.1**
+### **Motor Neuron Disease**
+
+**Upper Motor Neuron disorders**
+- Primary Lateral Sclerosis (PLS)
+- Pseudobulbar palsy
+
+**Lower Motor Neuron disorders**
+- Progressive muscular atrophy
+- Spinal muscular atrophy
+- Progressive bulbar palsy
+- Kennedy disease
+
+**Upper and Lower motor neuron disorders**
+- Amyotrophic Lateral Sclerosis (ALS)
+
+---
+
+**Explanation:**
+
+The flow chart shows the classification of motor neuron diseases. Motor neuron diseases are a group of conditions that affect the nerves that control movement. They can be classified into upper motor neuron disorders, lower motor neuron disorders, and upper and lower motor neuron disorders.
+
+**Upper motor neuron disorders** affect the nerves that carry signals from the brain to the spinal cord. This can cause weakness, stiffness, and difficulty with coordination.
+
+**Lower motor neuron disorders** affect the nerves that carry signals from the spinal cord to the muscles. This can cause muscle weakness, atrophy, and difficulty with movement.
+
+**Upper and lower motor neuron disorders** affect both the upper and lower motor neurons. This can cause a combination of symptoms, including weakness, stiffness, difficulty with coordination, muscle atrophy, and difficulty with movement.
+
+**Examples of motor neuron diseases include:**
+
+- Amyotrophic lateral sclerosis (ALS) is a progressive disease that affects both the upper and lower motor neurons. It is also known as Lou Gehrig's disease.
+
+- Primary lateral sclerosis (PLS) is a chronic, progressive disease that affects the upper motor neurons.
+
+- Spinal muscular atrophy (SMA) is a genetic disease that affects the lower motor neurons. It is the most common genetic cause of death in infants.
+
+- Progressive muscular atrophy (PMA) is a rare disease that affects the lower motor neurons. It is characterized by a gradual loss of muscle mass and strength.
+
+- Pseudobulbar palsy (PBP) is a condition that affects the nerves that control the muscles of the face and throat. It can cause difficulty with speaking, swallowing, and facial expressions.
+
+- Kennedy disease is a genetic disease that affects the lower motor neurons and the endocrine system. It is characterized by muscle weakness, tremors, and difficulty with speech and swallowing.

@@ -1,0 +1,103 @@
+ + + +
+
+2 GENERAL PHYSIOLOGY-HEMATOLOGY
+
+**Primary Hemostasis**
+- The first step in clotting of blood is primary hemostasis, which results in the formation of a platelet plug. 
+- The very first response after an endothelial injury is Vasoconstriction.
+
+**Steps of primary Hemostasis**
+
+**1) Endothelial Injury**
+- Endothelin,
+- Vascular Spasm
+
+**2) Exposure**
+- Damaged
+- Endothelial Cells
+- Von Willebrand's
+- Factor
+
+**3) Adhesion**
+- Platelet
+- GP1B
+
+**4) Activation**
+- Collagen
+- Serotonin
+- VWF
+- Ca2+
+- Adenosine
+- Diphosphate (ADP)
+- Blood
+- Thromboxane A2
+- Unbound Platelets
+- at Injury Site
+
+**5) Aggregation**
+- Fibrinogen
+- GPIB/IIIA
+- Platelet Plug
+
+**Coagulation Cascade**
+
+- Extrinsic Pathway
+- Damaged
+- Tissue
+- Injury
+- Exposed
+- Collagen
+- Tissue factor
+- HMW kinnogen
+- XIIa
+- XII
+- IIIa
+- (III)
+- Ca
+- Xla
+- XI
+- Smooth Muscle Cells
+- Contraction
+- Ca
+- IXa
+- IX
+- VII
+- Thrombin
+- VII-III
+- Factor x
+- activator
+- VIIIa
+- VIII
+- complex
+- complex
+
+- Common Pathway
+- X
+- Prothrombin
+- Ca
+- Xa
+- Platelet
+- Phosphlipids
+- (prothrombinase)
+- Xa
+- X
+- XIII
+- Thrombin
+- Fibrinogen
+- Fibrin
+- Cross-
+- linking of
+- fibrin!
+
+- **Hemophilia A:** Deficiency of factor VIII (XR).
+- **Hemophilia B:** Deficiency of factor IX (XR).
+- **Hemophilia C:** Deficiency of XI (AR).
+
+**Thrombogenesis**
+Refer Image 2.1
+
+- Thrombogenesis refers to the physiological process which leads to the formation of the blood clot.
+- In an exam POV, the most important knowledge to be gained here is the action of various drugs. In the given flowchart, focus on the blocking sites of different drugs:
+
+**Vitamin K Pathway**
+Refer Image 2.2
