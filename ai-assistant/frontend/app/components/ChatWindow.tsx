@@ -220,7 +220,7 @@ export function ChatWindow(props: { conversationId: string }) {
           mb={1}
           color={"white"}
         >
-          Prepladder AI Asistant
+           AI Asistant
         </Heading>
         {messages.length > 0 ? (
           <Heading fontSize="md" fontWeight={"normal"} mb={1} color={"white"}>
@@ -234,7 +234,7 @@ export function ChatWindow(props: { conversationId: string }) {
             marginTop={"10px"}
             textAlign={"center"}
           >
-            Welcome to Prepladder AI Assistant. Ask me Academic questions
+            Welcome to AI Assistant. Ask me Academic questions
           </Heading>
         )}
         <div className="text-white flex flex-wrap items-center mt-4">
