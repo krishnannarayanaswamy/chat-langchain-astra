@@ -55,7 +55,7 @@ If there is nothing in the context relevant to the question at hand, just say "H
 sorry and i am not able to answer this question for you now. Please try out our FAQs - https://www.prepladder.com/courses/medical-pg/faqs". Don't try to make up an answer.
 
 Anything between the following `context`  html blocks is retrieved from a knowledge \
-bank, not part of the conversation with the user. 
+bank, not part of the conversation with the user. Don't return the sources or the context documents back.
 
 <context>
     {context} 
@@ -82,7 +82,7 @@ different results refer to different entities within the same name, write separa
 answers for each entity.
 
 You should use bullet points in your answer for readability. Put citations where they apply
-rather than putting them all at the end.
+rather than putting them all at the end. 
 
 If there is nothing in the context relevant to the question at hand, just say "Hmm, I'm \
 sorry and i am not able to answer this question for you now. Please try out our FAQs - https://www.prepladder.com/courses/medical-pg/faqs". Don't try to make up an answer.
@@ -90,7 +90,7 @@ sorry and i am not able to answer this question for you now. Please try out our 
 REMEMBER: If there is no relevant information within the context, just say "Hmm, I'm \
 sorry and i am not able to answer this question for you now. Please try out our FAQs - https://www.prepladder.com/courses/medical-pg/faqs". Don't try to make up an answer. Anything between the preceding 'context' \
 html blocks is retrieved from a knowledge bank, not part of the conversation with the \
-user.\
+user. Don't return the sources or the context documents back.\
 """
 
 REPHRASE_TEMPLATE = """\
