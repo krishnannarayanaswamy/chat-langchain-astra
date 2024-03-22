@@ -123,7 +123,7 @@ def ingest_docs():
     docs_transformed = [doc for doc in docs_transformed if len(doc.page_content) > 10]
 
     # We try to return 'source' and 'title' metadata when querying vector store and
-    # Weaviate will error at query time if one of the attributes is missing from a
+    # Astra will error at query time if one of the attributes is missing from a
     # retrieved document.
     for doc in docs_transformed:
         if "source" not in doc.metadata:
@@ -131,15 +131,10 @@ def ingest_docs():
         if "title" not in doc.metadata:
             doc.metadata["title"] = ""
 
-    indexing_stats = index(
-        docs_transformed,
-        vectorstore,
-        cleanup="full",
-        source_id_key="source",
-        force_update=(os.environ.get("FORCE_UPDATE") or "false").lower() == "true",
-    )
+    inserted_ids = vectorstore.add_documents(docs_transformed)
+    print(f"\nInserted {len(inserted_ids)} documents.")
 
-    logger.info(f"Indexing stats: {indexing_stats}")
+    #logger.info(f"Indexing stats: {indexing_stats}")
     #num_vecs = client.query.aggregate(WEAVIATE_DOCS_INDEX_NAME).with_meta_count().do()
     #logger.info(
     #    f"LangChain now has this many vectors: {num_vecs}",
