@@ -53,3 +53,18 @@ Looking to use or modify this Use Case Accelerant for your own needs? We've adde
 - **[LangSmith](./LANGSMITH.md)**: A guide on adding robustness to your application using LangSmith. Covers observability, evaluations, and feedback.
 - **[Production](./PRODUCTION.md)**: Documentation on preparing your application for production usage. Explains different security considerations, and more.
 - **[Deployment](./DEPLOYMENT.md)**: How to deploy your application to production. Covers setting up production databases, deploying the frontend, and more.
+
+
+## Deploy backedn in Cloud Run in GCP
+
+gcloud components update
+
+gcloud auth login
+
+gcloud config set run/region asia-southeast1
+
+gcloud auth configure-docker
+
+poetry export -f requirements.txt --output requirements.txt --without-hashes
+
+gcloud run deploy prepladder-aiassistant --port 8080 --source .

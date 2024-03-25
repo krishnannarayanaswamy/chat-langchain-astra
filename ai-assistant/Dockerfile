@@ -1,15 +1,13 @@
-FROM python:3.11-buster
+FROM python:3.11
+ENV PYTHONUNBUFFERED True
 
-RUN pip install poetry==1.5.1
+RUN pip install --upgrade pip
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r  requirements.txt
 
-RUN poetry config virtualenvs.create false
+ENV APP_HOME /root
+WORKDIR $APP_HOME
+COPY ./backend/*.py $APP_HOME/backend/
 
-COPY ./pyproject.toml ./poetry.lock* ./
-
-RUN poetry install --no-interaction --no-ansi --no-root --no-directory
-
-COPY ./backend/*.py ./backend/
-
-RUN poetry install  --no-interaction --no-ansi
-
+EXPOSE 8080
 CMD exec uvicorn backend.main:app --host 0.0.0.0 --port 8080
